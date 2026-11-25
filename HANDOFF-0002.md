@@ -20,7 +20,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 1:11** is recorded in STUDIES/0011-GENESIS-1-11.md.
 - **Genesis 1:12** is recorded in STUDIES/0012-GENESIS-1-12.md.
 - **Genesis 1:13** is recorded in STUDIES/0013-GENESIS-1-13.md.
-- **Next passage: Genesis 1:14–19 (KJV).**
+- **Genesis 1:14–19** is recorded in STUDIES/0014-GENESIS-1-14-19.md.
+- **Next passage: Genesis 1:20–23 (KJV).**
 
 ## Governing decision: unified investigation
 
@@ -91,9 +92,10 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 1:11 investigated and recorded.
 - [x] Genesis 1:12 investigated and recorded.
 - [x] Genesis 1:13 investigated and recorded.
+- [x] Genesis 1:14–19 investigated and recorded.
 
 ## Next session instruction
 
-Resume at **Genesis 1:14–19 (KJV)**. Investigate the fourth-day command concerning the lights in the firmament; their stated functions of dividing day and night, serving as signs, marking seasons, days, and years; the two great lights and the stars; their placement and rule over day and night; the declaration that God saw that it was good; and the evening/morning formula. Examine the Hebrew terms translated “lights,” “signs,” “seasons,” “days,” and “years.” Investigate the relationship between light introduced on day one and the luminaries introduced on day four. Compare with astronomy and the observable roles of the Sun, Moon, and stars, distinguishing present-day scientific descriptions from claims about the narrated beginning. Preserve unresolved questions about the text's sequence and the relationship between light and its appointed luminaries.
+Resume at **Genesis 1:20–23 (KJV)**. Investigate the fifth-day command for the waters to bring forth abundantly living creatures and for fowl to fly above the earth; the fulfillment report describing great sea creatures and every living creature that moves in the waters, and winged fowl, each according to kind; God's blessing and command to be fruitful, multiply, and fill the waters and the earth; and the evening/morning formula. Examine Hebrew terms for “abundantly,” “moving creature,” “living creature,” “great whales/sea creatures,” “kind,” “winged fowl,” “bless,” “fruitful,” “multiply,” and “fill.” Compare command and fulfillment. Investigate aquatic and avian biology without equating ancient categories with modern taxonomic groups or claiming the passage supplies a complete account of evolutionary or ecological mechanisms. Preserve the distinction between text and present-day scientific observations.
 
 **Study remains open.**
