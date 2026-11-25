@@ -108,7 +108,7 @@ Record the wording and reason for each important classification.
 - **Scientific coherence:** Is any scientific claim being made? If not, mark not applicable to this Bible-study record. Scientific claims must be evaluated against relevant evidence, methods, competing models, and uncertainty.
 - **GUA-W consistency:** Does the claim preserve the governing Source-to-Witness order and the established GUA-W distinctions?
 
-Result: accepted for this study / revise / unresolved / outside this tool's scope.
+Result: admissible for this study / revise / unresolved / defer for further investigation.
 
 ## 10. Findings and open questions
 
