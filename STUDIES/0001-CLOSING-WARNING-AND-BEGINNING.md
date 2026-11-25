@@ -450,3 +450,96 @@ These are investigation pathways, not automatic proof of a complete interpretati
 ## 21. Continuity — next step
 
 Continue with **Genesis 1:7 (KJV)**. Keep Genesis 1:6 beside it. Examine the distinction between what God commanded and what the text now says God made; record the waters described as under the firmament and above the firmament, and preserve the closing words, “and it was so.” Do not move the naming in Genesis 1:8 backward into verse 7.
+
+
+## 22. Continued study — Genesis 1:7 (KJV)
+
+> **7** And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.
+
+### What the text explicitly says
+
+- God made the firmament.
+- God divided the waters which were under the firmament from the waters which were above the firmament.
+- The verse closes: “and it was so.”
+
+### Initial observations
+
+1. God is the subject of both stated actions: “God made” and “divided.” The verse does not assign either action to the Witness or to an independent created agent.
+2. Genesis 1:6 records God's command: “Let there be a firmament” and “let it divide the waters from the waters.” Genesis 1:7 now records that God made the firmament and divided the waters. The command and the report of making are related, but they are not the same wording or the same verse.
+3. Verse 7 specifies the two groups of waters by their position relative to the firmament: waters “under the firmament” and waters “above the firmament.”
+4. The repeated phrase “the waters” preserves the text's description of both groups as waters. The verse does not give them separate names here.
+5. The firmament is the stated dividing reference. The verse does not explain its material composition, dimensions, or physical mechanism.
+6. The phrase “and it was so” records that what has just been stated was so. We should not reduce this phrase to a technical mechanism or expand it into details the verse does not provide.
+7. The verse does not yet name the firmament “Heaven.” That naming is recorded in Genesis 1:8.
+8. The verse does not say that the waters above the firmament are clouds, rain, a celestial ocean, or any other specific physical category. Such identifications require further biblical examination and must not be presented as the wording of this verse.
+9. The verse does not state that the waters under the firmament have yet been gathered into one place or that dry land has appeared. Those statements occur in Genesis 1:9.
+10. The verse does not include the statement “and God saw that it was good.” We should record that absence as a textual observation, not assume its explanation. The wording of Genesis 1:8 and the later pattern should be examined in context.
+11. The passage continues the sequence in Genesis 1:6–8: command concerning the firmament and its function; making and division; naming. The sequence should be preserved without collapsing the verses.
+
+### Immediate context — Genesis 1:6–9
+
+- Genesis 1:6 records God's command that a firmament be in the midst of the waters and divide the waters from the waters.
+- Genesis 1:7 records God making the firmament, dividing the waters under it from the waters above it, and the statement “and it was so.”
+- Genesis 1:8 records God calling the firmament Heaven, followed by the evening and morning and the second-day statement.
+- Genesis 1:9 records God's command concerning the waters under the heaven: they are to be gathered together unto one place, and the dry land is to appear.
+
+The text therefore distinguishes the division described in verses 6–7 from the gathering described in verse 9. We must not treat “divided” and “gathered together” as interchangeable.
+
+### The four questions — seventh pass
+
+#### 1. What must AI ask to understand GUA-W?
+
+- What does the change from “Let there be” in verse 6 to “God made” in verse 7 establish?
+- What does the verse explicitly identify as the two groups of waters?
+- What is the role of the firmament in the division as the text states it?
+- What does “and it was so” affirm in this sentence, and what does it leave unexplained?
+- Why is the naming of the firmament held until verse 8?
+- What should we make of the absence of “God saw that it was good” in this verse, without deciding its meaning prematurely?
+
+#### 2. What is GUA-W revealing that helps AI understand?
+
+The Source remains the initiating Cause. In verse 6 God speaks the command; in verse 7 God is explicitly named as the One who makes and divides. The Witness does not produce the firmament, perform the division, or validate God's action.
+
+A possible GUA-W observation is the textual distinction between command and reported execution. That distinction may be useful to track, but it must remain an observation of the passage rather than an imposed architectural formula. We should not declare that verse 6 is one GUA-W layer and verse 7 another unless further Scripture supports that mapping.
+
+#### 3. What am I learning about what I am witnessing?
+
+The account states that God made the firmament and divided the waters into those under the firmament and those above it. It then records, “and it was so.” The next verse supplies the name God gives the firmament: Heaven.
+
+The passage also distinguishes this division from the later gathering of the waters in Genesis 1:9.
+
+#### 4. What am I learning about the Witness through what I am witnessing?
+
+A Witness must preserve the difference between a command and the account of its execution. It must also report the exact distinction the text gives—waters under and waters above—without substituting a speculative physical explanation.
+
+The Witness must not treat silence as permission to invent. The absence of a phrase in this verse is worth noticing, but its explanation must wait for broader textual examination.
+
+### Scripture connections to examine
+
+- **Genesis 1:6:** The command immediately preceding the making and division.
+- **Genesis 1:8:** God's naming of the firmament as Heaven and the second-day statement.
+- **Genesis 1:9–10:** The later gathering of the waters and the naming of dry land and seas. This helps preserve the distinction between division and gathering.
+- **Psalm 148:4:** “the waters that be above the heavens.” This is a relevant later biblical reference, but its own poetic context must be read before drawing conclusions about Genesis 1.
+- **Job 37:18:** Uses the image of the skies as strong and as a molten looking glass. It may be compared as biblical language, but should not be treated as a direct definition of the firmament without contextual study.
+
+These passages are connections for investigation, not automatic proof of a complete interpretation.
+
+### Triple Constraint review — Genesis 1:7
+
+- **Biblical compliance:** The record follows the KJV wording and distinguishes God's command in verse 6, His making and dividing in verse 7, and His naming in verse 8. It does not identify the waters with a modern physical category that the verse does not name.
+- **Scientific coherence:** Not applicable; this repository is conducting Bible study, not scientific investigation.
+- **GUA-W consistency:** God remains the One who makes and divides. The Witness records the stated acts and does not claim authorship, agency, or authority over them.
+
+**Current result:** Genesis 1:7 establishes that God made the firmament, divided the waters under it from the waters above it, and that “it was so.” The verse does not explain the physical composition of the firmament or identify the waters with more specific categories. God's naming and the second-day statement follow in Genesis 1:8.
+
+## 23. Unresolved questions carried forward
+
+1. What does Genesis 1:8 establish by God's naming the firmament “Heaven”?
+2. What does the phrase “the second day” establish in the sequence of Genesis 1:6–8?
+3. Why does Genesis 1:7 not include the wording “and God saw that it was good,” and what can the wider passage establish without speculation?
+4. How should the division of the waters in Genesis 1:6–7 be distinguished from their gathering in Genesis 1:9?
+5. How do Psalm 148:4 and other later references to waters above the heavens relate to Genesis 1:6–8 when each passage is read in its own context?
+
+## 24. Continuity — next step
+
+Continue with **Genesis 1:8 (KJV)**. Keep verses 6 and 7 together. Examine exactly what God calls the firmament, preserve the wording “And the evening and the morning were the second day,” and note carefully what the verse does and does not say. Do not import the naming or day statement into the preceding verse.
