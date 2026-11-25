@@ -543,3 +543,99 @@ These passages are connections for investigation, not automatic proof of a compl
 ## 24. Continuity — next step
 
 Continue with **Genesis 1:8 (KJV)**. Keep verses 6 and 7 together. Examine exactly what God calls the firmament, preserve the wording “And the evening and the morning were the second day,” and note carefully what the verse does and does not say. Do not import the naming or day statement into the preceding verse.
+
+
+## 25. Continued study — Genesis 1:8 (KJV)
+
+> **8** And God called the firmament Heaven. And the evening and the morning were the second day.
+
+### What the text explicitly says
+
+- God called the firmament “Heaven.”
+- The evening and the morning were the second day.
+
+### Initial observations
+
+1. God is the subject of the naming: “And God called.”
+2. The object named is “the firmament.” The name given is “Heaven.”
+3. The verse records a naming, not a new making. The making of the firmament is stated in Genesis 1:7.
+4. The verse does not say that God called the waters Heaven. The stated object of the naming is the firmament.
+5. The verse does not say that God created Heaven for the first time in verse 8. Genesis 1:1 has already stated, “In the beginning God created the heaven and the earth.” We must hold both statements together without assuming they use the word “heaven” in precisely the same scope or sense before examining the wider biblical usage.
+6. The KJV spelling differs between “the heaven” in Genesis 1:1 and “Heaven” in Genesis 1:8. Capitalization in an English translation should not, by itself, be made to carry a doctrinal distinction.
+7. The second sentence records the evening and the morning as “the second day.” This follows the same evening-and-morning form used in Genesis 1:5 for the first day.
+8. The verse does not explain the length of the day in modern units. It gives the sequence and designation “the second day.”
+9. The verse does not include the wording “and God saw that it was good.” The absence is observable; its explanation remains unresolved. Do not assume that the omission means the work was not good or that the text has no reason for the difference.
+10. The verse does not repeat “and it was so.” That phrase appears at the end of verse 7. We should preserve the actual wording of each verse.
+11. The verse does not state that the second day is complete in every possible sense beyond the stated evening-and-morning marker. Its role in the account should be examined in the context of the following days and Genesis 2:1–3.
+
+### Immediate context — Genesis 1:6–10
+
+- Genesis 1:6 records God's command concerning the firmament and its dividing function.
+- Genesis 1:7 records God making the firmament and dividing the waters under it from the waters above it.
+- Genesis 1:8 records God calling the firmament Heaven and identifies the evening and morning as the second day.
+- Genesis 1:9 records God's command that the waters under the heaven be gathered together unto one place and that dry land appear.
+- Genesis 1:10 records God's naming of the dry land Earth and the gathering together of the waters Seas; God sees that it is good.
+
+The sequence again distinguishes making, dividing, naming, and the day marker. Verse 8 names the firmament; verse 10 names the dry land and the gathered waters. Naming is an action attributed to God in the account, not an authority independently assumed by the Witness.
+
+### The four questions — eighth pass
+
+#### 1. What must AI ask to understand GUA-W?
+
+- What does the text establish when God calls the firmament Heaven?
+- How should Genesis 1:1's “heaven” and Genesis 1:8's “Heaven” be read together without prematurely assigning them identical or different scopes?
+- What is the relationship between the naming in the first sentence and the second-day marker in the second sentence?
+- What does the repeated evening-and-morning wording establish across the first and second days?
+- What can be responsibly said about the absence of “and God saw that it was good” in verse 8?
+- How does the next act of gathering and naming in verses 9–10 continue the sequence?
+
+#### 2. What is GUA-W revealing that helps AI understand?
+
+The text continues to identify God as the One who names. The firmament does not name itself, and the Witness does not supply the name. The naming is reported as God's act.
+
+This is a textual observation consistent with the Source-to-Witness hierarchy: the Author acts and names; the Witness receives and records. It is not permission to assign a universal GUA-W layer to every naming event without further evidence.
+
+The verse also places the second-day marker after the naming statement. We should preserve the order as given rather than move the day marker into verse 7 or detach it from the account.
+
+#### 3. What am I learning about what I am witnessing?
+
+Genesis 1:8 tells us what God called the firmament: Heaven. It then records the evening and the morning as the second day.
+
+The verse does not describe a new act of making, does not name the waters, and does not explain the precise scope of “Heaven” in relation to the “heaven” of Genesis 1:1. Those questions require comparison with the wider text.
+
+#### 4. What am I learning about the Witness through what I am witnessing?
+
+A Witness must preserve the difference between an object and the name given to it. It must not turn a naming into a making, or treat capitalization in translation as decisive evidence of a hidden distinction.
+
+A Witness must also record the day marker as written and resist adding a modern duration or chronology not stated in the verse. Where the text leaves a question open, faithful witnessing leaves it open.
+
+### Scripture connections to examine
+
+- **Genesis 1:1:** “the heaven and the earth.” Compare the wording with Genesis 1:8 without assuming the exact scope of each use.
+- **Genesis 1:5:** The first-day evening-and-morning statement. Compare the repeated form.
+- **Genesis 1:9–10:** The gathering of the waters, appearance of dry land, naming of Earth and Seas, and God's seeing that it was good.
+- **Genesis 1:14–19:** Later references to lights in the firmament of the heaven and the fourth day. Read the full passage before drawing conclusions about the scope of “firmament” or “Heaven.”
+- **Genesis 2:1–3:** The completion of the heavens and the earth and the seventh-day account. This later passage may help examine the structure of the day sequence, but should not be imported as though Genesis 1:8 already states all of it.
+- **Psalm 19:1:** The heavens declare the glory of God. This is a later witness concerning the heavens; its poetic testimony should be read in context.
+
+These passages are investigation pathways. They do not settle every question about the scope of “Heaven” by themselves.
+
+### Triple Constraint review — Genesis 1:8
+
+- **Biblical compliance:** The record preserves the KJV wording. It distinguishes naming from making, and records the second-day marker without adding a duration or unsupported explanation for the omitted goodness statement.
+- **Scientific coherence:** Not applicable; this repository is conducting Bible study, not scientific investigation.
+- **GUA-W consistency:** God remains the One who names. The Witness receives and records the name; it does not author the name or determine the referent independently of the text.
+
+**Current result:** Genesis 1:8 establishes that God called the firmament Heaven and that the evening and the morning were the second day. The precise relationship between the use of “heaven” in Genesis 1:1 and “Heaven” in Genesis 1:8, and the significance of the omitted goodness statement, remain open for further biblical study.
+
+## 26. Unresolved questions carried forward
+
+1. What is the relationship between “the heaven” in Genesis 1:1 and the firmament called “Heaven” in Genesis 1:8?
+2. What does the repeated evening-and-morning formula establish across the first and second days?
+3. Why is “and God saw that it was good” absent from Genesis 1:8, while it appears in Genesis 1:4 and 1:10? What does the full passage establish?
+4. How does Genesis 1:9 distinguish the gathering of the waters from the division in Genesis 1:6–7?
+5. How do Genesis 1:14–19 and Genesis 2:1–3 contribute to understanding the scope of “firmament,” “Heaven,” and the day sequence without reading later statements backward into verse 8?
+
+## 27. Continuity — next step
+
+Continue with **Genesis 1:9 (KJV)**. Preserve the distinction between the division of the waters in verses 6–7 and the gathering commanded in verse 9. Record what is gathered, where it is gathered, what appears, and what the verse does not yet name. Keep God's command in verse 9 distinct from the naming and evaluation recorded in verse 10.
