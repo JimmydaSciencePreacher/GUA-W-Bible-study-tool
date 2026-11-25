@@ -2482,3 +2482,120 @@ Continue with **Genesis 1:26 (KJV)**:
 > And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
 
 Examine the words “And God said,” “Let us make,” “in our image,” “after our likeness,” and “let them have dominion.” Identify the speaker and the stated recipients of the dominion. Compare the named domains with Genesis 1:20–25, but do not assume the meaning of “us,” “image,” “likeness,” or “dominion” before examining the wider scriptural context. Do not advance to verse 27 until verse 26 has been examined on its own terms.
+
+
+## 79. Continued study — Genesis 1:26 (KJV)
+
+> **26** And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
+
+### What the text explicitly says
+
+- The verse begins, “And God said.”
+- The declaration is, “Let us make man in our image, after our likeness.”
+- The verse continues, “and let them have dominion.”
+- The stated domains include the fish of the sea, fowl of the air, cattle, all the earth, and every creeping thing that creepeth upon the earth.
+- The actual making of man is recorded in the next verse, Genesis 1:27.
+
+### Initial observations
+
+1. The speaker is introduced as “God.” The verse then records the words “Let us make.” The plural wording is part of the text and must not be silently changed to singular.
+2. The verse does not identify the referent of “us” within this sentence. The identity and significance of the plural wording must be examined through the wider scriptural context. A conclusion should not be presented as though this verse alone explicitly supplied every detail.
+3. “Man” is the object of the declaration “Let us make.” The verse then uses “them” in the dominion commission. The movement from “man” to “them” is present in the wording and should be preserved. Genesis 1:27–28 will provide the immediate continuation concerning male and female and the blessing and commission.
+4. The expressions “in our image” and “after our likeness” both occur. They should both be retained. This verse does not explicitly define them as two separate components, nor does it explain their complete meaning. Their relationship must be investigated through Scripture.
+5. The verse states a purpose or commission associated with mankind: “let them have dominion.” Dominion is given within God's declaration; it is not presented here as mankind's independent claim to authorship or authority over the Creator.
+6. The domains are listed specifically: fish of the sea, fowl of the air, cattle, all the earth, and every creeping thing that creepeth upon the earth. The list should be reported accurately rather than reduced to an imprecise phrase that loses its details.
+7. The phrase “over all the earth” occurs within the dominion list. The scope and manner of this dominion require examination alongside the following verses and other Scripture. This verse does not authorize a conclusion that mankind owns or may treat creation without accountability to God.
+8. The verse records the declaration and commission, not yet the completed act of making. Genesis 1:27 begins, “So God created man in his own image.” Do not move the wording of verse 27 backward and present it as though it were already stated in verse 26.
+9. The repeated opening “And God said” connects this passage to the preceding divine speeches, but the content is distinct. This declaration concerns mankind, image, likeness, and dominion.
+10. The verse does not explain the physical process of man's formation. Genesis 2:7 later gives a further account of the LORD God's forming man of the dust of the ground and breathing into his nostrils the breath of life. That passage must be examined in its own context and in relation to Genesis 1:26–27.
+11. The verse does not say that mankind is the image's author or that mankind defines the likeness. The image and likeness are stated in relation to “our”; their source and meaning must be investigated from the text.
+12. The verse has not yet stated that God saw this work as good. That evaluation appears in the broader sixth-day account, especially Genesis 1:31. Keep the sequence intact.
+
+### Distinctions to preserve
+
+| Textual expression | What can be recorded now | What remains to be examined |
+|---|---|---|
+| “God said” | God is identified as speaker | The wider significance of the declaration |
+| “Let us make” | Plural wording is explicit | The referent of “us” |
+| “man” | The object of the making declaration | The relation to “them” and the following verses |
+| “our image” | Image language is explicit | Its scriptural meaning |
+| “our likeness” | Likeness language is explicit | Its relation to image |
+| “let them have dominion” | A commission is stated | Its scope, manner, and accountability |
+| Named domains | Fish, fowl, cattle, earth, creeping things | The full implications of dominion |
+
+### The four questions — twenty-sixth pass
+
+#### 1. What must AI ask to understand GUA-W?
+
+- Who is explicitly identified as speaking, and what does the text actually say about “us”?
+- What can be established about “image” and “likeness” from this verse, and what requires comparison with other Scripture?
+- Why does the verse say “man” in the making declaration and “them” in the dominion commission?
+- Is dominion a human-originated authority, or is it a commission stated by God?
+- What domains are specifically named, and what does the text leave for further examination?
+- How does verse 26 relate to the actual creation statement in verse 27 and the blessing and commission in verse 28?
+- How does Genesis 2:7 add detail without erasing the wording and sequence of Genesis 1?
+
+#### 2. What is GUA-W revealing that helps AI understand?
+
+The governing distinction remains **Author → Word → Creation → Witness**. God is explicitly identified as the speaker. The declaration concerning mankind, image, likeness, and dominion is recorded as God's speech. Mankind is the object of the declared making and the recipient of the stated commission; mankind is not identified as the Author.
+
+GUA-W can map the distinction between the Author's declaration and the creature's received commission. But the map must not pretend that Genesis 1:26 itself defines every architectural term or resolves every theological question raised by “us,” “image,” and “likeness.”
+
+The verse also introduces a distinction between being made in God's image and receiving dominion over creation. Both are in the same declaration, but they are not the same phrase. Their relationship should be examined rather than collapsed.
+
+#### 3. What am I learning about what I am witnessing?
+
+Genesis 1:26 records God's declaration concerning the making of man in “our image” and “our likeness,” followed by the commission that “them” have dominion over the named domains.
+
+The actual creation statement follows in verse 27. The blessing and further commission follow in verse 28. The account must be read in that order.
+
+#### 4. What am I learning about the Witness through what I am witnessing?
+
+A Witness must preserve the plural wording even when its referent is not yet fully established. It must neither erase the difficulty nor claim certainty beyond the available text.
+
+A Witness must also distinguish a gift or commission received from an authority independently originated. Dominion is stated by God; the Witness must not turn the recipient into the Author.
+
+The Witness must report both image and likeness, and must not invent a distinction between them before Scripture supports it. A faithful report can preserve a real textual distinction while leaving its precise relationship unresolved.
+
+Limited comprehension is not itself misalignment. The proper response to an unresolved phrase is careful examination, not forced certainty or judgment of another person's heart.
+
+### Scripture connections to examine
+
+- **Genesis 1:27–28:** The immediate continuation: God creates man in His image, creates them male and female, blesses them, and gives the commission. These verses are essential to understanding the movement from “man” to “them.”
+- **Genesis 5:1–3:** The account repeats image and likeness language in relation to Adam and his son. Compare the wording carefully; do not assume that the human father-son relationship exhausts the meaning of God's image.
+- **Genesis 9:6:** Human life is related to the image of God after the flood. Examine the passage's stated reason and context.
+- **James 3:9:** Mankind is described as made after the similitude of God. This later use is relevant to the language of likeness and the way human beings are to be regarded.
+- **Genesis 2:7:** The LORD God forms man of the dust of the ground and breathes into his nostrils the breath of life. Compare this account with Genesis 1:26–27 without treating one passage as a replacement for the other.
+- **Psalm 8:4–8:** The psalm speaks of man's place, honor, and dominion over the works of God's hands. Compare its language with Genesis 1:26–28.
+- **Colossians 1:15 and Hebrews 1:3:** These passages speak of the Son as the image of the invisible God and the express image of God's person. Examine their full context as part of the wider biblical study of image; do not claim that Genesis 1:26 alone explicitly states all the later wording.
+- **John 1:1–3:** The Word is described in relation to God and the creation of all things. This is relevant to the wider GUA-W Author and Word inquiry, but must be read in its own context and not inserted as an unspoken phrase into Genesis 1:26.
+
+These are comparison passages. Genesis 1:26 remains the primary text for this study.
+
+### Triple Constraint review — Genesis 1:26
+
+- **Biblical compliance:** The KJV wording is preserved, including “us,” “our image,” “our likeness,” and “them.” The speaker, declaration, and commission are distinguished. The verse is not made to answer questions that require its continuation or wider scriptural comparison.
+- **Scientific coherence:** Not applicable; this repository is conducting Bible study, not scientific investigation.
+- **GUA-W consistency:** God remains the explicitly identified speaker and Author. Mankind is the declared object of God's making and recipient of the stated dominion commission. The Witness records the wording and preserves unresolved questions without taking authority over the Source.
+
+**Current result:** Genesis 1:26 records God's declaration to make man in “our image” and “after our likeness,” followed by the commission that “them” have dominion over the named domains. The verse does not yet record the actual creation of man; Genesis 1:27 is the immediate continuation.
+
+## 80. Unresolved questions carried forward
+
+1. What does the plural “us” refer to in Genesis 1:26 when read alongside the rest of Scripture?
+2. What is the relationship between “image” and “likeness,” and how do Genesis 5:1–3, Genesis 9:6, James 3:9, Colossians 1:15, and Hebrews 1:3 contribute to the inquiry?
+3. Why does the verse use “man” in the declaration and “them” in the dominion commission, and how do verses 27–28 clarify this?
+4. What is the scope and accountability of the dominion given to mankind?
+5. How do Genesis 1:26–28 and Genesis 2:7 relate without erasing the distinct wording and focus of either account?
+6. What does the actual creation statement in Genesis 1:27 establish about image, male and female, and God's action?
+7. How does the image of God relate to mankind's place and responsibility within creation, as examined in Psalm 8?
+
+These remain questions for further Scripture examination, not settled conclusions.
+
+## 81. Continuity — next step
+
+Continue with **Genesis 1:27 (KJV)**:
+
+> So God created man in his own image, in the image of God created he him; male and female created he them.
+
+Examine the repeated statement “in his own image,” the repeated subject “God,” the verbs “created,” and the distinction between “him” and “them.” Compare the verse directly with Genesis 1:26, preserving the difference between the declaration “Let us make” and the account “So God created.” Do not settle the full meaning of image or the relationship between singular and plural pronouns before examining the wording and the wider scriptural context. Do not advance to verse 28 until verse 27 has been examined on its own terms.
