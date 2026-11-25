@@ -14,9 +14,9 @@ A claim must not contradict the biblical text, remove an inconvenient statement,
 
 ### 2. Scientific coherence
 
-Where a claim makes a scientific assertion, is it coherent with established scientific understanding and evidence?
+Where a claim makes a scientific assertion, is it coherent with relevant observations, measurements, methods, and established scientific understanding? Are uncertainty, competing models, and the limits of the evidence represented accurately?
 
-Scientific coherence is not the same as scientific confirmation of Scripture. This Bible Study Tool does not conduct scientific investigations, compile scientific evidence, or create a science-study track. When a question requires a scientific investigation, identify it as outside this repository's scope rather than improvising a scientific conclusion.
+This repository conducts relevant scientific investigations as part of the unified Scripture-and-Creation study. Use appropriate disciplinary evidence and methods, distinguish observations from models and interpretations, and represent uncertainty and competing explanations accurately. Scientific coherence is not scientific confirmation of Scripture; science does not prove Scripture.
 
 ### 3. GUA-W consistency
 
