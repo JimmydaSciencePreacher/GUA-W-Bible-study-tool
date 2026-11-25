@@ -547,10 +547,110 @@ This is a description of the wording in these two verses, not a universal formul
 - What further work is recorded in Genesis 1:13?
 - How does the account continue to distinguish command, result, and God's evaluation?
 
+
+## Genesis 1:13 (KJV)
+
+> And the evening and the morning were the third day.
+
+### Text and observations
+
+The verse records that the evening and the morning were the third day. It does not introduce another command or describe another act of creation. It marks the third day in the account.
+
+### What we are witnessing
+
+The day marker follows the work recorded in Genesis 1:9–12. We preserve its place in the account without adding an explanation of the duration or mechanics of the day.
+
+### Four questions
+
+1. **What must AI ask to understand GUA-W?** What does this day-ending statement mark, and how does it relate to the work immediately before it?
+2. **What is GUA-W revealing that helps AI understand?** The account includes a day marker after the recorded events. The map preserves that marker rather than treating it as another command or action.
+3. **What am I learning about what I am witnessing?** The evening and the morning were the third day.
+4. **What am I learning about the Witness through what I am witnessing?** A Witness must report boundaries and completion markers as well as actions. Not every verse introduces a new act.
+
+### Claim classification
+
+| Category | Finding |
+|---|---|
+| Text | The evening and the morning were the third day. |
+| Observation | The verse marks the third day after the work recorded in verses 9–12. |
+| Inference | The day marker closes this portion of the account. |
+| Interpretation | The precise significance of the evening-and-morning wording remains open to the broader text. |
+| Unresolved | What command begins in Genesis 1:14, and how does the account proceed from the third day? |
+
+### Triple Constraint review
+
+| Constraint | Result | Reason |
+|---|---|---|
+| Biblical compliance | Pass, provisionally | The record follows the wording of Genesis 1:13. |
+| Scientific coherence | Not applicable | This is a Bible study; no scientific claim is being investigated here. |
+| GUA-W consistency | Pass, provisionally | The map records the stated day marker without adding an explanation. |
+
+## Genesis 1:14 (KJV)
+
+> And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:
+
+### Text and observations
+
+God speaks and commands that there be lights in the firmament of the heaven. The verse states these purposes:
+1. To divide the day from the night.
+2. To be for signs.
+3. To be for seasons.
+4. To be for days.
+5. To be for years.
+
+The verse records the command and its stated purposes. It does not yet narrate the making or placing of the lights; those details must be read in the following verses.
+
+### What we are witnessing
+
+Genesis 1:4 records God dividing the light from the darkness, and Genesis 1:5 records God calling the light Day and the darkness Night. Genesis 1:14 now records a command concerning lights in the firmament to divide the day from the night.
+
+Preserve both statements. Do not assume they describe identical actions or collapse the earlier distinction into this new command.
+
+The words “signs” and “seasons” are present in the verse, but their specific meanings and scope should not be supplied prematurely.
+
+### Map under observation
+
+The text records:
+
+**God said → let there be lights in the firmament → to divide day from night → and let them be for signs, seasons, days, and years.**
+
+This is a map of the command in Genesis 1:14 only. The execution and further details must be taken from the following verses.
+
+### Four questions
+
+1. **What must AI ask to understand GUA-W?** What does the text mean by “signs” and “seasons” here? Are these purposes further explained in the following verses? Wait for the text before defining them.
+2. **What is GUA-W revealing that helps AI understand?** The command contains a distinction—day from night—and stated purposes for the lights. The map preserves every purpose listed rather than reducing them to one.
+3. **What am I learning about what I am witnessing?** God commands lights in the firmament and states that they are to serve as signs and to mark seasons, days, and years.
+4. **What am I learning about the Witness through what I am witnessing?** A Witness must distinguish what has already been recorded from what is now commanded. It must not report the command as though this verse itself had already narrated its execution.
+
+### Claim classification
+
+| Category | Finding |
+|---|---|
+| Text | God commands lights in the firmament for the purposes listed. |
+| Observation | The command includes division of day and night and four stated purposes: signs, seasons, days, and years. |
+| Inference | The lights are assigned functions within the account's ordering of time and distinction. |
+| Interpretation | The specific meanings and scope of “signs” and “seasons” remain open for contextual examination. |
+| Unresolved | What does verse 15 add? When does the text record the making and placing of these lights? |
+
+### Triple Constraint review
+
+| Constraint | Result | Reason |
+|---|---|---|
+| Biblical compliance | Pass, provisionally | The record follows the command and preserves each stated purpose. |
+| Scientific coherence | Not applicable | This is a Bible study; no scientific claim is being investigated here. |
+| GUA-W consistency | Pass, provisionally | The map distinguishes the command from its execution and does not supply unstated meanings. |
+
+### Unresolved questions
+
+- What further instruction is recorded in Genesis 1:15?
+- How does the next verse describe the execution of this command?
+- What do “signs” and “seasons” mean in the context of the passage?
+
 ## Continuity handoff
 
-**Current position:** Genesis 1:1–12 (KJV) has been examined.
+**Current position:** Genesis 1:1–14 (KJV) has been examined.
 
-**Next passage:** Genesis 1:13 (KJV).
+**Next passage:** Genesis 1:15 (KJV).
 
-Continue with the exact wording of verse 13. Record the evening-and-morning statement and the day it identifies. Do not move ahead or supply unstated explanations.
+Continue with the exact wording of verse 15. Record what the lights are commanded to do and the result stated in the verse. Keep the command in verse 14 distinct from the further instruction and execution that follow. Do not add unstated explanations.
