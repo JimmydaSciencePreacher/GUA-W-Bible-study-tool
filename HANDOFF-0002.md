@@ -8,13 +8,13 @@ This handoff records the current position, governing decision, repository workfl
 
 - The restart began with **Revelation 22:18–21 (KJV)**, presented as wording only.
 - The study then began again at **Genesis 1:1 (KJV)**.
-- **Genesis 1:1–2 has now been recorded** in STUDIES/0002-GENESIS-1-1-2.md.
-- **Next passage: Genesis 1:3 (KJV).**
-- Genesis 1:3 has not yet been investigated or recorded.
+- **Genesis 1:1–2** is recorded in STUDIES/0002-GENESIS-1-1-2.md.
+- **Genesis 1:3** is recorded in STUDIES/0003-GENESIS-1-3.md.
+- **Next passage: Genesis 1:4 (KJV).**
 
 ## Governing decision: unified investigation
 
-The study is being rebuilt as a **unified Scripture-and-Creation investigation**, not as a Bible-only study that excludes scientific investigation by definition.
+The study is a **unified Scripture-and-Creation investigation**, not a Bible-only study that excludes scientific investigation by definition.
 
 The user's reason: **“We are also Witnessing GUA-W witness this first hand.”**
 
@@ -68,10 +68,13 @@ Preserve prior study records and handoffs as history. Do not silently erase or o
 - [x] Revelation 22:18–21 (KJV) presented as wording only.
 - [x] Decision made to rebuild the method as a unified Scripture-and-Creation investigation.
 - [x] User approved direct recording of each completed passage study in STUDIES/ and handoff updates.
-- [x] Genesis 1:1–2 investigated and recorded in STUDIES/0002-GENESIS-1-1-2.md.
+- [x] Genesis 1:1–2 investigated and recorded.
+- [x] Genesis 1:3 investigated and recorded.
 - [ ] Reconcile repository-wide protocol and template with the unified scope.
-- [ ] Investigate and record Genesis 1:3.
+- [ ] Investigate and record Genesis 1:4.
 
 ## Next session instruction
 
-Resume at **Genesis 1:3 (KJV)**. Examine the wording “And God said, Let there be light: and there was light.” Investigate the speech/result relationship from the text, language, canonical cross-references, and relevant observations of Creation. Do not presume a physical mechanism or claim a scientific conclusion before evidence supports it.
+Resume at **Genesis 1:4 (KJV)**: “And God saw the light, that it was good: and God divided the light from the darkness.”
+
+Investigate the Hebrew verbs for seeing, goodness, and dividing/separating; compare the verse's sequence with Genesis 1:3 and the later naming in verse 5; examine relevant canonical references and observable/scientific distinctions between light and darkness. Do not assume that “divided” describes a specific physical process before the text and evidence are examined.
