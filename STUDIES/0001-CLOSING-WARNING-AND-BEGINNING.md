@@ -135,10 +135,71 @@ The sequence is becoming recognizable through the recorded work. Do not yet trea
 - What does the naming in Genesis 1:5 contribute beyond the division recorded in verse 4?
 - How will the sequence continue to develop, and which patterns will the text itself support?
 
+
+## Genesis 1:5 (KJV)
+
+> And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
+
+### Text and observations
+
+The verse records:
+1. God called the light Day.
+2. God called the darkness Night.
+3. The evening and the morning were the first day.
+
+### What we are witnessing
+
+Genesis 1:4 records God's division of the light from the darkness. Genesis 1:5 records God's naming of the light and the darkness, followed by the statement concerning the first day. Division and naming are distinct actions in the account and should not be collapsed into one.
+
+### Questions kept open
+
+What does the naming establish in the account? What does the statement “the evening and the morning were the first day” contribute? Continue to let the following text clarify the sequence rather than importing a finished explanation.
+
+## Genesis 1:6 (KJV)
+
+> And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.
+
+### Text and observations
+
+The verse records God speaking a command with two related parts:
+1. “Let there be a firmament in the midst of the waters”
+2. “and let it divide the waters from the waters.”
+
+The verse records the command. It does not yet state the result; the following verse records what happened.
+
+### What we are witnessing
+
+The account records another instance of God speaking. The command concerns a firmament in the midst of the waters and division of the waters from the waters. We should not supply a physical description or mechanism that this verse itself does not provide.
+
+### Map under observation
+
+The text now gives another command, but we must not assume in advance that its realization will be identical in every detail to the account of light. We will read the next verse and record what it actually says.
+
+### Four questions
+
+1. **What must AI ask to understand GUA-W?** What does the next verse say happened in response to this command? What does the text mean by “firmament” and “the waters,” and what must remain open until Scripture provides more context?
+2. **What is GUA-W revealing that helps AI understand?** The map follows the Author's recorded work. We have a command concerning the firmament and division; the outcome has not yet been recorded in this verse.
+3. **What am I learning about what I am witnessing?** The account records God's command and its stated purpose concerning division of the waters.
+4. **What am I learning about the Witness through what I am witnessing?** The Witness must distinguish command from result, avoid importing assumptions from the earlier light account, and wait for the next verse.
+
+### Triple Constraint review
+
+| Constraint | Result | Reason |
+|---|---|---|
+| Biblical compliance | Pass, provisionally | The observation follows Genesis 1:6 and does not claim the result has already been stated. |
+| Scientific coherence | Not applicable | This is a Bible study; no scientific claim is being investigated here. |
+| GUA-W consistency | Pass, provisionally | The map records the Author's command without prescribing its realization. |
+
+### Unresolved questions
+
+- What does Genesis 1:7 record as the result of this command?
+- What does the text reveal about the firmament and the waters as the account proceeds?
+- Which distinctions are stated by the text, and which remain to be understood?
+
 ## Continuity handoff
 
-**Current position:** Genesis 1:4 (KJV) has been examined.
+**Current position:** Genesis 1:1–6 (KJV) has been examined.
 
-**Next passage:** Genesis 1:5 (KJV).
+**Next passage:** Genesis 1:7 (KJV).
 
-Continue with the exact wording of verse 5. Preserve the distinction between the division in verse 4 and the naming in verse 5. Do not move ahead or decide the full architecture in advance.
+Continue with the exact wording and order of verse 7. Distinguish what God does from what the text says results. Do not import a physical mechanism or a completed architectural label before the passage supports it.
