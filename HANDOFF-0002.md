@@ -22,7 +22,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 1:13** is recorded in STUDIES/0013-GENESIS-1-13.md.
 - **Genesis 1:14–19** is recorded in STUDIES/0014-GENESIS-1-14-19.md.
 - **Genesis 1:20–23** is recorded in STUDIES/0015-GENESIS-1-20-23.md.
-- **Next passage: Genesis 1:24–25 (KJV).**
+- **Genesis 1:24–25** is recorded in STUDIES/0016-GENESIS-1-24-25.md.
+- **Next passage: Genesis 1:26–28 (KJV).**
 
 ## Governing decision: unified investigation
 
@@ -95,9 +96,10 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 1:13 investigated and recorded.
 - [x] Genesis 1:14–19 investigated and recorded.
 - [x] Genesis 1:20–23 investigated and recorded.
+- [x] Genesis 1:24–25 investigated and recorded.
 
 ## Next session instruction
 
-Resume at **Genesis 1:24–25 (KJV)**. Investigate the sixth-day command for the earth to bring forth living creatures according to their kinds: cattle, creeping things, and beasts of the earth; the fulfillment report that God made these groups according to their kinds; and the declaration that God saw that it was good. Examine the Hebrew terms translated “bring forth,” “living creature,” “cattle,” “creeping thing,” “beast of the earth,” and “kind.” Compare the sixth-day command and fulfillment with the fifth-day account, especially *nephesh chayyah*, *min*, and the distinction between the earth as domain and God as creative subject. Investigate terrestrial animal diversity, habitats, ecological relationships, and reproduction without treating ancient creature categories as modern taxonomic ranks. Preserve the difference between the fifth-day blessing and the sixth-day account; Genesis 1:24–25 does not yet give the human creation or the blessing of Genesis 1:28.
+Resume at **Genesis 1:26–28 (KJV)**. Investigate “Let us make man in our image, after our likeness”; humanity's dominion over fish, fowl, cattle, all the earth, and creeping things; the explicit creation of man in God's image, male and female; and the blessing and commands to be fruitful, multiply, replenish the earth, subdue it, and have dominion. Examine Hebrew terms for “man,” “image,” “likeness,” “dominion,” “male,” “female,” “blessed,” “replenish,” and “subdue.” Compare human creation with the preceding animal creation without collapsing their stated distinctions. Investigate relevant scientific observations about human biology, cognition, social life, and ecological effects, distinguishing empirical descriptions from theological claims about the image of God. Pay attention to the deliberative “Let us make,” the image/likeness statements, and the human vocation. Preserve unresolved questions and do not infer a complete doctrine of the image of God from these verses alone.
 
 **Study remains open.**
