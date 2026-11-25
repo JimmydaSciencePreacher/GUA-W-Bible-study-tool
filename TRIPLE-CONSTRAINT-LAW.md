@@ -10,7 +10,7 @@ The Triple Constraint Law is an admissibility filter for evaluating claims place
 
 Does the claim remain faithful to Scripture, including the wording and context of the relevant passage and its canonical relationships?
 
-A claim must not contradict the biblical text, remove an inconvenient statement, or rely on an isolated verse in place of context.
+A claim must not contradict the biblical text, remove an inconvenient statement, or rely on an isolated verse in place of context. Neither Scripture nor scientific evidence may be misrepresented to force agreement.
 
 ### 2. Scientific coherence
 
@@ -35,9 +35,10 @@ For a claim under review:
 1. State the claim precisely.
 2. Identify the Scripture passages relevant to it.
 3. Check the passages in context.
-4. Identify whether the claim includes a scientific assertion. If it does, do not treat this Bible-study repository as the place to investigate it.
-5. Compare the claim with established GUA-W definitions and order.
-6. Record the result and the reason.
+4. If the claim includes a scientific assertion, investigate it using relevant disciplinary evidence and methods; record sources, uncertainty, and competing explanations.
+5. Compare Scripture and Creation evidence only after examining each on its own terms.
+6. Compare the claim with established GUA-W definitions and order.
+7. Record the result and reason.
 
 Possible outcomes:
 
