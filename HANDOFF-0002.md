@@ -17,7 +17,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 1:8** is recorded in STUDIES/0008-GENESIS-1-8.md.
 - **Genesis 1:9** is recorded in STUDIES/0009-GENESIS-1-9.md.
 - **Genesis 1:10** is recorded in STUDIES/0010-GENESIS-1-10.md.
-- **Next passage: Genesis 1:11 (KJV).**
+- **Genesis 1:11** is recorded in STUDIES/0011-GENESIS-1-11.md.
+- **Next passage: Genesis 1:12 (KJV).**
 
 ## Governing decision: unified investigation
 
@@ -85,11 +86,12 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Eight core methodology documents reconciled to the unified Scripture-and-Creation scope.
 - [x] Genesis 1:9 investigated and recorded.
 - [x] Genesis 1:10 investigated and recorded.
+- [x] Genesis 1:11 investigated and recorded.
 
 ## Next session instruction
 
-Resume at **Genesis 1:11 (KJV)**: “And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.”
+Resume at **Genesis 1:12 (KJV)**: “And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good.”
 
-Investigate the command “Let the earth bring forth,” the Hebrew terms translated grass/vegetation, herb, seed, fruit tree, and kind, and the relationship between the earth as the commanded subject and the life that appears. Compare with botany, seed structure, plant reproduction, and ecological relationships where relevant. Distinguish what the verse states from modern taxonomic categories and from scientific models of plant evolution and reproduction. Preserve unresolved questions about *min* (“kind”), seed-bearing life, and the scope of the command.
+Investigate the change from the command “Let the earth bring forth” in verse 11 to the report “the earth brought forth” in verse 12. Compare the distribution of “after his kind” across the plant and tree clauses, the seed language, and the added declaration “God saw that it was good.” Examine the relationship between command, fulfillment, and evaluation. Compare the report with botanical observations of plant reproduction, but do not claim that the verse specifies a modern taxonomy or a complete biological mechanism.
 
 **Study remains open.**
