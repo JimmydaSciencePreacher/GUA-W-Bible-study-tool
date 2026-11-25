@@ -33,13 +33,26 @@ Record details that are present in the text before drawing conclusions.
 - Distinctions or boundaries:
 - Sequence or stated relationships:
 
-## 4. Scripture cross-references
+## 4. Creation and scientific investigation
+
+- **Question being investigated:**
+- **Relevant discipline(s):**
+- **Observed or measured evidence:**
+- **Sources and methods:**
+- **What the evidence establishes:**
+- **Models, mechanisms, and competing explanations:**
+- **Uncertainty and limits:**
+- **Relationship to Scripture:** same mechanism / comparable relationship / analogy / surface resemblance / unresolved / no justified comparison.
+
+Do not add a scientific parallel for decoration. Do not treat present observations as automatic reconstruction of the narrated beginning.
+
+## 5. Scripture cross-references
 
 | Related passage | Connection to primary passage | Context checked? | Observation / open issue |
 |---|---|---|---|
 | | | | |
 
-## 5. The four questions
+## 6. The four questions
 
 Use all four questions together and recursively. They are not sequential steps.
 
@@ -66,7 +79,7 @@ Record what the study reveals about the role, limits, reception, understanding, 
 - What did the cross-references add, qualify, or leave unresolved?
 - What should be revisited in another pass?
 
-## 6. GUA-W relationship
+## 7. GUA-W relationship
 
 Identify only the GUA-W elements that the passage supports. Do not force every layer into every passage.
 
@@ -77,7 +90,7 @@ Identify only the GUA-W elements that the passage supports. Do not force every l
 - Relevant distinctions, constraints, purpose, or relationships:
 - What the passage does not establish:
 
-## 7. Statement classification
+## 8. Statement classification
 
 Mark each significant claim as one of the following:
 
@@ -89,15 +102,15 @@ Mark each significant claim as one of the following:
 
 Record the wording and reason for each important classification.
 
-## 8. Triple Constraint review
+## 9. Triple Constraint review
 
 - **Biblical compliance:** Does the claim remain faithful to the passage and its canonical context?
-- **Scientific coherence:** Is any scientific claim being made? If not, mark not applicable to this Bible-study record. This tool does not conduct science investigations.
+- **Scientific coherence:** Is any scientific claim being made? If not, mark not applicable to this Bible-study record. Scientific claims must be evaluated against relevant evidence, methods, competing models, and uncertainty.
 - **GUA-W consistency:** Does the claim preserve the governing Source-to-Witness order and the established GUA-W distinctions?
 
 Result: accepted for this study / revise / unresolved / outside this tool's scope.
 
-## 9. Findings and open questions
+## 10. Findings and open questions
 
 - What is established by the text?
 - What is supported but remains an inference or interpretation?
@@ -105,7 +118,7 @@ Result: accepted for this study / revise / unresolved / outside this tool's scop
 - What remains unresolved?
 - What must not be claimed?
 
-## 10. Continuity record
+## 11. Continuity record
 
 - **Current conclusion:**
 - **Unresolved questions carried forward:**
