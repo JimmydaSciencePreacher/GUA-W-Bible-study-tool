@@ -4,7 +4,7 @@
 
 The GUA-W Bible Study Tool uses the Grand Unified Architecture of Witness (GUA-W) as its framework for studying Scripture. Its purpose is to help a reader examine the biblical text, follow Scripture's own cross-references, recognize relationships, and record what is established, what is inferred, and what remains unresolved.
 
-This repository studies the Bible. It is not a science-study repository.
+This repository conducts a unified Scripture-and-Creation investigation. Scripture is examined in biblical context; Creation is investigated through relevant observations and the methods and evidence of the sciences. The evidence streams are compared without forcing one to say what the other has not established.
 
 ## Governing reference
 
@@ -65,7 +65,10 @@ They are not four sequential stages. Each question can inform and refine the oth
 - GUA-W is recognized and applied as the governing map; this tool does not redesign or independently author GUA-W.
 - Distinguish what the text says from observation, inference, interpretation, and unresolved questions.
 - Do not judge a person's heart or assign spiritual state from disagreement, uncertainty, or incomplete comprehension.
-- The Triple Constraint Law is retained as a GUA-W admissibility principle. This repository does not conduct scientific investigations, create a science track, or claim that science proves Scripture.
+- Creation is investigated through relevant observations, measurements, scientific methods, and disciplinary sources.
+- Distinguish textual claims, observations, scientific models, inferences, interpretations, and unresolved questions.
+- Compare evidence streams only after examining each on its own terms; classify a connection as same mechanism, comparable relationship, analogy, surface resemblance, or unresolved.
+- The Triple Constraint Law applies to claims proposed for GUA-W placement: biblical compliance, scientific coherence, and GUA-W consistency. Scientific coherence is not scientific confirmation; science does not prove Scripture.
 
 ## Relationship to The New Witness
 
