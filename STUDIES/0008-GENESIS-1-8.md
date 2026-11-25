@@ -61,7 +61,7 @@ Genesis 1:8 continues that narrative pattern. In each case, the naming is attrib
 
 The Hebrew noun *shamayim* is morphologically plural in form and is commonly rendered “heaven,” “heavens,” or “sky,” depending on context and translation. The grammatical form alone does not require the English reader to infer multiple physical heavens in this verse.
 
-The KJV renders the word “Heaven.” Other translations use “sky,” “heavens,” or “expanse/sky” in this context. Translation choices reflect interpretation of the referent; none should be mistaken for an additional Hebrew word in the verse.
+The KJV renders the word “Heaven.” Other translations use “sky,” “heavens,” or “expanse/sky” in this context. Translation choices reflect interpretation of the referent; none should be mistaken for an additional Hebrew word in the verse. A plural-looking form is not, by itself, proof that the referent consists of multiple physical heavens; grammatical form and contextual meaning must be distinguished.
 
 A necessary distinction arises because *shamayim* also appears in Genesis 1:1:
 
@@ -124,7 +124,7 @@ The familiar evening-and-morning formula also appears in Genesis 1:5, 1:13, 1:19
 
 A notable textual observation: Genesis 1:8 does **not** include the statement “And God saw that it was good,” which appears in the accounts of other days. The omission is in the text and should be noticed; it should not be silently supplied.
 
-Some traditional interpretations connect the omission with the fact that the separation of waters is not complete until the gathering of the lower waters and appearance of dry land in Genesis 1:9–10. Rashi, for example, discusses the second day's work in relation to the completion of the water arrangement on the third day. That is an interpretation offered to explain the literary pattern, not an explicit explanation stated in Genesis 1:8 itself.
+Some traditional interpretations connect the omission with the fact that the separation of waters is not complete until the gathering of the lower waters and appearance of dry land in Genesis 1:9–10. Rashi, for example, discusses the second day's work in relation to the completion of the water arrangement on the third day. That is an interpretation offered to explain the literary pattern, not an explicit explanation stated in Genesis 1:8 itself.\n\n**Textual-critical qualification:** The Masoretic Hebrew text underlying the KJV does not contain “And God saw that it was good” in verse 8. The ancient Greek Septuagint (LXX), however, includes that clause after “Heaven.” Some scholars have argued that the Greek preserves an earlier Hebrew reading; others regard the Greek clause as a harmonizing addition that regularizes the refrain. The evidence must be reported rather than silently choosing a side. The KJV follows the Hebrew reading here. The absence is therefore an observation about the KJV/Masoretic textual form, not proof that no ancient textual witness ever contained the clause.
 
 Keep the distinction:
 - **Text:** the second day is marked; the “saw that it was good” formula is absent here.
@@ -242,7 +242,7 @@ The Witness must report the name that the text gives without treating a translat
 
 | Constraint | Review |
 |---|---|
-| Biblical compliance | The KJV is preserved. The naming action is distinguished from the making and dividing of verses 6–7. The absence of the “saw that it was good” formula is noted without inserting an explanation into the text. |
+| Biblical compliance | The KJV is preserved. The naming action is distinguished from the making and dividing of verses 6–7. The Masoretic/KJV absence of the “saw that it was good” formula is noted alongside the Septuagint variant; no textual-critical conclusion is asserted without further evidence. |
 | Scientific coherence | No scientific mechanism is attributed to the naming action. Modern scientific categories are not substituted for *shamayim* or *raqia*. |
 | GUA-W consistency | Author, created arrangement, designation, and Witness remain distinct. No new architectural rule is asserted and the established GUA-W structure is not altered. |
 
@@ -255,7 +255,7 @@ The Witness must report the name that the text gives without treating a translat
 - The Hebrew designation is *shamayim*.
 - Evening and morning mark the second day.
 - The naming follows the making and division narrated in verses 6–7.
-- Genesis 1:8 does not include the “And God saw that it was good” formula.
+- The Masoretic Hebrew text represented by the KJV does not include the “And God saw that it was good” formula in Genesis 1:8; the Septuagint includes a corresponding clause.
 
 ### Supported observations
 - *Shamayim* is used in Genesis 1:1 and Genesis 1:8.
@@ -269,7 +269,7 @@ The Witness must report the name that the text gives without treating a translat
 2. Does the context of Genesis 1:14–20 narrow the physical and semantic range of *raqia*?
 3. What does Genesis 1:20's reference to birds flying in the expanse establish, and what does it leave open?
 4. What are the “waters above” in the wider canonical context, including Psalm 148:4?
-5. Why is the “saw that it was good” formula absent on the second day? Does the continuation in Genesis 1:9–10 explain the literary pattern, or is another explanation required?
+5. Why does the Masoretic text lack the “saw that it was good” formula in verse 8 while the Septuagint includes it? Does the Greek preserve an earlier Hebrew reading, or does it harmonize the refrain? What evidence can decide between these possibilities?\n6. Does the continuation in Genesis 1:9–10 help explain the literary pattern, or is another explanation required?
 6. What does the naming action establish about designation in this narrative, without generalizing beyond the evidence?
 7. How does Genesis 2:1–5 clarify completion and the relationship of the heavens and earth to the subsequent Garden account?
 
@@ -290,7 +290,7 @@ The Witness must report the name that the text gives without treating a translat
 3. Hebrew Bible Study, Genesis 1:8 commentaries: https://hebrewbible.app/en/resources/commentary/Genesis.1.8
 4. Rashbam on Genesis 1:8, Sefaria: https://www.sefaria.org/Rashbam_on_Genesis.1.8
 5. Ramban on Genesis 1:8, Sefaria: https://www.sefaria.org/Ramban_on_Genesis.1.8
-6. Tanakh.info, Genesis 1:8 Hebrew text and morphology: https://tanakh.info/gn1-8
+6. Tanakh.info, Genesis 1:8 Hebrew text and morphology: https://tanakh.info/gn1-8\n7. Umberto Cassuto, *A Commentary on the Book of Genesis*, Genesis 1:8 textual and literary discussion: https://www.orcuttchristian.org/Cassuto_Genesis%20vol.%2001.pdf\n8. “The Refrain of Genesis 1: A Critical Review of Its Rendering in the English Bible”: https://translation.bible/wp-content/uploads/2024/06/collins-2009-the-refrain-of-genesis-1-a-critical-review-of-its-rendering-in-the-english-bible.pdf
 
 Commentaries are historical witnesses to interpretation, not replacements for the biblical text. Lexical tools assist with language; context governs the reading.
 
