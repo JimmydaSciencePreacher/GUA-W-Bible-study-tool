@@ -21,7 +21,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 1:12** is recorded in STUDIES/0012-GENESIS-1-12.md.
 - **Genesis 1:13** is recorded in STUDIES/0013-GENESIS-1-13.md.
 - **Genesis 1:14–19** is recorded in STUDIES/0014-GENESIS-1-14-19.md.
-- **Next passage: Genesis 1:20–23 (KJV).**
+- **Genesis 1:20–23** is recorded in STUDIES/0015-GENESIS-1-20-23.md.
+- **Next passage: Genesis 1:24–25 (KJV).**
 
 ## Governing decision: unified investigation
 
@@ -93,9 +94,10 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 1:12 investigated and recorded.
 - [x] Genesis 1:13 investigated and recorded.
 - [x] Genesis 1:14–19 investigated and recorded.
+- [x] Genesis 1:20–23 investigated and recorded.
 
 ## Next session instruction
 
-Resume at **Genesis 1:20–23 (KJV)**. Investigate the fifth-day command for the waters to bring forth abundantly living creatures and for fowl to fly above the earth; the fulfillment report describing great sea creatures and every living creature that moves in the waters, and winged fowl, each according to kind; God's blessing and command to be fruitful, multiply, and fill the waters and the earth; and the evening/morning formula. Examine Hebrew terms for “abundantly,” “moving creature,” “living creature,” “great whales/sea creatures,” “kind,” “winged fowl,” “bless,” “fruitful,” “multiply,” and “fill.” Compare command and fulfillment. Investigate aquatic and avian biology without equating ancient categories with modern taxonomic groups or claiming the passage supplies a complete account of evolutionary or ecological mechanisms. Preserve the distinction between text and present-day scientific observations.
+Resume at **Genesis 1:24–25 (KJV)**. Investigate the sixth-day command for the earth to bring forth living creatures according to their kinds: cattle, creeping things, and beasts of the earth; the fulfillment report that God made these groups according to their kinds; and the declaration that God saw that it was good. Examine the Hebrew terms translated “bring forth,” “living creature,” “cattle,” “creeping thing,” “beast of the earth,” and “kind.” Compare the sixth-day command and fulfillment with the fifth-day account, especially *nephesh chayyah*, *min*, and the distinction between the earth as domain and God as creative subject. Investigate terrestrial animal diversity, habitats, ecological relationships, and reproduction without treating ancient creature categories as modern taxonomic ranks. Preserve the difference between the fifth-day blessing and the sixth-day account; Genesis 1:24–25 does not yet give the human creation or the blessing of Genesis 1:28.
 
 **Study remains open.**
