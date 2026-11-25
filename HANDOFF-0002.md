@@ -16,7 +16,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 1:7** is recorded in STUDIES/0007-GENESIS-1-7.md.
 - **Genesis 1:8** is recorded in STUDIES/0008-GENESIS-1-8.md.
 - **Genesis 1:9** is recorded in STUDIES/0009-GENESIS-1-9.md.
-- **Next passage: Genesis 1:10 (KJV).**
+- **Genesis 1:10** is recorded in STUDIES/0010-GENESIS-1-10.md.
+- **Next passage: Genesis 1:11 (KJV).**
 
 ## Governing decision: unified investigation
 
@@ -83,11 +84,12 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 1:8 investigated and recorded.
 - [x] Eight core methodology documents reconciled to the unified Scripture-and-Creation scope.
 - [x] Genesis 1:9 investigated and recorded.
+- [x] Genesis 1:10 investigated and recorded.
 
 ## Next session instruction
 
-Resume at **Genesis 1:10 (KJV)**: “And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.”
+Resume at **Genesis 1:11 (KJV)**: “And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.”
 
-Examine the Hebrew names *erets* and *yammim*, the relation between “one place” in verse 9 and “Seas” in verse 10, the naming of dry land and gathered waters, and the statement that God saw that it was good. Keep the text's naming and evaluation distinct from modern geographic labels and scientific classifications. Continue the Creation investigation where a defined question warrants it; do not confuse present continents and oceans with a direct reconstruction of the narrated event.
+Investigate the command “Let the earth bring forth,” the Hebrew terms translated grass/vegetation, herb, seed, fruit tree, and kind, and the relationship between the earth as the commanded subject and the life that appears. Compare with botany, seed structure, plant reproduction, and ecological relationships where relevant. Distinguish what the verse states from modern taxonomic categories and from scientific models of plant evolution and reproduction. Preserve unresolved questions about *min* (“kind”), seed-bearing life, and the scope of the command.
 
 **Study remains open.**
