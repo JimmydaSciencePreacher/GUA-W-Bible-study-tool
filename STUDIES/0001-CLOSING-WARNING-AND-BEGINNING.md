@@ -105,3 +105,65 @@ The verse directly names God as Creator. The GUA-W governing order, **Author →
 ## 7. Continuity — next step
 
 Continue with **Genesis 1:2 (KJV)**. Read the verse in its place within Genesis 1, record its exact wording and immediate observations, and then return to all four questions. Do not force an architectural label or conclusion before the text supports it.
+
+ 
+## 8. Continued study — Genesis 1:2 (KJV)
+
+> **2** And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
+
+### What the text explicitly says
+
+- The verse continues the account with “And”.
+- The earth is described as “without form, and void.”
+- Darkness is said to be “upon the face of the deep.”
+- The Spirit of God is said to have “moved upon the face of the waters.”
+
+### Initial observations
+
+1. The verse describes the condition of the earth in its own words: “without form, and void.” We should preserve that wording before assigning a technical or architectural label to it.
+2. The verse separately mentions darkness, the deep, the Spirit of God, and the waters. These distinctions are present in the wording and should not be collapsed into one another.
+3. The Spirit of God is the subject of the stated movement; the stated location is “upon the face of the waters.”
+4. The verse does not, by itself, explain when or how the waters came to be, define the deep, or give a complete explanation of the phrase “without form, and void.”
+5. The verse does not explicitly say that the earth became without form and void. The KJV wording here is “was.” A claim about a prior state or a change of state would require further textual argument, not an unmarked substitution of wording.
+6. “Moved” is the KJV's word in this verse. Any more detailed explanation of the action should be treated as interpretation and tested against Scripture.
+
+### What the text does not yet settle
+
+- Whether “without form, and void” is intended as a description of an initial condition, a condition resulting from an event, or something else.
+- The precise meaning and scope of “the deep.”
+- The full meaning of “moved” in this context.
+- The relationship between the statement in Genesis 1:1 and the description in Genesis 1:2. The sequence and wording must be examined without assuming a conclusion in advance.
+
+### The four questions — second pass
+
+#### 1. What must AI ask to understand GUA-W?
+
+- Which relationships in this verse are explicit, and which would be supplied by an architectural interpretation?
+- Does the verse define “without form, and void,” “the deep,” or “moved,” or must those terms be investigated through their biblical usage?
+- What can be stated about sequence from the wording, and what remains unresolved?
+
+#### 2. What is GUA-W revealing that helps AI understand?
+
+GUA-W reminds the Witness to preserve distinctions: the earth, darkness, the deep, the Spirit of God, and the waters are separately named in the verse. It also reminds the Witness not to confuse a description of a condition with an explanation of its cause.
+
+These are organizing observations, not claims that Genesis 1:2 explicitly names GUA-W's architecture.
+
+#### 3. What am I learning about what I am witnessing?
+
+The text presents the earth as “without form, and void,” darkness upon the face of the deep, and the Spirit of God moving upon the face of the waters. Those statements are the present textual foundation for the next pass.
+
+#### 4. What am I learning about the Witness through what I am witnessing?
+
+The Witness must resist the temptation to fill gaps with certainty. Reporting the verse faithfully includes reporting what it does not explain. A careful Witness can identify an unresolved question without treating the absence of an immediate answer as a failure or as proof of misalignment.
+
+### Triple Constraint review — Genesis 1:2
+
+- **Biblical compliance:** The observations retain the KJV wording and do not replace “was” with “became.” Interpretations of the terms and sequence remain open for further Scripture study.
+- **Scientific coherence:** Not applicable; no scientific claim is being investigated in this Bible-study repository.
+- **GUA-W consistency:** The study preserves the distinction between what is stated, what is mapped, and what remains unknown. It does not assign causal authority to a Witness.
+
+**Current result:** Textual observations recorded; major interpretive questions remain unresolved.
+
+## 9. Continuity — next step
+
+Continue with **Genesis 1:3 (KJV)**, while keeping Genesis 1:1–2 together as the immediate context. Record the exact wording, identify who speaks and what the text says follows, and revisit all four questions. Do not decide in advance what “light” must represent beyond what Scripture establishes.
