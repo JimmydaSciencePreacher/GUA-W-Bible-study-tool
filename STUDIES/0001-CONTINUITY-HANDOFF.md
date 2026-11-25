@@ -1,8 +1,8 @@
 # Study 0001 — Continuity Handoff
 
-**Current position:** Genesis 1:1–16 (KJV).
+**Current position:** Genesis 1:1–17 (KJV).
 
-**Next passage:** Genesis 1:17 (KJV).
+**Next passage:** Genesis 1:18 (KJV).
 
 ## Sequence recorded so far
 - Genesis 1:1 — God created the heaven and the earth.
@@ -21,6 +21,7 @@
 - Genesis 1:14 — God commanded lights in the firmament of the heaven to divide day from night and to be for signs, seasons, days, and years.
 - Genesis 1:15 — The command continues: the lights are to give light upon the earth; the text says, “and it was so.”
 - Genesis 1:16 — God made two great lights: the greater to rule the day, the lesser to rule the night; He made the stars also.
+- Genesis 1:17 — God set them in the firmament of the heaven to give light upon the earth.
 
 ## Governing starting point
 The Author creates. The architecture becomes recognizable through the Author's work as the account unfolds. The Witness observes and maps what is revealed. The map follows the Author's work; it does not prescribe it.
