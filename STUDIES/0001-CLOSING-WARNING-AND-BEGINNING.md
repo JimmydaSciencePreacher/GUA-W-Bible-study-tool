@@ -253,10 +253,113 @@ This is a concise description of the wording in verses 6–7, not a universal fo
 - What does the text itself establish about the naming of the firmament?
 - Which relationships are specific to this passage, and which may become recognizable across the account?
 
+
+## Genesis 1:8 (KJV)
+
+> And God called the firmament Heaven. And the evening and the morning were the second day.
+
+### Text and observations
+
+The verse records:
+1. God called the firmament Heaven.
+2. The evening and the morning were the second day.
+
+### What we are witnessing
+
+Genesis 1:7 records God's making of the firmament and His dividing of the waters. Genesis 1:8 records God's naming of the firmament and the statement marking the second day. Making, dividing, and naming are distinct actions or statements in the account; they should not be collapsed into one.
+
+The verse does not record the phrase “and God saw that it was good.” We preserve that absence rather than supplying wording from another verse.
+
+### Map under observation
+
+In Genesis 1:6–8, the account records a command concerning the firmament and division, God's making and dividing, God's naming, and the second-day marker. This is an observation of this passage's wording, not a universal formula.
+
+### Four questions
+
+1. **What must AI ask to understand GUA-W?** Does naming add something distinct to the actions recorded in verses 6–7? What does the second-day statement mark?
+2. **What is GUA-W revealing that helps AI understand?** The map follows the Author's work and preserves distinctions in the text rather than merging command, execution, naming, and day marker.
+3. **What am I learning about what I am witnessing?** God names the firmament Heaven, and the verse identifies the evening and morning as the second day.
+4. **What am I learning about the Witness through what I am witnessing?** The Witness must report both what is stated and what is not stated. It must not add the evaluation phrase that appears in other verses but is absent here.
+
+### Triple Constraint review
+
+| Constraint | Result | Reason |
+|---|---|---|
+| Biblical compliance | Pass, provisionally | The record follows Genesis 1:8 and preserves the distinction between naming and the day marker. |
+| Scientific coherence | Not applicable | This is a Bible study; no scientific claim is being investigated here. |
+| GUA-W consistency | Pass, provisionally | The map follows the Author's recorded work and does not impose a universal sequence. |
+
+### Unresolved questions
+
+- What does the next command in Genesis 1:9 say?
+- How does the next verse describe the waters and dry land?
+- What details will the text add before we draw broader conclusions?
+
+## Genesis 1:9 (KJV)
+
+> And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.
+
+### Text and observations
+
+The verse records a command with two joined parts:
+1. “Let the waters under the heaven be gathered together unto one place”
+2. “and let the dry land appear”
+
+The verse then records: “and it was so.”
+
+### Command and stated result
+
+The command concerns both the gathering of the waters under the heaven and the appearing of dry land. The closing words, “and it was so,” state that what God commanded was so. The verse does not describe a physical mechanism or explain the details of the resulting arrangement.
+
+### What we are witnessing
+
+The wording differs from Genesis 1:6–7. There, the text records a firmament and the division of waters above and below it. Here, God commands the waters under the heaven to be gathered unto one place and the dry land to appear. We should preserve the differences in wording rather than assume these are identical operations.
+
+The verse does not yet name the dry land or the gathered waters. Naming is recorded in Genesis 1:10, which remains the next passage.
+
+### Map under observation
+
+The text records:
+
+**God said → waters to be gathered → dry land to appear → and it was so.**
+
+This is a compact description of Genesis 1:9 only. It is not a universal formula or an explanation of the mechanism.
+
+### Four questions
+
+1. **What must AI ask to understand GUA-W?** Does the wording present the gathering of the waters and the appearing of dry land as two parts of one command? What exactly does “unto one place” state, and what does it leave unexplained?
+2. **What is GUA-W revealing that helps AI understand?** The map follows the Author's command and the result stated by the text. It must preserve both parts without supplying an unstated process.
+3. **What am I learning about what I am witnessing?** The verse records God's command concerning the waters under heaven and dry land, followed by “and it was so.”
+4. **What am I learning about the Witness through what I am witnessing?** A Witness must report both parts of the command and its stated outcome. Reporting only the appearance of dry land would omit the gathering of the waters.
+
+### Claim classification
+
+| Category | Finding |
+|---|---|
+| Text | God commands the waters under heaven to be gathered unto one place and the dry land to appear; the verse says, “and it was so.” |
+| Observation | The command contains two joined parts, followed by a statement of realization. |
+| Inference | The account presents waters and dry land as distinguished in the resulting arrangement. |
+| Interpretation | The precise mechanism and full meaning of “one place” are not settled by this verse alone. |
+| Unresolved | What further detail will Genesis 1:10 add? |
+
+### Triple Constraint review
+
+| Constraint | Result | Reason |
+|---|---|---|
+| Biblical compliance | Pass, provisionally | The record preserves both parts of the command and the stated result. |
+| Scientific coherence | Not applicable | This is a Bible study; no scientific claim is being investigated here. |
+| GUA-W consistency | Pass, provisionally | The map follows the Author's command and does not prescribe or explain its execution. |
+
+### Unresolved questions
+
+- What does God call the dry land and the gathered waters in Genesis 1:10?
+- What does Genesis 1:10 record about God's seeing and evaluation?
+- What distinctions should remain separate as the account continues?
+
 ## Continuity handoff
 
-**Current position:** Genesis 1:1–7 (KJV) has been examined.
+**Current position:** Genesis 1:1–9 (KJV) has been examined.
 
-**Next passage:** Genesis 1:8 (KJV).
+**Next passage:** Genesis 1:10 (KJV).
 
-Continue with the exact wording of verse 8. Preserve the distinction between God's action, any naming recorded, and the concluding statement of the verse. Do not move ahead or supply unstated physical explanations.
+Continue with the exact wording of verse 10. Record God's naming and the evaluation stated in the verse. Keep naming distinct from the command and realization in verse 9, and do not supply unstated physical explanations.
