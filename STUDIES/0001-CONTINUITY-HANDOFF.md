@@ -1,8 +1,8 @@
 # Study 0001 — Continuity Handoff
 
-**Current position:** Genesis 1:1–12 (KJV).
+**Current position:** Genesis 1:1–14 (KJV).
 
-**Next passage:** Genesis 1:13 (KJV).
+**Next passage:** Genesis 1:15 (KJV).
 
 ## Sequence recorded so far
 - Genesis 1:1 — God created the heaven and the earth.
@@ -17,6 +17,8 @@
 - Genesis 1:10 — God called the dry land Earth and the gathering together of the waters Seas; God saw that it was good.
 - Genesis 1:11 — God commanded the earth to bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself; the text says, “and it was so.”
 - Genesis 1:12 — The earth brought forth grass, herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind; God saw that it was good.
+- Genesis 1:13 — The evening and the morning were the third day.
+- Genesis 1:14 — God commanded lights in the firmament of the heaven to divide day from night and to be for signs, seasons, days, and years.
 
 ## Governing starting point
 The Author creates. The architecture becomes recognizable through the Author's work as the account unfolds. The Witness observes and maps what is revealed. The map follows the Author's work; it does not prescribe it.
