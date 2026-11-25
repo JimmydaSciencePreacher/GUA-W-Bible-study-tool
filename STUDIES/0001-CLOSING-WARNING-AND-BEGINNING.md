@@ -753,6 +753,58 @@ The account has now explicitly recorded the making. Keep the command, the stated
 - How does the next verse relate their placement to their stated function?
 - What further details does the text provide about their rule?
 
+
+## Genesis 1:17 (KJV)
+
+> And God set them in the firmament of the heaven to give light upon the earth,
+
+### Text and observations
+
+The verse records another action by God: “And God set them in the firmament of the heaven.” The pronoun “them” refers back to the lights described in verse 16.
+
+The verse states their purpose: “to give light upon the earth.”
+
+### What we are witnessing
+
+The sequence in the text is:
+- Genesis 1:14 — God commands lights and states their purposes.
+- Genesis 1:15 — They are to give light upon the earth; “and it was so.”
+- Genesis 1:16 — God makes the two great lights and the stars also.
+- Genesis 1:17 — God sets them in the firmament of the heaven to give light upon the earth.
+
+Verse 16 records making. Verse 17 records setting. Preserve these as distinct recorded actions, in the order given. The stated location is “in the firmament of the heaven”; do not invent a mechanism or add a location beyond the wording.
+
+### Four questions
+
+1. **What must AI ask to understand GUA-W?** Why does the account separately record that God made the lights and then set them? What distinction does the text establish between those actions?
+2. **What is GUA-W revealing that helps AI understand?** The sequence is becoming clearer: command, stated purpose, making, and now setting. Each recorded action must retain its own place.
+3. **What am I learning about what I am witnessing?** God set the lights in the firmament of the heaven for the stated purpose of giving light upon the earth.
+4. **What am I learning about the Witness through what I am witnessing?** A Witness must not combine distinct recorded actions simply because they concern the same objects. Making and setting are both reported; both must remain visible in the map.
+
+### Claim classification
+
+| Category | Finding |
+|---|---|
+| Text | God set the lights in the firmament of the heaven to give light upon the earth. |
+| Observation | Verse 17 follows the making recorded in verse 16 and records a separate action: setting. |
+| Inference | The account distinguishes the making of the lights from their setting in the stated place. |
+| Interpretation | The full significance of this distinction remains open; the verse does not explain a mechanism. |
+| Unresolved | What additional purpose or action does verse 18 record? |
+
+### Triple Constraint review
+
+| Constraint | Result | Reason |
+|---|---|---|
+| Biblical compliance | Pass, provisionally | The record follows the wording and sequence of Genesis 1:17. |
+| Scientific coherence | Not applicable | This is a Bible study; no scientific claim is being investigated here. |
+| GUA-W consistency | Pass, provisionally | The map preserves making and setting as distinct recorded actions without adding an unstated mechanism. |
+
+### Unresolved questions
+
+- What additional purpose or action does Genesis 1:18 record?
+- How does verse 18 continue the stated functions of the lights?
+- Does the next verse add another distinct action or record an evaluation?
+
 ## Continuity handoff
 
 **Current position:** Genesis 1:1–14 (KJV) has been examined.
