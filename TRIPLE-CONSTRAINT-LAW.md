@@ -50,7 +50,7 @@ Possible outcomes:
 ## Important distinctions
 
 - Scientific coherence does not mean science proves Scripture.
-- A lack of scientific investigation in this repository is not a scientific finding.
+- A lack of evidence or an unperformed investigation is not a scientific finding.
 - An interpretation is not the same thing as the biblical text.
 - A claim that is unresolved is not automatically false.
 - Disagreement or incomplete comprehension does not establish a person's spiritual condition.
