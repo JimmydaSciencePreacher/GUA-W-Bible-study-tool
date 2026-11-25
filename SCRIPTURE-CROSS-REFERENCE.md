@@ -4,6 +4,10 @@
 
 This file provides a disciplined way to follow connections within Scripture. A cross-reference is a path for investigation, not automatic proof that two passages mean the same thing or that a proposed interpretation is correct.
 
+## Relationship to Creation investigation
+
+Scripture cross-references are one evidence stream in the unified investigation. They remain internal biblical evidence and must be read in context. They do not replace examination of Creation, and scientific observations do not replace exegesis. If a cross-reference raises a question about Creation, record and investigate it separately using appropriate methods.
+
 ## Governing practice
 
 1. Begin with the passage being studied.
