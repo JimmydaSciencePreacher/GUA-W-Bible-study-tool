@@ -12,7 +12,7 @@ This file preserves questions that have emerged during Bible study but have not 
 - Record relevant passages on more than one side of a question.
 - Do not judge a person's heart, faith, or spiritual state from disagreement, uncertainty, or limited comprehension.
 - Do not alter GUA-W to make an unresolved question disappear.
-- If a question requires scientific investigation, mark it outside this Bible-study repository's scope.
+- If a question requires scientific investigation, keep it open while conducting or scheduling a properly sourced investigation within this unified repository. Do not mark it outside scope merely because it is scientific.
 
 ## Question record template
 
@@ -52,7 +52,7 @@ Identify any established GUA-W distinctions that help frame the question. Do not
 ### Triple Constraint review
 
 - Biblical compliance:
-- Scientific coherence: not applicable unless a scientific claim is actually being made; scientific investigations are outside this repository's scope.
+- Scientific coherence: examine relevant evidence, methods, competing explanations, and uncertainty whenever a scientific claim is involved. Scientific coherence is not scientific confirmation of Scripture.
 - GUA-W consistency:
 
 ### Current status
