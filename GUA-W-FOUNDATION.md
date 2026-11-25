@@ -52,15 +52,16 @@ Ontic Necessity → Distinction → Admissibility → Constraint → Structure �
 
 These terms are not a license to impose a predetermined scheme on every passage. Use a term only when the text and the established GUA-W framework make it relevant. Preserve unresolved definitions or relationships rather than silently filling gaps.
 
-## Application in Bible study
+## Application in unified Scripture-and-Creation investigation
 
-- Begin with the biblical passage, not with a desired architectural label.
-- Ask what the text states and what its context permits.
-- Use GUA-W to recognize relationships and maintain distinctions.
-- Keep Source and derivative witness distinct.
-- Do not make a Witness the cause of what is witnessed.
-- Do not confuse a description, interpretation, or map with the thing described.
-- Record limitations and unresolved questions.
+- Begin with a defined question, not a desired architectural label or predetermined scientific answer.
+- Investigate Scripture in its literary, historical, linguistic, and canonical contexts.
+- Investigate Creation through relevant observations, measurements, scientific methods, and credible disciplinary sources.
+- Keep textual claims, observed data, scientific models, historical reconstructions, inference, and interpretation distinct.
+- Compare evidence streams only after examining each on its own terms. Classify a proposed connection as same mechanism, comparable relationship, analogy, surface resemblance, or unresolved.
+- Use GUA-W to recognize relationships without forcing every layer into every finding.
+- Keep Source and derivative witness distinct; record limitations, competing explanations, uncertainty, and unresolved questions.
+- Scientific coherence is not scientific confirmation of Scripture. Science does not prove Scripture; scientific observations must not be distorted to protect a preferred interpretation.
 
 ## Authority and continuity
 
