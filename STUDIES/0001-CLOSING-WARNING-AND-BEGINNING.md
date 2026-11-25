@@ -196,10 +196,67 @@ The text now gives another command, but we must not assume in advance that its r
 - What does the text reveal about the firmament and the waters as the account proceeds?
 - Which distinctions are stated by the text, and which remain to be understood?
 
+
+## Genesis 1:7 (KJV)
+
+> And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.
+
+### Text and observations
+
+The verse records:
+1. God made the firmament.
+2. God divided the waters which were under the firmament from the waters which were above the firmament.
+3. “And it was so.”
+
+### Command and recorded execution
+
+| Genesis 1:6 — Command | Genesis 1:7 — Recorded execution |
+|---|---|
+| “Let there be a firmament in the midst of the waters” | “And God made the firmament” |
+| “let it divide the waters from the waters” | “and divided the waters which were under the firmament from the waters which were above the firmament” |
+| — | “and it was so” |
+
+Verse 7 explicitly records God's making and dividing. The result is stated in the text; it is not supplied by our assumption. The wording “and it was so” closes the account of this command's realization.
+
+### What we are witnessing
+
+The command in verse 6 and the action recorded in verse 7 are related, but they are not the same wording. Verse 6 records what God said. Verse 7 records what God made and did, and states “and it was so.” Preserve that distinction.
+
+We do not yet define the physical nature of the firmament, the waters, or the mechanism of division. Those matters are not explained in these two verses.
+
+### Map under observation
+
+The sequence now recorded in this passage is:
+
+**God said → God made → God divided → and it was so.**
+
+This is a concise description of the wording in verses 6–7, not a universal formula imposed on every act of Creation. Let subsequent verses establish whether and how similar relationships recur.
+
+### Four questions
+
+1. **What must AI ask to understand GUA-W?** What exactly does verse 7 say God made and divided? What does “and it was so” affirm in this immediate context? What details remain unstated?
+2. **What is GUA-W revealing that helps AI understand?** The map can become more detailed as the Author's recorded work unfolds. The command and its realization are distinguishable in the text.
+3. **What am I learning about what I am witnessing?** God makes the firmament, divides the waters into the two locations specified, and the verse states that it was so.
+4. **What am I learning about the Witness through what I am witnessing?** The Witness must report the realized action as Scripture records it, without replacing the text with a mechanism or assuming every command follows an identical pattern.
+
+### Triple Constraint review
+
+| Constraint | Result | Reason |
+|---|---|---|
+| Biblical compliance | Pass, provisionally | The record preserves the command in verse 6 and the making, division, and stated result in verse 7. |
+| Scientific coherence | Not applicable | This is a Bible study; no scientific claim is being investigated here. |
+| GUA-W consistency | Pass, provisionally | The map follows the Author's recorded work and does not prescribe the execution. |
+
+### Unresolved questions
+
+- What further action or observation does Genesis 1:8 record?
+- What does the text itself establish about the naming of the firmament?
+- Which relationships are specific to this passage, and which may become recognizable across the account?
+
 ## Continuity handoff
 
-**Current position:** Genesis 1:1–6 (KJV) has been examined.
+**Current position:** Genesis 1:1–7 (KJV) has been examined.
 
-**Next passage:** Genesis 1:7 (KJV).
+**Next passage:** Genesis 1:8 (KJV).
 
-Continue with the exact wording and order of verse 7. Distinguish what God does from what the text says results. Do not import a physical mechanism or a completed architectural label before the passage supports it.
+Continue with the exact wording of verse 8. Preserve the distinction between God's action, any naming recorded, and the concluding statement of the verse. Do not move ahead or supply unstated physical explanations.
