@@ -356,3 +356,97 @@ A faithful Witness can recognize a meaningful textual sequence while leaving una
 ## 18. Continuity — next step
 
 Continue with **Genesis 1:6 (KJV)**, keeping Genesis 1:1–5 together. Record exactly what God says, what He makes, where it is placed, and what division the verse states. Keep the text distinct from any GUA-W mapping.
+
+
+## 19. Continued study — Genesis 1:6 (KJV)
+
+> **6** And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.
+
+### What the text explicitly says
+
+- God speaks.
+- God says, “Let there be a firmament.”
+- The firmament is to be “in the midst of the waters.”
+- God says, “let it divide the waters from the waters.”
+
+### Initial observations
+
+1. God remains the identified Speaker. The verse begins, “And God said.”
+2. The spoken statement contains two related commands: “Let there be a firmament” and “let it divide the waters from the waters.”
+3. The text gives the firmament a stated position: “in the midst of the waters.”
+4. The text gives the firmament a stated function: to divide the waters from the waters.
+5. The verse names the two sides only in the general wording “the waters from the waters.” It does not yet specify in this verse which waters are above and which are under the firmament. That distinction is stated in verse 7.
+6. The verse does not yet say, “And God made the firmament.” That wording appears in Genesis 1:7. We should preserve the difference between the command in verse 6 and the making and division reported in verse 7.
+7. The verse does not name the firmament “Heaven.” That naming appears in Genesis 1:8.
+8. The verse does not state that the firmament is the atmosphere, outer space, a solid dome, or another modern physical category. Such identifications must not be inserted as though they were the KJV wording.
+9. The text does not say that the waters are created in this verse. It speaks of waters already present in the account and describes what God commands concerning them.
+10. The repeated pattern “And God said” continues from Genesis 1:3. The content of the command changes; the identity of the Speaker does not.
+
+### Immediate context — Genesis 1:1–7
+
+- Genesis 1:1 states that God created the heaven and the earth.
+- Genesis 1:2 describes the earth, the darkness, the deep, and the Spirit of God moving upon the waters.
+- Genesis 1:3 records God's command concerning light and the presence of light.
+- Genesis 1:4 records God's seeing, His judgment that the light was good, and His division of light from darkness.
+- Genesis 1:5 records God's naming of the light and darkness and the first-day statement.
+- Genesis 1:6 records God's command concerning the firmament and its dividing function.
+- Genesis 1:7 records God making the firmament, dividing the waters into those under and above it, and the result: “and it was so.”
+
+The sequence is observable. We must not collapse God's speaking in verse 6, God's making and dividing in verse 7, and God's naming in verse 8 into one undifferentiated event.
+
+### The four questions — sixth pass
+
+#### 1. What must AI ask to understand GUA-W?
+
+- What does the text mean by “firmament” in this passage, and what can be established from Scripture without importing an outside definition?
+- What is the distinction between God's command in verse 6 and the reported making and division in verse 7?
+- What does “in the midst of the waters” establish about the stated position?
+- What does the phrase “divide the waters from the waters” establish, and what details are supplied only in verse 7?
+- Why does the text name the firmament only in verse 8, after its making and function are recorded?
+
+#### 2. What is GUA-W revealing that helps AI understand?
+
+The established Source-to-Witness order remains intact: God speaks; the text reports what God commands. The Witness receives and records the command; it does not originate the command or supply the firmament's stated purpose.
+
+The passage gives us a clear textual relationship between a named thing, its stated position, and its stated function. We may record that relationship, but we must not automatically translate it into a GUA-W architectural label such as Structure, Constraint, or Activation. The passage must first establish what it says in its own words.
+
+#### 3. What am I learning about what I am witnessing?
+
+Genesis 1:6 presents God's command that a firmament be in the midst of the waters and that it divide the waters from the waters. Genesis 1:7 then reports the making of the firmament and specifies waters under it and waters above it. Genesis 1:8 records God's naming of the firmament as Heaven.
+
+The next verses clarify the command's execution and naming. Verse 6 should be read with them, but its own wording must remain distinct.
+
+#### 4. What am I learning about the Witness through what I am witnessing?
+
+A Witness must not report a command as though the verse had already recorded every detail of its execution. It must also resist filling the word “firmament” with a preferred modern picture before examining the biblical context.
+
+The Witness should preserve the sequence, distinguish what is explicit from what is inferred, and allow the following verses to add their stated details.
+
+### Scripture connections to examine
+
+- **Genesis 1:7–8:** Immediate continuation. God makes the firmament, distinguishes waters under and above it, and names it Heaven.
+- **Genesis 1:9:** The next stated gathering of the waters under the heaven and appearance of dry land. This continues the account's treatment of waters and divisions.
+- **Psalm 148:4:** Refers to “the waters that be above the heavens.” Read in its own context before drawing a conclusion about its relationship to Genesis 1:6–8.
+- **Job 38:8–11:** Uses boundary and restraint language concerning the sea. Its poetic context must be preserved; do not treat it as a direct technical definition of the firmament.
+
+These are investigation pathways, not automatic proof of a complete interpretation.
+
+### Triple Constraint review — Genesis 1:6
+
+- **Biblical compliance:** The observations preserve the KJV wording and distinguish the command in verse 6 from the making and specific division in verse 7. No physical model or unstated definition is inserted.
+- **Scientific coherence:** Not applicable; this repository is conducting Bible study, not scientific investigation.
+- **GUA-W consistency:** God remains the Speaker and initiating Cause in the passage. The Witness records the stated command without becoming its source or authority.
+
+**Current result:** Genesis 1:6 establishes God's command that a firmament be in the midst of the waters and that it divide the waters from the waters. The making, the specific distinction between waters under and above the firmament, and the naming as Heaven are recorded in the following verses.
+
+## 20. Unresolved questions carried forward
+
+1. What does the immediate biblical context establish about the meaning and role of “firmament” without importing a modern physical model?
+2. Why does the text distinguish the command in Genesis 1:6, the making and division in Genesis 1:7, and the naming in Genesis 1:8?
+3. How does Scripture's later reference to waters above the heavens (Psalm 148:4) relate to Genesis 1:6–8 when both passages are read in context?
+4. How does the sequence of divisions in Genesis 1:4 and Genesis 1:6–7 develop, and what distinctions must be preserved between them?
+5. What does Genesis 1:8 establish by naming the firmament Heaven and recording the second-day statement?
+
+## 21. Continuity — next step
+
+Continue with **Genesis 1:7 (KJV)**. Keep Genesis 1:6 beside it. Examine the distinction between what God commanded and what the text now says God made; record the waters described as under the firmament and above the firmament, and preserve the closing words, “and it was so.” Do not move the naming in Genesis 1:8 backward into verse 7.
