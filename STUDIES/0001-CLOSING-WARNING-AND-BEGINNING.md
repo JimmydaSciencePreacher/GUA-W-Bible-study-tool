@@ -647,6 +647,56 @@ This is a map of the command in Genesis 1:14 only. The execution and further det
 - How does the next verse describe the execution of this command?
 - What do “signs” and “seasons” mean in the context of the passage?
 
+
+## Genesis 1:15 (KJV)
+
+> And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.
+
+### Text and observations
+
+This verse continues the command concerning the lights introduced in Genesis 1:14. It states that they are to be lights in the firmament of the heaven and are to give light upon the earth. The verse concludes, “and it was so.”
+
+The verse records the stated function and the result affirmation. It does not yet give the details of the making of the lights; the next verse records what God made.
+
+### What we are witnessing
+
+- Genesis 1:14 records God's command concerning lights and the purposes stated for them.
+- Genesis 1:15 continues the command: they are to give light upon the earth; “and it was so.”
+- Genesis 1:16 records God's making of the two great lights and the stars.
+
+Preserve this sequence. Do not add details about how the lights were made or identify them from outside the passage before reading the next verse.
+
+### Four questions
+
+1. **What must AI ask to understand GUA-W?** What does “and it was so” affirm in this verse? Does it close the command from verse 14, or specifically affirm the additional instruction in verse 15? Let the wording and sequence guide the answer.
+2. **What is GUA-W revealing that helps AI understand?** The command in verse 14 is continued with a stated function in verse 15: giving light upon the earth. The verse then records that it was so.
+3. **What am I learning about what I am witnessing?** The text records both the instruction and its result. The lights are to give light upon the earth, and the text affirms, “and it was so.”
+4. **What am I learning about the Witness through what I am witnessing?** A Witness must preserve the difference between a command, its stated purpose, and the text's report of its result. It must not fill in details that the passage has not yet supplied.
+
+### Claim classification
+
+| Category | Finding |
+|---|---|
+| Text | The lights are to give light upon the earth; “and it was so.” |
+| Observation | Verse 15 continues the command of verse 14 and records the result. |
+| Inference | The stated function is affirmed in the account. |
+| Interpretation | The precise relationship between “and it was so” here and the making described in verse 16 remains open until that verse is examined. |
+| Unresolved | What does verse 16 specifically say God made? |
+
+### Triple Constraint review
+
+| Constraint | Result | Reason |
+|---|---|---|
+| Biblical compliance | Pass, provisionally | The record follows the wording and sequence of Genesis 1:15. |
+| Scientific coherence | Not applicable | This is a Bible study; no scientific claim is being investigated here. |
+| GUA-W consistency | Pass, provisionally | The map distinguishes the command, stated function, and result without adding unstated details. |
+
+### Unresolved questions
+
+- What does Genesis 1:16 specifically say God made?
+- How does verse 16 relate to the command and result recorded in verses 14–15?
+- What further distinctions does the text itself make?
+
 ## Continuity handoff
 
 **Current position:** Genesis 1:1–14 (KJV) has been examined.
