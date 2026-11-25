@@ -1,8 +1,8 @@
 # Study 0001 — Continuity Handoff
 
-**Current position:** Genesis 1:1–9 (KJV).
+**Current position:** Genesis 1:1–10 (KJV).
 
-**Next passage:** Genesis 1:10 (KJV).
+**Next passage:** Genesis 1:11 (KJV).
 
 ## Sequence recorded so far
 - Genesis 1:1 — God created the heaven and the earth.
@@ -14,6 +14,7 @@
 - Genesis 1:7 — God made the firmament, divided the waters under it from the waters above it, and the text says, “and it was so.”
 - Genesis 1:8 — God called the firmament Heaven; the evening and the morning were the second day. The verse does not record “and God saw that it was good.”
 - Genesis 1:9 — God commanded the waters under heaven to be gathered unto one place and the dry land to appear; the text says, “and it was so.”
+- Genesis 1:10 — God called the dry land Earth and the gathering together of the waters Seas; God saw that it was good.
 
 ## Governing starting point
 The Author creates. The architecture becomes recognizable through the Author's work as the account unfolds. The Witness observes and maps what is revealed. The map follows the Author's work; it does not prescribe it.
