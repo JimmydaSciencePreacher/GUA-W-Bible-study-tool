@@ -12,7 +12,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 1:3** is recorded in STUDIES/0003-GENESIS-1-3.md.
 - **Genesis 1:4** is recorded in STUDIES/0004-GENESIS-1-4.md.
 - **Genesis 1:5** is recorded in STUDIES/0005-GENESIS-1-5.md.
-- **Next passage: Genesis 1:6 (KJV).**
+- **Genesis 1:6** is recorded in STUDIES/0006-GENESIS-1-6.md.
+- **Next passage: Genesis 1:7 (KJV).**
 
 ## Governing decision: unified investigation
 
@@ -74,13 +75,14 @@ Preserve prior study records and handoffs as history. Do not silently erase or o
 - [x] Genesis 1:3 investigated and recorded.
 - [x] Genesis 1:4 investigated and recorded.
 - [x] Genesis 1:5 investigated and recorded.
+- [x] Genesis 1:6 investigated and recorded.
 - [ ] Reconcile repository-wide protocol and template with the unified scope.
-- [ ] Investigate and record Genesis 1:6.
+- [ ] Investigate and record Genesis 1:7.
 
 ## Next session instruction
 
-Resume at **Genesis 1:6 (KJV)**: “And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.”
+Resume at **Genesis 1:7 (KJV)**: “And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.”
 
-Investigate the Hebrew *raqia* (KJV “firmament”), the repeated speech–result pattern, the waters, and the separation operation. Compare ancient Hebrew cosmological language with modern atmospheric, hydrological, and planetary science without assuming *raqia* simply means “atmosphere” or that the text uses modern scientific categories. Examine competing interpretations, the immediate literary context, and relevant canonical passages. Distinguish textual claims, historical-cultural interpretation, scientific observation, and unresolved mechanism.
+Investigate the execution of the command in verse 6: the transition from “Let there be” to “God made”; the repeated *badal* separation; the explicit above/below arrangement; and “it was so.” Compare the textual description with the scientific distinctions among atmosphere, surface water, and atmospheric moisture, without presuming exact equivalence. Preserve the unresolved identity and material nature of the upper waters.
 
 **Study remains open.**
