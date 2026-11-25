@@ -289,3 +289,70 @@ The Witness must distinguish God's stated judgment from its own evaluation. It m
 ## 15. Continuity — next step
 
 Continue with **Genesis 1:5 (KJV)**. Keep the sequence in view: God saw, God called good, God divided; now examine what God names and how the verse closes the first day.
+
+
+## 16. Continued study — Genesis 1:5 (KJV)
+
+> **5** And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
+
+### What the text explicitly says
+
+- God called the light “Day.”
+- God called the darkness “Night.”
+- The verse then states: “And the evening and the morning were the first day.”
+
+### Initial observations
+
+1. God is the One who names both the light and the darkness.
+2. The names are stated distinctly: light is called “Day”; darkness is called “Night.”
+3. The verse follows the division recorded in Genesis 1:4. Genesis 1:4 says God divided the light from the darkness; Genesis 1:5 records the names God gives them.
+4. The verse then records “the evening and the morning” and identifies them as “the first day.”
+5. The wording places the naming before the closing day statement in the verse. We should preserve that textual order without assuming that the order alone explains every aspect of the day.
+6. The verse explicitly calls this interval “the first day.” It does not, in this verse alone, provide a separate explanation of the duration or physical measurement of that day.
+7. “Day” is used in the verse both as the name given to the light and in the phrase “the first day.” The shared word is clear; the full relationship between these uses should be examined through the passage and wider Scripture rather than decided by assumption.
+8. The text does not say that God created darkness in this verse. It says God called the darkness Night. The account of creation and the naming must not be conflated.
+9. The verse does not say that Night is evil or that Day is morally good. Genesis 1:4 calls the light good; Genesis 1:5 gives names. We should not add a moral contrast that the wording here does not make.
+
+### The four questions — fifth pass
+
+#### 1. What must AI ask to understand GUA-W?
+
+- What does the act of naming establish in the passage, and what does it not establish?
+- How does Genesis 1:5 relate to the division in Genesis 1:4?
+- Why does the verse use “Day” first as the name of the light and then say “the first day”?
+- What does “the evening and the morning” establish explicitly, and what questions about duration or sequence remain open?
+
+#### 2. What is GUA-W revealing that helps AI understand?
+
+The passage continues to identify God as the One who acts: God sees, judges, divides, and names. The Witness receives and records these acts; the Witness does not supply the names or become their authority.
+
+As a GUA-W mapping, the relationship between division and naming may be worth tracking. But “naming” must remain the biblical word at this point; we should not automatically rename it as identity assignment, activation, or another architectural operation without further textual support.
+
+#### 3. What am I learning about what I am witnessing?
+
+Genesis 1:4 records the division of light from darkness. Genesis 1:5 records God's names for them and identifies the evening and morning as the first day. The passage gives us a continuing sequence: division, naming, and the first-day statement.
+
+#### 4. What am I learning about the Witness through what I am witnessing?
+
+The Witness must not confuse the name given by God with a name or category invented by the Witness. It must also avoid importing moral meanings or measurements that the verse has not stated.
+
+A faithful Witness can recognize a meaningful textual sequence while leaving unanswered questions unresolved.
+
+### Triple Constraint review — Genesis 1:5
+
+- **Biblical compliance:** The record follows the KJV wording: God calls the light Day and the darkness Night; the evening and the morning are the first day. It does not add a moral equation or a duration not stated in this verse.
+- **Scientific coherence:** Not applicable; this repository is conducting Bible study, not scientific investigation.
+- **GUA-W consistency:** God remains the One who names. The Witness records the given distinctions without claiming authorship or authority over them.
+
+**Current result:** Genesis 1:5 establishes God's naming of the light and darkness and identifies the evening and morning as the first day. The precise relationship between the two uses of “Day,” and the full implications of the evening-and-morning wording, remain open for continued biblical study.
+
+## 17. Unresolved questions carried forward
+
+1. What does Genesis 1:6 say God makes in the midst of the waters, and what division does the text describe?
+2. How does the account's repeated use of “divided” or related wording develop from Genesis 1:4 onward?
+3. What can the text establish about the first day without importing a measurement or chronology not yet stated?
+4. How does God's naming in Genesis 1:5 relate to later naming acts in Genesis 1–2?
+
+## 18. Continuity — next step
+
+Continue with **Genesis 1:6 (KJV)**, keeping Genesis 1:1–5 together. Record exactly what God says, what He makes, where it is placed, and what division the verse states. Keep the text distinct from any GUA-W mapping.
