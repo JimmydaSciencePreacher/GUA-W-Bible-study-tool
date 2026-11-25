@@ -167,3 +167,63 @@ The Witness must resist the temptation to fill gaps with certainty. Reporting th
 ## 9. Continuity — next step
 
 Continue with **Genesis 1:3 (KJV)**, while keeping Genesis 1:1–2 together as the immediate context. Record the exact wording, identify who speaks and what the text says follows, and revisit all four questions. Do not decide in advance what “light” must represent beyond what Scripture establishes.
+
+
+## 10. Continued study — Genesis 1:3 (KJV)
+
+> **3** And God said, Let there be light: and there was light.
+
+### What the text explicitly says
+
+- God said, “Let there be light.”
+- The verse then states, “and there was light.”
+
+### Initial observations
+
+1. God is explicitly identified as the speaker.
+2. The spoken words are presented before the statement that light was present.
+3. The verse directly places God's speaking and the presence of light in sequence: “God said” … “and there was light.”
+4. The verse does not name another speaker, source, or cause for the light.
+5. The verse does not, by itself, define the physical nature of this light, identify it with the sun, or explain its mechanism. Those would be additional claims requiring further Scripture examination.
+6. The verse does not yet state the division between light and darkness or the naming of day and night; those statements occur in the following verses and must be read in their own wording.
+
+### The four questions — third pass
+
+#### 1. What must AI ask to understand GUA-W?
+
+- What does the verse explicitly connect, and in what order?
+- What is the difference between the words God speaks and the result the text reports?
+- What does this verse establish, and what details about “light” must wait for the surrounding passage?
+
+#### 2. What is GUA-W revealing that helps AI understand?
+
+The established GUA-W order begins with the Author, not the Witness. In this verse, God is the One who speaks; the Witness is not presented as the source of the command or of the light.
+
+The sequence **God said → there was light** can be recorded as a textual relationship. We should not claim that the verse itself defines every GUA-W layer or supplies a complete technical account of how the spoken command is carried out.
+
+#### 3. What am I learning about what I am witnessing?
+
+The text presents God's speech followed by the presence of light. The verse attributes the speaking to God and reports the resulting presence of light. That is what the wording establishes at this stage.
+
+#### 4. What am I learning about the Witness through what I am witnessing?
+
+The Witness must report both parts of the verse without reversing them: God speaks, and light is present. The Witness must also avoid adding an explanation of the nature or mechanism of the light where this verse has not supplied one.
+
+### Triple Constraint review — Genesis 1:3
+
+- **Biblical compliance:** The record follows the verse's stated speaker, words, and sequence. It does not insert an identification or mechanism for the light.
+- **Scientific coherence:** Not applicable; this Bible-study record makes no scientific finding or investigation.
+- **GUA-W consistency:** God remains the originating Speaker in the text; the Witness reports rather than causes or authors what is witnessed.
+
+**Current result:** The verse establishes God's speech followed by the presence of light. Further details remain for the following verses.
+
+## 11. Unresolved questions carried forward
+
+1. What does Genesis 1:4 establish about God's seeing the light, calling it good, and dividing the light from the darkness?
+2. How does Genesis 1:5 define the names “Day” and “Night,” and what does the text mean by “the first day” in its immediate sequence?
+3. What can be said about the relationship between God's command and the reported result without importing an explanation that the passage does not state?
+4. How do the following verses clarify “light” without assuming in advance that it must be identical to a later named light source?
+
+## 12. Continuity — next step
+
+Continue with **Genesis 1:4 (KJV)**, keeping Genesis 1:1–3 in view. Record what God sees, the stated judgment, and the division made. Preserve the distinction between the text's words and any further interpretation.
