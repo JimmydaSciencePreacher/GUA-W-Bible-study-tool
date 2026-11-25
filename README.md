@@ -55,7 +55,7 @@ These four questions are used together and recursively throughout a study:
 3. **What am I learning about what I am witnessing?**
 4. **What am I learning about the Witness through what I am witnessing?**
 
-They are not four sequential stages. Each question can inform and refine the others as Scripture is examined.
+They are not four sequential stages. Each question can inform and refine the others as Scripture and Creation are investigated.
 
 ## Scope and boundaries
 
