@@ -1341,3 +1341,112 @@ These passages provide further biblical witnesses to examine. They do not replac
 ## 48. Continuity — next step
 
 Continue with **Genesis 1:16 (KJV)**. Examine the exact wording “And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.” Record the two great lights, their stated distinction and rule, and the additional statement about the stars. Do not import names, mechanisms, or conclusions beyond what the verse and its immediate context establish.
+
+
+## 49. Continued study — Genesis 1:16 (KJV)
+
+> **16** And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.
+
+### What the text explicitly says
+
+- God made two great lights.
+- The greater light is stated to rule the day.
+- The lesser light is stated to rule the night.
+- God made the stars also.
+
+### Initial observations
+
+1. God is the grammatical and stated acting subject: “And God made.” The verse attributes the making to God.
+2. The verse identifies “two great lights.” It distinguishes them comparatively as “the greater light” and “the lesser light.”
+3. The greater light is associated with ruling the day. The lesser light is associated with ruling the night.
+4. The word “rule” appears twice. Preserve the parallel wording and its day/night distinction.
+5. The verse does not use the words “sun” or “moon” in this sentence. Those identifications are familiar from the wider biblical context, but the immediate wording should first be recorded as “greater light” and “lesser light.”
+6. The verse adds, “he made the stars also.” The stars are explicitly included in God's making.
+7. The final clause is a separate statement about the stars. The verse does not explicitly say in this clause that the stars rule the night. Do not transfer the lesser light's stated function to the stars without further textual support.
+8. The verse does not state the physical size, distance, composition, or mechanism of the lights. “Greater” and “lesser” are the comparative terms used in the KJV passage; their precise basis should not be assumed from this verse alone.
+9. The verse does not say that the lights originate or author the day and night. It assigns them their stated rule within the created order.
+10. The verse follows the command in verses 14–15. It reports that God made the lights; it should not be silently substituted for the wording of the preceding command.
+11. Verse 17 next reports that God set them in the firmament of heaven. Making and setting are distinct actions in the account and should both be preserved.
+12. Verse 18 continues with their rule over day and night and their division of light from darkness, then records God's evaluation that it was good.
+13. Verse 19 closes the fourth day with the evening-and-morning marker. Verse 16 itself does not contain that closing marker.
+14. The text says God made the stars also. It does not give their number, individual names, or a complete account of their purposes in this verse.
+
+### Immediate context — Genesis 1:14–19
+
+- **Verse 14:** God commands lights in the firmament, with purposes including dividing day from night and serving for signs, seasons, days, and years.
+- **Verse 15:** God says they are to give light upon the earth; “and it was so.”
+- **Verse 16:** God makes two great lights, distinguishes the greater and lesser, assigns their stated rule over day and night, and makes the stars also.
+- **Verse 17:** God sets them in the firmament of heaven to give light upon the earth.
+- **Verse 18:** Their rule and division are stated again; God sees that it was good.
+- **Verse 19:** The evening and the morning are the fourth day.
+
+This context keeps several roles distinct: God commands, God makes, God sets, the lights perform their stated functions, God evaluates, and the day marker closes the sequence. The Witness records each statement without making the created lights into the Author.
+
+### Wording to preserve — “greater,” “lesser,” and “stars also”
+
+The text gives a comparative distinction between two great lights. It then adds the stars. These are the categories and relations expressly named in the verse.
+
+The verse does not explain why the lights are called greater and lesser, nor does it state that the stars share the lesser light's stated rule. We should not fill either gap by assumption. Later passages may clarify particular identifications or functions, but they must be read in their own context.
+
+### The four questions — sixteenth pass
+
+#### 1. What must AI ask to understand GUA-W?
+
+- What does the wording “God made” establish about the Source and the action in this verse?
+- What does “two great lights” identify, and what does the comparative wording “greater” and “lesser” distinguish?
+- What does “to rule the day” and “to rule the night” say about the assigned functions?
+- Does the verse assign the stars the same stated rule as the lesser light, or does it simply add that God made them also?
+- How do the making in verse 16 and the setting in verse 17 relate without being collapsed into one statement?
+- How do verses 14–18 connect the lights' stated purposes with their described rule and division?
+- What does the immediate text leave unstated about the lights and stars?
+
+#### 2. What is GUA-W revealing that helps AI understand?
+
+The passage keeps the Author distinct from what is made. God is the One who makes; the lights and stars are made things within the order God establishes. Their stated functions do not make them the source of their own authority or purpose.
+
+The passage also demonstrates why a Witness must preserve grammatical distinctions. The greater and lesser lights receive explicit day and night functions; the stars are added in a separate clause. A Witness must not extend a function to an additional subject when the verse has not done so.
+
+GUA-W may help map Source, created distinction, assigned function, and witness registration. These are explanatory relationships, not permission to replace the words of Scripture with technical labels.
+
+#### 3. What am I learning about what I am witnessing?
+
+Genesis 1:16 reports that God made two great lights, distinguishes them as greater and lesser, associates them with rule over day and night respectively, and adds that God made the stars also.
+
+The verse does not itself provide the names “sun” and “moon,” a physical explanation of “greater” and “lesser,” or a stated ruling function for the stars in the final clause. These matters must not be inserted into the verse as though they were its exact wording.
+
+#### 4. What am I learning about the Witness through what I am witnessing?
+
+A Witness must preserve the subjects and objects of each clause. It must not transfer the function of one subject to another simply because the subjects appear in the same sentence.
+
+The Witness must also distinguish what is explicit from what is familiar or inferred. Familiar identifications may be examined through broader Scripture, but the first report must remain faithful to the text actually being read.
+
+### Scripture connections to examine
+
+- **Genesis 1:14–15:** The command and purposes immediately preceding the report that God made the lights.
+- **Genesis 1:17–19:** The setting, rule, division, evaluation, and fourth-day marker that follow.
+- **Psalm 136:7–9:** The psalm praises God for making great lights and names the sun to rule by day and the moon and stars to rule by night. Compare this later wording with Genesis 1:16, while preserving the fact that Psalm 136 explicitly groups the moon and stars in its night-ruling statement.
+- **Psalm 19:1–6:** The heavens declare God's glory; the passage speaks of the sun. Read the poetic context before drawing connections.
+- **Jeremiah 31:35:** The LORD is described as giving the sun for a light by day and the ordinances of the moon and stars for a light by night. Preserve the covenant context.
+- **Deuteronomy 4:19:** Israel is warned not to be driven to worship the sun, moon, stars, and host of heaven. This is a useful boundary passage: created lights are not to be confused with the One who made them.
+
+These passages provide further biblical context for the lights and stars. They do not change the immediate wording of Genesis 1:16.
+
+### Triple Constraint review — Genesis 1:16
+
+- **Biblical compliance:** The KJV wording is preserved. The two great lights, their comparative distinction, their stated day/night rule, and the separate statement about the stars are recorded without assigning the stars an unstated function.
+- **Scientific coherence:** Not applicable; this repository is conducting Bible study, not scientific investigation.
+- **GUA-W consistency:** God remains the Maker and Source. The lights and stars are created, not Author. Their functions are stated within God's order. The Witness records the distinctions without extending the text beyond what it says.
+
+**Current result:** Genesis 1:16 states that God made two great lights, the greater to rule the day and the lesser to rule the night, and that He made the stars also. Verse 17 next reports that God set them in the firmament of heaven to give light upon the earth.
+
+## 50. Unresolved questions carried forward
+
+1. What does Genesis 1:17 add by reporting that God set the lights in the firmament of heaven?
+2. What is the relationship between God's making in verse 16 and setting in verse 17?
+3. How does verse 18 describe the lights' rule and division, and what does God's evaluation cover?
+4. How does Psalm 136:7–9's wording about the moon and stars ruling the night relate to the more concise wording of Genesis 1:16?
+5. What is the relationship between the light of Genesis 1:3 and the lights made on the fourth day, as far as Scripture itself establishes?
+
+## 51. Continuity — next step
+
+Continue with **Genesis 1:17 (KJV)**. Examine “And God set them in the firmament of the heaven to give light upon the earth.” Identify the antecedent of “them,” preserve the action “set,” and compare its stated purpose with Genesis 1:15. Do not collapse making (verse 16) and setting (verse 17), and do not add a mechanism or location beyond the wording of the passage.
