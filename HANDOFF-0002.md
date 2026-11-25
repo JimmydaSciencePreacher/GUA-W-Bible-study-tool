@@ -19,7 +19,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 1:10** is recorded in STUDIES/0010-GENESIS-1-10.md.
 - **Genesis 1:11** is recorded in STUDIES/0011-GENESIS-1-11.md.
 - **Genesis 1:12** is recorded in STUDIES/0012-GENESIS-1-12.md.
-- **Next passage: Genesis 1:13 (KJV).**
+- **Genesis 1:13** is recorded in STUDIES/0013-GENESIS-1-13.md.
+- **Next passage: Genesis 1:14–19 (KJV).**
 
 ## Governing decision: unified investigation
 
@@ -89,11 +90,10 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 1:10 investigated and recorded.
 - [x] Genesis 1:11 investigated and recorded.
 - [x] Genesis 1:12 investigated and recorded.
+- [x] Genesis 1:13 investigated and recorded.
 
 ## Next session instruction
 
-Resume at **Genesis 1:13 (KJV)**: “And the evening and the morning were the third day.”
-
-Investigate the repeated day-closing formula, its relationship to the completed third-day sequence (land/water differentiation and vegetation), and how the third day compares with the first and second days. Examine the Hebrew wording and the narrative function of the formula. Preserve questions about the meaning and structure of the “day” language without assuming that one scientific timescale or model is established by the formula alone. Consider whether the third day forms a coherent unit with its two distinct creative acts, and how the account marks completion.
+Resume at **Genesis 1:14–19 (KJV)**. Investigate the fourth-day command concerning the lights in the firmament; their stated functions of dividing day and night, serving as signs, marking seasons, days, and years; the two great lights and the stars; their placement and rule over day and night; the declaration that God saw that it was good; and the evening/morning formula. Examine the Hebrew terms translated “lights,” “signs,” “seasons,” “days,” and “years.” Investigate the relationship between light introduced on day one and the luminaries introduced on day four. Compare with astronomy and the observable roles of the Sun, Moon, and stars, distinguishing present-day scientific descriptions from claims about the narrated beginning. Preserve unresolved questions about the text's sequence and the relationship between light and its appointed luminaries.
 
 **Study remains open.**
