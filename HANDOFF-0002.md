@@ -23,7 +23,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 1:14–19** is recorded in STUDIES/0014-GENESIS-1-14-19.md.
 - **Genesis 1:20–23** is recorded in STUDIES/0015-GENESIS-1-20-23.md.
 - **Genesis 1:24–25** is recorded in STUDIES/0016-GENESIS-1-24-25.md.
-- **Next passage: Genesis 1:26–28 (KJV).**
+- **Genesis 1:26–28** is recorded in STUDIES/0017-GENESIS-1-26-28.md.
+- **Next passage: Genesis 1:29–31 (KJV).**
 
 ## Governing decision: unified investigation
 
@@ -97,9 +98,10 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 1:14–19 investigated and recorded.
 - [x] Genesis 1:20–23 investigated and recorded.
 - [x] Genesis 1:24–25 investigated and recorded.
+- [x] Genesis 1:26–28 investigated and recorded.
 
 ## Next session instruction
 
-Resume at **Genesis 1:26–28 (KJV)**. Investigate “Let us make man in our image, after our likeness”; humanity's dominion over fish, fowl, cattle, all the earth, and creeping things; the explicit creation of man in God's image, male and female; and the blessing and commands to be fruitful, multiply, replenish the earth, subdue it, and have dominion. Examine Hebrew terms for “man,” “image,” “likeness,” “dominion,” “male,” “female,” “blessed,” “replenish,” and “subdue.” Compare human creation with the preceding animal creation without collapsing their stated distinctions. Investigate relevant scientific observations about human biology, cognition, social life, and ecological effects, distinguishing empirical descriptions from theological claims about the image of God. Pay attention to the deliberative “Let us make,” the image/likeness statements, and the human vocation. Preserve unresolved questions and do not infer a complete doctrine of the image of God from these verses alone.
+Resume at **Genesis 1:29–31 (KJV)**. Investigate God's giving of every herb bearing seed and every tree bearing fruit with seed to humanity for food (1:29); God's giving of green herb for food to every beast of the earth, fowl of the air, and creeping thing wherein there is life (1:30); the fulfillment statement, “and it was so”; and God's evaluation of everything He had made as “very good” (1:31), followed by the evening and morning that close the sixth day. Examine the Hebrew terms for “give,” “meat/food,” “green herb,” “seed,” and “very good.” Compare the food provisions for humanity and other living creatures. Investigate plant productivity, food webs, trophic relationships, herbivory, and ecological dependencies using sourced scientific evidence. Preserve the difference between the text's stated provision and modern reconstructions of early diets or ecosystems. Then consider how Genesis 2:1–5 develops the completion of the heavens and earth and the Garden setting.
 
 **Study remains open.**
