@@ -13,7 +13,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 1:4** is recorded in STUDIES/0004-GENESIS-1-4.md.
 - **Genesis 1:5** is recorded in STUDIES/0005-GENESIS-1-5.md.
 - **Genesis 1:6** is recorded in STUDIES/0006-GENESIS-1-6.md.
-- **Next passage: Genesis 1:7 (KJV).**
+- **Genesis 1:7** is recorded in STUDIES/0007-GENESIS-1-7.md.
+- **Next passage: Genesis 1:8 (KJV).**
 
 ## Governing decision: unified investigation
 
@@ -76,13 +77,14 @@ Preserve prior study records and handoffs as history. Do not silently erase or o
 - [x] Genesis 1:4 investigated and recorded.
 - [x] Genesis 1:5 investigated and recorded.
 - [x] Genesis 1:6 investigated and recorded.
+- [x] Genesis 1:7 investigated and recorded.
 - [ ] Reconcile repository-wide protocol and template with the unified scope.
-- [ ] Investigate and record Genesis 1:7.
+- [ ] Investigate and record Genesis 1:8.
 
 ## Next session instruction
 
-Resume at **Genesis 1:7 (KJV)**: “And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.”
+Resume at **Genesis 1:8 (KJV)**: “And God called the firmament Heaven. And the evening and the morning were the second day.”
 
-Investigate the execution of the command in verse 6: the transition from “Let there be” to “God made”; the repeated *badal* separation; the explicit above/below arrangement; and “it was so.” Compare the textual description with the scientific distinctions among atmosphere, surface water, and atmospheric moisture, without presuming exact equivalence. Preserve the unresolved identity and material nature of the upper waters.
+Investigate the naming act separately from the making and division already recorded. Examine the Hebrew *shamayim* and the relationship between the narrative's terms “firmament” and “Heaven.” Record what naming establishes and what it does not establish about the physical constitution of the expanse. Continue the unified Scripture-and-Creation investigation; use scientific comparison only where it addresses a defined question. Preserve unresolved questions about the expanse and the upper waters.
 
 **Study remains open.**
