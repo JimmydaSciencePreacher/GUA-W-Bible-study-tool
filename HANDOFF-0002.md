@@ -15,7 +15,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 1:6** is recorded in STUDIES/0006-GENESIS-1-6.md.
 - **Genesis 1:7** is recorded in STUDIES/0007-GENESIS-1-7.md.
 - **Genesis 1:8** is recorded in STUDIES/0008-GENESIS-1-8.md.
-- **Next passage: Genesis 1:9 (KJV).**
+- **Genesis 1:9** is recorded in STUDIES/0009-GENESIS-1-9.md.
+- **Next passage: Genesis 1:10 (KJV).**
 
 ## Governing decision: unified investigation
 
@@ -53,9 +54,9 @@ Therefore:
 6. Report the actual GitHub file and commit result. Never imply that chat-only work has been committed.
 7. Other GUA-W repositories remain read-only unless the user separately authorizes otherwise.
 
-## Repository method still to be reconciled
+## Repository method reconciliation
 
-The existing repository contains useful safeguards but has contradictory Bible-only and scientific-research scope statements. Reconcile the following documents so they consistently describe the agreed unified method:
+The core method documents have now been updated to describe the agreed unified Scripture-and-Creation investigation:
 
 1. README.md
 2. BIBLE-STUDY-PROTOCOL.md
@@ -66,7 +67,7 @@ The existing repository contains useful safeguards but has contradictory Bible-o
 7. SCRIPTURE-CROSS-REFERENCE.md
 8. UNRESOLVED-QUESTIONS.md
 
-Preserve prior study records and handoffs as history. Do not silently erase or overwrite earlier work. The passage studies can continue while the repository-wide method documents are reconciled; clearly mark any method still under revision.
+The changes preserve the distinction between Scripture and scientific evidence, add a defined Creation-investigation section to the study template, clarify comparison categories, and remove the former rule that scientific investigations are outside this repository's scope. Historical study records and earlier handoffs remain preserved. A later audit may still check links, terminology, and any additional documents not included in this eight-file core.
 
 ## Current status
 
@@ -80,13 +81,13 @@ Preserve prior study records and handoffs as history. Do not silently erase or o
 - [x] Genesis 1:6 investigated and recorded.
 - [x] Genesis 1:7 investigated and recorded.
 - [x] Genesis 1:8 investigated and recorded.
-- [ ] Reconcile repository-wide protocol and template with the unified scope.
-- [ ] Investigate and record Genesis 1:9.
+- [x] Eight core methodology documents reconciled to the unified Scripture-and-Creation scope.
+- [x] Genesis 1:9 investigated and recorded.
 
 ## Next session instruction
 
-Resume at **Genesis 1:9 (KJV)**: “And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.”
+Resume at **Genesis 1:10 (KJV)**: “And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.”
 
-Investigate the command to gather the waters beneath the heaven and let dry land appear. Examine the Hebrew verbs for gathering and appearing, the phrase “unto one place,” and the distinction between command and fulfillment in the following verse. Compare the text with relevant observations about Earth's water basins, topography, and exposed land, without treating modern geography as a direct reconstruction of the narrated event. Preserve unresolved questions about the upper waters, the expanse, and the scope of “one place.”
+Examine the Hebrew names *erets* and *yammim*, the relation between “one place” in verse 9 and “Seas” in verse 10, the naming of dry land and gathered waters, and the statement that God saw that it was good. Keep the text's naming and evaluation distinct from modern geographic labels and scientific classifications. Continue the Creation investigation where a defined question warrants it; do not confuse present continents and oceans with a direct reconstruction of the narrated event.
 
 **Study remains open.**
