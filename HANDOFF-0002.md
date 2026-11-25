@@ -10,7 +10,8 @@ This handoff records the current position, governing decision, repository workfl
 - The study then began again at **Genesis 1:1 (KJV)**.
 - **Genesis 1:1–2** is recorded in STUDIES/0002-GENESIS-1-1-2.md.
 - **Genesis 1:3** is recorded in STUDIES/0003-GENESIS-1-3.md.
-- **Next passage: Genesis 1:4 (KJV).**
+- **Genesis 1:4** is recorded in STUDIES/0004-GENESIS-1-4.md.
+- **Next passage: Genesis 1:5 (KJV).**
 
 ## Governing decision: unified investigation
 
@@ -70,11 +71,12 @@ Preserve prior study records and handoffs as history. Do not silently erase or o
 - [x] User approved direct recording of each completed passage study in STUDIES/ and handoff updates.
 - [x] Genesis 1:1–2 investigated and recorded.
 - [x] Genesis 1:3 investigated and recorded.
+- [x] Genesis 1:4 investigated and recorded.
 - [ ] Reconcile repository-wide protocol and template with the unified scope.
-- [ ] Investigate and record Genesis 1:4.
+- [ ] Investigate and record Genesis 1:5.
 
 ## Next session instruction
 
-Resume at **Genesis 1:4 (KJV)**: “And God saw the light, that it was good: and God divided the light from the darkness.”
+Resume at **Genesis 1:5 (KJV)**: “And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.”
 
-Investigate the Hebrew verbs for seeing, goodness, and dividing/separating; compare the verse's sequence with Genesis 1:3 and the later naming in verse 5; examine relevant canonical references and observable/scientific distinctions between light and darkness. Do not assume that “divided” describes a specific physical process before the text and evidence are examined.
+Investigate the Hebrew verb for calling/naming; the terms translated evening, morning, and “one”; the relationship between naming and the separation in verse 4; the phrase “one day” and the day-sequence structure. Examine relevant canonical passages and observable time/day-night cycles, but do not assume that modern 24-hour measurement is either proved or disproved by one phrase alone. Distinguish the text's narrative chronology from scientific models and keep open questions explicit.
