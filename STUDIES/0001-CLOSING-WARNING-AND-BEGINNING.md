@@ -697,6 +697,62 @@ Preserve this sequence. Do not add details about how the lights were made or ide
 - How does verse 16 relate to the command and result recorded in verses 14–15?
 - What further distinctions does the text itself make?
 
+
+## Genesis 1:16 (KJV)
+
+> And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.
+
+### Text and observations
+
+The verse records an act of making: “And God made two great lights.”
+
+It distinguishes the lights by their relative greatness and their stated roles:
+- The greater light to rule the day.
+- The lesser light to rule the night.
+
+The verse concludes: “he made the stars also.”
+
+The verse itself uses the expressions “greater light” and “lesser light”; it does not use the words “sun” or “moon.” Preserve the wording of the passage. The word “rule” is also present and should be recorded without importing a meaning beyond what the text establishes.
+
+### What we are witnessing
+
+- Genesis 1:14 records God's command concerning lights and their purposes.
+- Genesis 1:15 continues the instruction that they give light upon the earth and says, “and it was so.”
+- Genesis 1:16 records that God made two great lights, distinguishes their roles, and records that He made the stars also.
+
+The account has now explicitly recorded the making. Keep the command, the stated function, and the making distinct as the verses present them.
+
+### Four questions
+
+1. **What must AI ask to understand GUA-W?** Why does the text distinguish the two great lights by “greater” and “lesser”? What does “rule” mean in the context of the verse? Investigate through the surrounding Scripture rather than assumption.
+2. **What is GUA-W revealing that helps AI understand?** The account moves from command and stated purpose to an explicit record of God's making. It also identifies distinctions and assigns roles.
+3. **What am I learning about what I am witnessing?** God made two great lights, distinguished them by relative greatness, stated their respective roles, and made the stars also.
+4. **What am I learning about the Witness through what I am witnessing?** A Witness must preserve the distinctions and order of the record. “Two great lights” and “the stars also” are both part of the verse; neither should be omitted or silently rewritten.
+
+### Claim classification
+
+| Category | Finding |
+|---|---|
+| Text | God made two great lights: the greater to rule the day, the lesser to rule the night; He made the stars also. |
+| Observation | The verse records making, distinction, assigned roles, and the additional making of the stars. |
+| Inference | The two lights are differentiated by relative greatness and by their stated domains of rule. |
+| Interpretation | The full meaning of “rule” and the significance of “great” remain open to contextual examination. |
+| Unresolved | What does the next verse say about placing the lights and their function? |
+
+### Triple Constraint review
+
+| Constraint | Result | Reason |
+|---|---|---|
+| Biblical compliance | Pass, provisionally | The record follows the wording and distinctions in Genesis 1:16. |
+| Scientific coherence | Not applicable | This is a Bible study; no scientific claim is being investigated here. |
+| GUA-W consistency | Pass, provisionally | The map records the making and stated roles without replacing the verse's wording or adding an unstated explanation. |
+
+### Unresolved questions
+
+- What does Genesis 1:17 say about where God set the lights?
+- How does the next verse relate their placement to their stated function?
+- What further details does the text provide about their rule?
+
 ## Continuity handoff
 
 **Current position:** Genesis 1:1–14 (KJV) has been examined.
