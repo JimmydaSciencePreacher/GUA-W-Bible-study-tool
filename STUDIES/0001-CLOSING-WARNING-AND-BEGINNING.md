@@ -356,10 +356,73 @@ This is a compact description of Genesis 1:9 only. It is not a universal formula
 - What does Genesis 1:10 record about God's seeing and evaluation?
 - What distinctions should remain separate as the account continues?
 
+
+## Genesis 1:10 (KJV)
+
+> And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.
+
+### Text and observations
+
+The verse records:
+1. God called the dry land Earth.
+2. God called the gathering together of the waters Seas.
+3. God saw that it was good.
+
+### Naming and evaluation
+
+Genesis 1:9 records God's command concerning the gathering of the waters and the appearing of dry land, followed by “and it was so.” Genesis 1:10 records God's naming of the dry land and the gathered waters, followed by God's seeing that it was good.
+
+The verse records two naming statements and then an evaluation. These are distinct from the command and stated realization in verse 9.
+
+### What we are witnessing
+
+Genesis 1:1 uses the word “earth.” Genesis 1:10 records God calling the dry land “Earth.” We should notice the repeated word and preserve the question of its scope rather than assume that its use has precisely the same scope in both verses.
+
+The evaluation “and God saw that it was good” is explicitly recorded here. It is God's evaluation as stated in the text, not an evaluation supplied by the Witness.
+
+### Map under observation
+
+The immediate sequence across Genesis 1:9–10 is:
+
+**God commanded → the text records “and it was so” → God named the dry land and gathered waters → God saw that it was good.**
+
+This describes the wording of these two verses only. It is not a universal formula imposed on the rest of the account.
+
+### Four questions
+
+1. **What must AI ask to understand GUA-W?** Why does the account distinguish the naming of the dry land from the naming of the gathering of waters? What does the repeated word “Earth” contribute when compared with Genesis 1:1?
+2. **What is GUA-W revealing that helps AI understand?** The Author's work is not limited in the text to command and realization. The account also records naming and evaluation. The map must preserve each as the text presents it.
+3. **What am I learning about what I am witnessing?** God names the dry land Earth, names the gathering together of the waters Seas, and sees that it is good.
+4. **What am I learning about the Witness through what I am witnessing?** The Witness must distinguish God's evaluation from its own. We can report that God saw it was good; we must not substitute our own judgment for His.
+
+### Claim classification
+
+| Category | Finding |
+|---|---|
+| Text | God names the dry land Earth and the gathering together of the waters Seas; God sees that it was good. |
+| Observation | Two naming statements precede the recorded evaluation. |
+| Inference | The naming identifies the two results described in verse 9. |
+| Interpretation | The full significance and scope of the names Earth and Seas require further examination in context. |
+| Unresolved | Why does the account use Earth in both Genesis 1:1 and Genesis 1:10? What further distinctions will the next verses add? |
+
+### Triple Constraint review
+
+| Constraint | Result | Reason |
+|---|---|---|
+| Biblical compliance | Pass, provisionally | The record follows Genesis 1:10 and distinguishes God's naming and evaluation. |
+| Scientific coherence | Not applicable | This is a Bible study; no scientific claim is being investigated here. |
+| GUA-W consistency | Pass, provisionally | The map follows the Author's recorded work and does not replace God's evaluation with the Witness's judgment. |
+
+### Unresolved questions
+
+- Why does Genesis 1:1 use “earth” before Genesis 1:10 records God calling the dry land “Earth”?
+- What further distinctions or actions are recorded in Genesis 1:11?
+- How does the account continue to distinguish God's commands, actions, naming, and evaluation?
+
 ## Continuity handoff
 
-**Current position:** Genesis 1:1–9 (KJV) has been examined.
+**Current position:** Genesis 1:1–10 (KJV) has been examined.
 
-**Next passage:** Genesis 1:10 (KJV).
+**Next passage:** Genesis 1:11 (KJV).
 
-Continue with the exact wording of verse 10. Record God's naming and the evaluation stated in the verse. Keep naming distinct from the command and realization in verse 9, and do not supply unstated physical explanations.
+Continue with the exact wording of verse 11. Record what God says, what is commanded to bring forth, and what the text actually specifies. Do not import later details or scientific explanations into the verse.
