@@ -56,7 +56,7 @@ Make clear which category supports each important conclusion.
 
 Review claims for biblical compliance, scientific coherence where a scientific assertion is actually made, and GUA-W consistency.
 
-This repository studies the Bible; it does not conduct science investigations. A scientific question that needs investigation is outside this tool's scope. Do not claim that science proves Scripture.
+This repository conducts a unified Scripture-and-Creation investigation. For relevant Creation questions, identify the discipline, observations or measurements, sources, methods, competing explanations, and uncertainty. Distinguish observed data from models, mechanisms, historical reconstructions, inference, and interpretation. Compare Scripture and Creation only after examining each on its own terms. Do not claim that science proves Scripture or force scientific terminology into the biblical text.
 
 ## 8. Preserve unresolved questions
 
