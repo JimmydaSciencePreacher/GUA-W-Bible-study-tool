@@ -419,10 +419,69 @@ This describes the wording of these two verses only. It is not a universal formu
 - What further distinctions or actions are recorded in Genesis 1:11?
 - How does the account continue to distinguish God's commands, actions, naming, and evaluation?
 
+
+## Genesis 1:11 (KJV)
+
+> And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.
+
+### Text and observations
+
+The verse records God's command concerning what the earth is to bring forth:
+1. Grass.
+2. The herb yielding seed.
+3. The fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth.
+
+The verse concludes: “and it was so.”
+
+### What we are witnessing
+
+The command identifies distinct descriptions of vegetation. It explicitly describes the herb as yielding seed and the fruit tree as yielding fruit after his kind, with its seed in itself. Preserve the grammatical wording and do not extend the phrase “whose seed is in itself” beyond what its immediate construction supports.
+
+The verse does not explain the biological mechanism of seed, define “kind” in modern scientific terms, or provide a complete theory of inheritance. Those questions must not be smuggled into the text.
+
+### Map under observation
+
+The text records:
+
+**God said → let the earth bring forth the vegetation described → and it was so.**
+
+This is a concise description of Genesis 1:11, not a universal formula or a biological explanation.
+
+### Four questions
+
+1. **What must AI ask to understand GUA-W?** Why does the verse distinguish grass, the herb yielding seed, and the fruit tree yielding fruit after his kind? What does the phrase “whose seed is in itself” specifically describe?
+2. **What is GUA-W revealing that helps AI understand?** The account records the earth bringing forth what God commands. The map must preserve the distinctions in the wording rather than reduce them to one general category.
+3. **What am I learning about what I am witnessing?** The command identifies kinds of vegetation and describes seed in connection with the herb and fruit tree. The verse states, “and it was so.”
+4. **What am I learning about the Witness through what I am witnessing?** A Witness must attend to the exact placement of words. Reporting only that plants appeared would omit the distinctions concerning seed, fruit, and kind.
+
+### Claim classification
+
+| Category | Finding |
+|---|---|
+| Text | God commands the earth to bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself; the verse says, “and it was so.” |
+| Observation | The command identifies distinct vegetation descriptions and includes seed and kind language. |
+| Inference | The wording associates seed with the herb and explicitly with the fruit tree; the full implications require further context. |
+| Interpretation | The verse's full meaning of “kind” and “seed” should not be replaced with modern biological categories without separate examination. |
+| Unresolved | What does “after his kind” establish in the immediate passage? What will verse 12 record about the earth's response? |
+
+### Triple Constraint review
+
+| Constraint | Result | Reason |
+|---|---|---|
+| Biblical compliance | Pass, provisionally | The record follows the wording and preserves the distinct descriptions in the command. |
+| Scientific coherence | Not applicable | This is a Bible study; no scientific claim is being investigated here. |
+| GUA-W consistency | Pass, provisionally | The map follows the Author's command without supplying an unstated mechanism or theory. |
+
+### Unresolved questions
+
+- What does “after his kind” mean in the immediate context?
+- What does Genesis 1:12 record as the earth's response?
+- Does the next verse repeat the distinctions in the command, and if so, how?
+
 ## Continuity handoff
 
-**Current position:** Genesis 1:1–10 (KJV) has been examined.
+**Current position:** Genesis 1:1–11 (KJV) has been examined.
 
-**Next passage:** Genesis 1:11 (KJV).
+**Next passage:** Genesis 1:12 (KJV).
 
-Continue with the exact wording of verse 11. Record what God says, what is commanded to bring forth, and what the text actually specifies. Do not import later details or scientific explanations into the verse.
+Continue with the exact wording of verse 12. Compare the recorded result with the command in verse 11, preserving the text's distinctions concerning grass, herb, seed, fruit, and kind. Do not import later details or scientific explanations.
