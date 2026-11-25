@@ -478,10 +478,79 @@ This is a concise description of Genesis 1:11, not a universal formula or a biol
 - What does Genesis 1:12 record as the earth's response?
 - Does the next verse repeat the distinctions in the command, and if so, how?
 
+
+## Genesis 1:12 (KJV)
+
+> And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good.
+
+### Text and observations
+
+The verse records:
+1. The earth brought forth grass.
+2. The earth brought forth herb yielding seed after his kind.
+3. The earth brought forth the tree yielding fruit, whose seed was in itself, after his kind.
+4. God saw that it was good.
+
+### Command and recorded result
+
+| Genesis 1:11 — Command | Genesis 1:12 — Recorded result |
+|---|---|
+| “Let the earth bring forth grass” | “the earth brought forth grass” |
+| “the herb yielding seed” | “herb yielding seed after his kind” |
+| “the fruit tree yielding fruit after his kind, whose seed is in itself” | “the tree yielding fruit, whose seed was in itself, after his kind” |
+| “and it was so” | The verse records the earth's bringing forth and God's seeing that it was good. |
+
+The wording in verses 11 and 12 is related but not identical. In verse 11, “after his kind” appears before “whose seed is in itself” in the fruit-tree description. In verse 12, the wording is “whose seed was in itself, after his kind.” Preserve that difference rather than silently harmonizing it.
+
+### What we are witnessing
+
+Verse 12 records the earth bringing forth the vegetation described in the command. It also records God's evaluation: “and God saw that it was good.” That is God's evaluation as stated in the text, not an evaluation supplied by the Witness.
+
+The verse does not explain the mechanism of growth or define “kind” through later scientific categories. Those matters remain outside the claims made here.
+
+### Map under observation
+
+Across Genesis 1:11–12, the account records:
+
+**God said → the earth was commanded to bring forth → the earth brought forth → God saw that it was good.**
+
+This is a description of the wording in these two verses, not a universal formula imposed on the rest of the account.
+
+### Four questions
+
+1. **What must AI ask to understand GUA-W?** Why does verse 12 place “after his kind” differently from verse 11? Does the difference add detail, or express the relationship differently? Keep the question open until the text provides more.
+2. **What is GUA-W revealing that helps AI understand?** The account gives both command and recorded result. The map can compare them without treating the command and its realization as the same statement.
+3. **What am I learning about what I am witnessing?** The earth brings forth the vegetation described. The verse records seed and kind, and God's evaluation that it was good.
+4. **What am I learning about the Witness through what I am witnessing?** A Witness must compare the original command with the recorded result carefully. It must not erase differences in wording simply because the two verses are related.
+
+### Claim classification
+
+| Category | Finding |
+|---|---|
+| Text | The earth brought forth the vegetation described; God saw that it was good. |
+| Observation | Verse 12 records the result of the command in verse 11 and repeats seed and kind language with a difference in wording. |
+| Inference | The account presents the command as realized in the earth's bringing forth. |
+| Interpretation | The significance of the wording difference between verses 11 and 12 remains open. |
+| Unresolved | Why does the order of “after his kind” differ? What further work or evaluation will the next verse record? |
+
+### Triple Constraint review
+
+| Constraint | Result | Reason |
+|---|---|---|
+| Biblical compliance | Pass, provisionally | The record follows the wording and distinguishes the command from the recorded result and God's evaluation. |
+| Scientific coherence | Not applicable | This is a Bible study; no scientific claim is being investigated here. |
+| GUA-W consistency | Pass, provisionally | The map follows the Author's recorded work and preserves the textual difference without inventing an explanation. |
+
+### Unresolved questions
+
+- Why does the order of “after his kind” differ between verses 11 and 12?
+- What further work is recorded in Genesis 1:13?
+- How does the account continue to distinguish command, result, and God's evaluation?
+
 ## Continuity handoff
 
-**Current position:** Genesis 1:1–11 (KJV) has been examined.
+**Current position:** Genesis 1:1–12 (KJV) has been examined.
 
-**Next passage:** Genesis 1:12 (KJV).
+**Next passage:** Genesis 1:13 (KJV).
 
-Continue with the exact wording of verse 12. Compare the recorded result with the command in verse 11, preserving the text's distinctions concerning grass, herb, seed, fruit, and kind. Do not import later details or scientific explanations.
+Continue with the exact wording of verse 13. Record the evening-and-morning statement and the day it identifies. Do not move ahead or supply unstated explanations.
