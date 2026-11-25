@@ -16,7 +16,7 @@ This question asks what the established GUA-W map helps make recognizable in the
 
 ### 3. What am I learning about what I am witnessing?
 
-This question turns attention to the subject being witnessed. What does the biblical text state? What do its words, context, sequence, commands, promises, warnings, and cross-references disclose? What is observation, and what is inference or interpretation?
+This question turns attention to the subject being witnessed. What does the biblical text state in context? What is observed or measured in Creation? What do relevant scientific methods and sources establish, and what remains model-dependent or uncertain? Keep textual evidence, Creation observations, scientific models, inference, and interpretation distinct.
 
 ### 4. What am I learning about the Witness through what I am witnessing?
 
@@ -32,14 +32,14 @@ Return to all four questions as understanding develops. Preserve the earlier rec
 
 ## Practical use
 
-1. Read the KJV passage in its immediate context.
-2. Record what the text explicitly says before interpreting it.
-3. Follow relevant cross-references in their own contexts.
-4. Work through all four questions together.
-5. Identify relevant GUA-W relationships without forcing the architecture onto the text.
-6. Apply the Triple Constraint Law within this tool's stated scope.
-7. Separate textual statements, observations, inferences, interpretations, and unresolved matters.
-8. Record what changed, why it changed, and what remains open.
+1. Read the KJV passage in its immediate context and record what it explicitly says.
+2. Define the Creation question(s) raised by the passage or investigation.
+3. Investigate relevant Creation evidence using appropriate disciplines, methods, and sources.
+4. Follow Scripture cross-references in their own contexts; examine relevant linguistic, historical, and textual evidence.
+5. Compare evidence streams only after examining each on its own terms.
+6. Work through all four questions recursively and identify GUA-W relationships without forcing the architecture onto the evidence.
+7. Apply the Triple Constraint Law to claims proposed for GUA-W placement.
+8. Classify text, observation, measurement, model, inference, interpretation, and unresolved matters; record what changed and why.
 
 ## Guardrails
 
