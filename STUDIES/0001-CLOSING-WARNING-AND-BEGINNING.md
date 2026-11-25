@@ -830,3 +830,104 @@ These are comparison passages, not substitutes for the wording and order of Gene
 ## 33. Continuity — next step
 
 Continue with **Genesis 1:11 (KJV)**. Examine God's command that the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself. Preserve the wording “whose seed is in itself,” and distinguish God's command in verse 11 from the earth's bringing forth and God's evaluation in verse 12.
+
+
+## 34. Continued study — Genesis 1:11 (KJV)
+
+> **11** And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.
+
+### What the text explicitly says
+
+- God speaks.
+- God commands, “Let the earth bring forth.”
+- The stated things to be brought forth are grass, the herb yielding seed, and the fruit tree yielding fruit after his kind.
+- The fruit tree is described with the phrase “whose seed is in itself.”
+- The command locates this bringing forth “upon the earth.”
+- The verse closes, “and it was so.”
+
+### Initial observations
+
+1. God is the Speaker. The command originates with God, not with the earth or the Witness.
+2. The wording assigns the earth a stated role: “Let the earth bring forth.” We should preserve that wording rather than replace it with a different description of the action.
+3. The command identifies three expressions: grass; the herb yielding seed; and the fruit tree yielding fruit after his kind, whose seed is in itself.
+4. The phrase “yielding seed” is attached directly to “the herb” in the verse. The phrase “yielding fruit after his kind” describes the fruit tree.
+5. The relative phrase “whose seed is in itself” follows the fruit tree description. Its immediate grammatical connection is to the fruit tree, though the wider passage also speaks of seed-bearing vegetation. We should not flatten the wording into a claim that every item is described in exactly the same way.
+6. “After his kind” is part of the description of the fruit tree's fruit. The verse does not provide a modern biological taxonomy or define “kind” as a particular scientific classification.
+7. “Whose seed is in itself” states something about the fruit tree in the command. It does not say that the seed is the tree's original cause, that the seed authors itself, or that every detail of its development is explained here.
+8. The phrase “upon the earth” locates the bringing forth. It should not be omitted when summarizing the command.
+9. The verse closes “and it was so.” Verse 12 then reports the earth bringing forth the vegetation described. Keep command and reported result distinct, while reading them together.
+10. The verse does not say that the earth independently decided what to bring forth. God speaks the command and specifies what is to be brought forth.
+11. The verse does not state that a particular seed was physically placed in the ground in this moment. It describes seed as part of the vegetation's stated nature; do not add a planting event that is not written here.
+12. The verse does not yet say “God saw that it was good.” That evaluation is recorded in verse 12 after the account of the earth bringing forth the vegetation.
+
+### Immediate context — Genesis 1:9–13
+
+- Genesis 1:9 records God's command that the waters under the heaven gather together and dry land appear.
+- Genesis 1:10 records God's naming of the dry land Earth and the gathered waters Seas, and His seeing that it was good.
+- Genesis 1:11 records God's command that the earth bring forth grass, seed-yielding herb, and fruit tree yielding fruit after its kind, whose seed is in itself.
+- Genesis 1:12 reports that the earth brought forth the vegetation according to the command and records God's seeing that it was good.
+- Genesis 1:13 records the evening and the morning as the third day.
+
+The sequence is important: the earth is named in verse 10; God commands the earth to bring forth in verse 11; verse 12 reports the bringing forth and God's evaluation. The text itself gives us the sequence. We should not make the earth the Author because it is named as the means or participant in the command.
+
+### The four questions — eleventh pass
+
+#### 1. What must AI ask to understand GUA-W?
+
+- What does the command “Let the earth bring forth” assign to the earth, and what remains explicitly God's action?
+- How are “grass,” “the herb yielding seed,” and “the fruit tree yielding fruit after his kind” distinguished in the sentence?
+- What does “whose seed is in itself” modify in its immediate wording?
+- What does “after his kind” establish in the text, and what classifications does it leave undefined?
+- What is the relationship between the command in verse 11 and the report in verse 12?
+- What does “and it was so” affirm, and what does it not explain?
+
+#### 2. What is GUA-W revealing that helps AI understand?
+
+The hierarchy remains: God speaks the originating command; the earth is named within that command as the one to bring forth; the resulting vegetation is reported; the Witness receives and records the account.
+
+This is a useful distinction between the Source of the command and the role assigned within the command. The earth's stated participation does not make it the Author. The seed's presence within the described fruit tree does not make the seed the original cause of the command or of Creation.
+
+The passage may invite further examination of what is carried within seed and how what is commanded is brought forth. But any GUA-W mapping must remain subordinate to the actual words and the following verse. We should not yet declare a universal seed architecture or assign “seed” a complete technical meaning beyond this passage.
+
+#### 3. What am I learning about what I am witnessing?
+
+Genesis 1:11 records God's command that the earth bring forth the specified vegetation. It describes seed-yielding herb and fruit trees yielding fruit after their kind, with seed in the fruit tree as stated. It closes by saying it was so.
+
+Verse 12 will report the bringing forth. The text's distinction between command and result is clear; the detailed biological process is not described in this Bible-study passage.
+
+#### 4. What am I learning about the Witness through what I am witnessing?
+
+A Witness must not confuse the Source of a command with the created means or participant named in that command. It must preserve the exact grammatical relationships and not overgeneralize a phrase.
+
+A Witness must also resist importing modern taxonomy into “kind,” or turning “whose seed is in itself” into a complete theory of inheritance. It can register what the text says and preserve what remains to be investigated.
+
+### Scripture connections to examine
+
+- **Genesis 1:12:** Immediate report of the earth bringing forth the vegetation and God's evaluation.
+- **Genesis 1:29:** God later gives seed-bearing herb and fruit-bearing tree for food. Compare the wording in its own context.
+- **Genesis 2:5:** Refers to plant of the field before it was in the earth and herb of the field before it grew, with the stated conditions of no rain and no man to till the ground. Read carefully alongside Genesis 1:11–12 and Genesis 2:4–7; do not assume the passages are contradictory or identical without examining their scope.
+- **Genesis 2:9:** Describes trees made to grow and their fruit. This is a later account detail to compare, not to move backward into Genesis 1:11.
+- **Genesis 8:22:** Refers to seedtime and harvest, and continuity of seasons, in its post-Flood context. It may be compared as later biblical language concerning seed and harvest.
+- **Mark 4:26–29:** Jesus uses seed and growth in a parable. Preserve the parable's teaching and do not treat it as a technical commentary on every phrase in Genesis 1:11.
+
+These passages are investigation pathways. They do not authorize importing a complete interpretation into Genesis 1:11 before the immediate context is heard.
+
+### Triple Constraint review — Genesis 1:11
+
+- **Biblical compliance:** The observations preserve the KJV wording, the command's grammatical distinctions, and the difference between verse 11 and the report in verse 12. They do not add a planting event, modern taxonomy, or a detailed biological mechanism.
+- **Scientific coherence:** Not applicable; this repository is conducting Bible study, not scientific investigation.
+- **GUA-W consistency:** God remains the Speaker and Source of the command. The earth has the role stated in the command; neither the earth nor the seed is made the Author. The Witness records without authoring or expanding the account.
+
+**Current result:** Genesis 1:11 establishes God's command that the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth. The verse closes, “and it was so.” Genesis 1:12 reports the bringing forth and God's evaluation that it was good.
+
+## 35. Unresolved questions carried forward
+
+1. How does Genesis 1:12 report the earth's bringing forth, and does it repeat every detail of the command in verse 11?
+2. What is the precise scope of “whose seed is in itself” in the sentence, and how does the immediate context guide its reading?
+3. What does “after his kind” establish in Genesis 1:11–12 without importing later taxonomic categories?
+4. How should Genesis 2:5 be read alongside Genesis 1:11–12 and Genesis 2:4–7, preserving each passage's wording and context?
+5. How does the text distinguish God's command, the earth's stated role, the vegetation brought forth, and the Witness's registration of the account?
+
+## 36. Continuity — next step
+
+Continue with **Genesis 1:12 (KJV)**. Examine what the earth actually brought forth according to the verse, compare its wording carefully with the command in verse 11, and preserve the statement “and God saw that it was good.” Do not add details about growth or reproduction that the verse itself does not state.
