@@ -113,18 +113,16 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 2:15–17 investigated and recorded.
 - [x] Genesis 2:18–25 investigated and recorded in STUDIES/0023-GENESIS-2-18-25.md.
 - [x] The Perfect Garden State — Genesis 1–2 synthesis recorded in STUDIES/0024-PERFECT-GARDEN-STATE.md.
-- [ ] Genesis 3:1–5 — next passage in the Bible study.
+- [x] Genesis 3:1–5 investigated and recorded in STUDIES/0025-GENESIS-3-1-5.md.
+- [ ] Genesis 3:6–7 — next passage in the Bible study.
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 3:1–5 (KJV)**, following the established study protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 3:6–7 (KJV)**, following the established protocol and Triple Constraint Law.
 
-Keep the unified-Creation foundation from Study 0024 concise:
-- One Author: God is the originating Source.
-- One Creation: Genesis presents one created order with differentiated domains, relationships, functions, and boundaries.
-- Many Witnesses: scientific disciplines investigate aspects of Creation; their specialization does not establish that Creation itself is divided.
+The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
-This is supporting context, not a separate study of the history of science. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not add a special review gate or describe the next step as a “pause being lifted”; simply follow the next passage in sequence.
+Study 0025 recorded Genesis 3:1–5, including the serpent's opening question, the woman's reply, the additional phrase “neither shall ye touch it,” the serpent's direct contradiction of God's stated consequence, and the serpent's claim about God's motive and the promised knowledge. The reason for the woman's additional phrase remains unresolved; do not assume deliberate alteration.
 
-**Next passage:** Genesis 3:1–5.  
+**Next passage:** Genesis 3:6–7.  
 **Study remains open.**
