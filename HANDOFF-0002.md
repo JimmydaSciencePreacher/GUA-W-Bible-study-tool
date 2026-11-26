@@ -26,7 +26,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 1:26–28** is recorded in STUDIES/0017-GENESIS-1-26-28.md.
 - **Genesis 1:29–31** is recorded in STUDIES/0018-GENESIS-1-29-31.md.
 - **Genesis 2:1–3** is recorded in STUDIES/0019-GENESIS-2-1-3.md.
-- **Next passage: Genesis 2:4–7 (KJV).**
+- **Genesis 2:4–7** is recorded in STUDIES/0020-GENESIS-2-4-7.md.
+- **Next passage: Genesis 2:8–14 (KJV).**
 
 ## Governing decision: unified investigation
 
@@ -103,9 +104,10 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 1:26–28 investigated and recorded.
 - [x] Genesis 1:29–31 investigated and recorded.
 - [x] Genesis 2:1–3 investigated and recorded.
+- [x] Genesis 2:4–7 investigated and recorded.
 
 ## Next session instruction
 
-Resume at **Genesis 2:4–7 (KJV)**. Examine “these are the generations of the heavens and of the earth” and the Hebrew term *toledoth*; the phrase “in the day that the LORD God made the earth and the heavens”; the conditions described in verses 5–6 before the man is formed; and the formation of man from the dust of the ground and the breath of life in verse 7. Investigate *yatsar*, *adamah*, *afar*, *nishmath chayyim*, and *nephesh chayyah*. Compare Genesis 1:26–27 and Genesis 2:7 without forcing a contradiction or assuming every detail is already explained. Investigate soil, water, plant growth, respiration, and human biology as Creation observations, distinguishing present mechanisms from claims about the original event. Preserve Author → Word → Creation → Witness and apply the Triple Constraint Law.
+Resume at **Genesis 2:8–14 (KJV)**. Investigate the LORD God's planting of the Garden eastward in Eden and placing the formed man there (2:8); the trees God caused to grow, including the tree of life and the tree of the knowledge of good and evil (2:9); and the river that waters the Garden and divides into four heads (2:10–14). Examine the names and descriptions of Pison, Gihon, Hiddekel, and Euphrates, and the resources of Havilah including gold, bdellium, and onyx stone. Distinguish the biblical descriptions from modern geographic identifications; do not claim Eden's location without adequate evidence. Investigate plant growth, river systems, watersheds, sediment, minerals, and landscape formation as Creation observations. Preserve Author → Word → Creation → Witness and apply the Triple Constraint Law.
 
 **Study remains open.**
