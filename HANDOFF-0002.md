@@ -142,7 +142,7 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 8:15–19 (KJV)**, following the established protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 8:20–22 (KJV)**, following the established protocol and Triple Constraint Law.
 
 The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
@@ -174,5 +174,7 @@ Study 0039 recorded Genesis 8:6–12: Noah opens the ark window; sends out a rav
 
 Study 0040 recorded Genesis 8:13–14: in Noah's 601st year, first month, first day, the waters are dried from the earth; Noah removes the ark's covering, looks, and sees the ground's surface dry; on the second month's twenty-seventh day, the earth is declared dry. The study examines *charav*, *yabesh*, *mikseh*, *ha'aretz*, and *ha'adamah*; distinguishes surface observation from the later whole-earth statement; and notes soil drainage, infiltration, evaporation, and retained moisture as relevant scientific context without reconstructing the Flood. Under a thirty-day-month convention, the interval is 56 elapsed days (57 dates inclusive), not 57 elapsed days. Unresolved matters include the covering's architecture, exact environmental/soil conditions, drying mechanisms, calendar assumptions, and the relation between observation and the later command to leave.
 
-**Next passage:** Genesis 8:15–19.  
+Study 0041 recorded Genesis 8:15–19: God speaks to Noah and commands him and his household to leave the ark; Noah is instructed to bring out the living creatures for abundance, fruitfulness, and multiplication; Noah and the creatures depart. The study examines *dabar*, *yatsa*, *sharats*, *parah*, *rabah*, *min*, and *mishpachah*. It preserves the Hebrew distinction between *mishpachah* (families/clans) in 8:19 and *min* (kind) in 7:14, while noting the KJV rendering “after their kinds.” Creation-language parallels with Genesis 1 and 9 are examined. Population biology and conservation genetics are contextual only; no modern taxonomic mapping, founder number, genetic reconstruction, or ecological timetable is inferred. Unresolved matters include *min*/*mishpachah* correspondence, seven individuals versus seven pairs in 7:2–3, population recovery, and habitat conditions.
+
+**Next passage:** Genesis 8:20–22.  
 **Study remains open.**
