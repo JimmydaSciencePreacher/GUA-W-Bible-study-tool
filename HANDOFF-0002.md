@@ -31,7 +31,7 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 2:15–17** is recorded in STUDIES/0022-GENESIS-2-15-17.md.
 - **Genesis 2:18–25** is recorded in STUDIES/0023-GENESIS-2-18-25.md.
 - **The Perfect Garden State — Genesis 1–2** is recorded in STUDIES/0024-PERFECT-GARDEN-STATE.md.
-- **Next biblical passage:** Genesis 3:1–5. The unified-Creation foundation is concise context for the Bible study, not a separate science-history project.
+- **Next biblical passage:** Genesis 3:6–7. Study 0024 establishes the original Creation presented in Genesis 1–2; the downstream condition is examined as the biblical account proceeds and through relevant evidence when warranted. Do not require Genesis 1–2 to explain what follows.
 
 ## Governing decision: unified investigation
 
