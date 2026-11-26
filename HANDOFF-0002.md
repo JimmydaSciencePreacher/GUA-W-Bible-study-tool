@@ -38,7 +38,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 4:1–7** is recorded in STUDIES/0030-GENESIS-4-1-7.md.
 - **Genesis 4:8–16** is recorded in STUDIES/0031-GENESIS-4-8-16.md.
 - **Genesis 4:17–26** is recorded in STUDIES/0032-GENESIS-4-17-26.md.
-- **Next biblical passage:** Genesis 5:1–32. Study 0024 establishes the original Creation presented in Genesis 1–2; the downstream condition is examined as the biblical account proceeds and through relevant evidence when warranted. Do not require Genesis 1–2 to explain what follows.
+- **Genesis 5:1–32** is recorded in STUDIES/0033-GENESIS-5-1-32.md.
+- **Next biblical passage:** Genesis 6:1–8. Study 0024 establishes the original Creation presented in Genesis 1–2; the downstream condition is examined as the biblical account proceeds and through relevant evidence when warranted. Do not require Genesis 1–2 to explain what follows.
 
 ## Governing decision: unified investigation
 
@@ -128,11 +129,12 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 4:1–7 investigated and recorded in STUDIES/0030-GENESIS-4-1-7.md.
 - [x] Genesis 4:8–16 investigated and recorded in STUDIES/0031-GENESIS-4-8-16.md.
 - [x] Genesis 4:17–26 investigated and recorded in STUDIES/0032-GENESIS-4-17-26.md.
-- [ ] Genesis 5:1–32 — next passage in the Bible study.
+- [x] Genesis 5:1–32 investigated and recorded in STUDIES/0033-GENESIS-5-1-32.md.
+- [ ] Genesis 6:1–8 — next passage in the Bible study.
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 5:1–32 (KJV)**, following the established protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 6:1–8 (KJV)**, following the established protocol and Triple Constraint Law.
 
 The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
@@ -148,5 +150,7 @@ Study 0031 recorded Genesis 4:8–16: Cain kills Abel; God questions Cain; Abel'
 
 Study 0032 recorded Genesis 4:17–26: Cain's wife, Enoch, and city; Cain's genealogy through Lamech; Lamech's two wives; Jabal's association with tents and livestock; Jubal's instruments; Tubal-cain's metalworking; Lamech's violent speech and amplified vengeance; Seth's birth; and the calling upon the name of the LORD in Enos's time. Key unresolved matters include Cain's wife's identity, the location and nature of the city, the exact instruments and metalworking process, the meaning and tone of Lamech's speech, and the nuance of Genesis 4:26. The Creation investigation treats archaeological parallels as contextual evidence, not identification of biblical individuals. A scholarly Kenite/metallurgy interpretation is recorded as a hypothesis alongside broader cultural-genealogy readings.
 
-**Next passage:** Genesis 5:1–32.  
+Study 0033 recorded Genesis 5:1–32: the *toledot* of Adam; the return to Creation's image, likeness, male/female, and blessing language; Seth in Adam's likeness and image; the repeated genealogy and death formula; Enoch walking with God and being taken; Methuselah's recorded 969 years; Lamech's naming of Noah and reference to toil on cursed ground; and Noah's three sons. Key unresolved matters include the full dimensions of image/likeness, the extraordinary lifespans, numerical differences among the Masoretic, Septuagint, and Samaritan traditions, the mechanics of Enoch's taking, and the Noah/comfort wordplay. The Noah table was corrected to distinguish his age when the sons are introduced (500) from Shem's approximate birth age (502) inferred from Genesis 11:10 and 7:6. The next study must preserve competing interpretations of the “sons of God” in Genesis 6:1–4.
+
+**Next passage:** Genesis 6:1–8.  
 **Study remains open.**
