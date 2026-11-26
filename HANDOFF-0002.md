@@ -194,3 +194,8 @@ Study 0048 recorded Genesis 11:10–26: Shem's selected line proceeds through Ar
 
 **Next passage:** Genesis 12:1–9 (KJV), the LORD's call and promises to Abram, his departure from Haran, arrival in Canaan, and the first recorded altar.  
 **Study remains open.**
+
+Study 0050 recorded Genesis 12:1–9: the LORD's command to Abram to leave country, kindred, and father's house; the promises of nation, blessing, great name, protection, and blessing for all families of the earth; Abram's departure from Haran at age 75 with Lot, Sarai, possessions, and the people described as “souls” acquired in Haran; arrival in Canaan; travel to Sichem/Shechem and Moreh; the presence of Canaanites; the LORD's appearance and promise of land to Abram's seed; and Abram's two altars, tent, and invocation of the LORD. The study notes the literary contrast between Babel's attempt to make a name (Genesis 11:4) and God's promise to make Abram's name great (12:2). It preserves the translation debate over the Niphal of *barakh* in 12:3b, the nuance of *lekh-lekha*, the status of the people acquired in Haran, and the identification of Moreh/Ai. It distinguishes the KJV “had said” from the Hebrew *wayyomer* and compares Acts 7:2–4; the Terah/Abram chronology remains unresolved. Historical geography provides context but does not identify Abram or his altars. No sacrifice is asserted at the altars because none is narrated in these verses. No new GUA-W architecture is proposed.
+
+**Next passage:** Genesis 12:10–20 (KJV), famine in the land, Abram's journey into Egypt, Sarai's presentation as his sister, Pharaoh's household, and the LORD's intervention.  
+**Study remains open.**
