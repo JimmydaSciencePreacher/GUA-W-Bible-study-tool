@@ -4,7 +4,7 @@
 **Study status:** Dedicated chapter-end synthesis; Genesis 1–2 reviewed as one unified Scripture-and-Creation investigation.  
 **Primary text:** Genesis 1:1–2:25 (KJV)  
 **Previous study:** [Study 0023 — Genesis 2:18–25](0023-GENESIS-2-18-25.md)  
-**Next step:** Remain paused. Do not begin Genesis 3 until this synthesis has been reviewed and the user decides to proceed.
+**Study scope:** Genesis 1:1–2:25. This synthesis establishes the concise unified-Creation foundation for the continuing Bible study; it is not a separate science study.
 
 ---
 
@@ -32,7 +32,7 @@ The user's proposal that our diminished or limited understanding contributes to 
 
 **Genesis 1:1–2:25 (KJV)** is the complete scope. The synthesis uses the full sequence already recorded in Studies 0002–0023. It does not advance into Genesis 3.
 
-The chapter-end pause is intentional. Genesis 2:25 closes the pre-Fall account with the man and woman naked and not ashamed. The next chapter introduces a different narrative condition. The purpose here is to examine the state described before that transition, not to read the later condition backward into it.
+Genesis 2:25 closes the account of the Garden's original condition with the man and woman naked and not ashamed. This study records that condition before moving forward through the biblical text. Later events must not be read backward into the state described here.
 
 ## 3. Read the whole sequence before dividing it
 
@@ -477,17 +477,13 @@ No new GUA-W layer, operator, or law is established by this synthesis. “Unifie
 ### Source-access limitation
 This synthesis was prepared from the KJV passage records and method documents in the specified repository. No external websites, scientific databases, or other repositories were accessed. The scientific section is a disciplined framework for the next evidence pass, not a claim that new empirical sources were reviewed.
 
-## 15. Continuity — pause before Genesis 3
+## 15. Continuity
 
-**Genesis 1–2 synthesis recorded.**  
-**Genesis 3 has not been started.**
+**Genesis 1–2 synthesis recorded.**
 
-The next step is review of this synthesis, not automatic progression to the next chapter.
+The unified-Creation foundation is intentionally brief:
+1. **One Author:** God is the originating Source.
+2. **One Creation:** Genesis presents one created order with differentiated domains, relationships, functions, and boundaries.
+3. **Many Witnesses:** The sciences investigate aspects of Creation; disciplinary specialization does not establish that Creation itself is divided.
 
-Questions for the next review:
-1. Does “one Creation with differentiated domains” accurately express what the complete Genesis 1–2 text presents?
-2. Have we kept the distinction between Creation's unity and the Witness's disciplinary categories clear?
-3. Does the working title “Perfect Garden State” preserve the text's own “very good” and “finished” language without adding unsupported claims?
-4. Which unresolved relationship should receive a deeper Scripture-and-Creation evidence pass before proceeding?
-
-**Mandatory pause remains in force.**
+This foundation supports the Bible study; it does not become a separate science-history project. Continue with the next biblical passage in sequence, Genesis 3:1–5. Bring in scientific evidence only when it directly helps examine a question raised by the text.
