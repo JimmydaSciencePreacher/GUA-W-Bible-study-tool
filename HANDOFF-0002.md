@@ -24,7 +24,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 1:20–23** is recorded in STUDIES/0015-GENESIS-1-20-23.md.
 - **Genesis 1:24–25** is recorded in STUDIES/0016-GENESIS-1-24-25.md.
 - **Genesis 1:26–28** is recorded in STUDIES/0017-GENESIS-1-26-28.md.
-- **Next passage: Genesis 1:29–31 (KJV).**
+- **Genesis 1:29–31** is recorded in STUDIES/0018-GENESIS-1-29-31.md.
+- **Next passage: Genesis 2:1–3 (KJV), followed by Genesis 2:4–7.**
 
 ## Governing decision: unified investigation
 
@@ -99,9 +100,10 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 1:20–23 investigated and recorded.
 - [x] Genesis 1:24–25 investigated and recorded.
 - [x] Genesis 1:26–28 investigated and recorded.
+- [x] Genesis 1:29–31 investigated and recorded.
 
 ## Next session instruction
 
-Resume at **Genesis 1:29–31 (KJV)**. Investigate God's giving of every herb bearing seed and every tree bearing fruit with seed to humanity for food (1:29); God's giving of green herb for food to every beast of the earth, fowl of the air, and creeping thing wherein there is life (1:30); the fulfillment statement, “and it was so”; and God's evaluation of everything He had made as “very good” (1:31), followed by the evening and morning that close the sixth day. Examine the Hebrew terms for “give,” “meat/food,” “green herb,” “seed,” and “very good.” Compare the food provisions for humanity and other living creatures. Investigate plant productivity, food webs, trophic relationships, herbivory, and ecological dependencies using sourced scientific evidence. Preserve the difference between the text's stated provision and modern reconstructions of early diets or ecosystems. Then consider how Genesis 2:1–5 develops the completion of the heavens and earth and the Garden setting.
+Resume at **Genesis 2:1–3 (KJV)**. Investigate the heavens and earth being finished and all the host of them (2:1); God's completion of His work and His resting on the seventh day (2:2); and God's blessing and sanctification of the seventh day (2:3). Examine the Hebrew terms for “finished,” “host,” “rested,” “blessed,” and “sanctified.” Preserve the distinction between God's rest and human fatigue; the text does not say God was tired. Investigate the relation between the six-day sequence, the completed work, and the seventh day. Consider any relevant Creation observations about completion, cycles, and rest only where the comparison is disciplined and does not impose a scientific mechanism on the text. Then proceed to Genesis 2:4–7, preserving the transition from the completed creation account to the Garden-focused account.
 
 **Study remains open.**
