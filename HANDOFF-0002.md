@@ -229,3 +229,8 @@ Study 0056 recorded Genesis 17:1–14: God appears to Abram at ninety-nine, iden
 
 **Next passage:** Genesis 17:15–27 (KJV), Sarah's name change, the promise and birth announcement concerning Isaac, Abraham's response, Ishmael's blessing, and the household's circumcision.  
 **Study remains open.**
+
+Study 0057 recorded Genesis 17:15–27: God changes Sarai's name to Sarah and promises that she will bear Abraham a son; Abraham falls on his face and laughs, asks that Ishmael might live before God, and receives God's answer that Isaac will be born and that the covenant will be established with Isaac and his seed. God also promises to bless Ishmael, make him fruitful, and make him a great nation with twelve princes. Abraham circumcises Ishmael and all the males of his household that same day; Abraham is ninety-nine and Ishmael thirteen. The study preserves uncertainty about Abraham's laughter and the precise nuance of “live before thee”; it distinguishes Ishmael's promised blessing from Isaac's covenant role, and Genesis 16's hearing of Hagar from Genesis 17's hearing of Abraham. It does not claim Abraham's obedience caused the promise or generalize about all later descendants of Ishmael. No new GUA-W architecture is proposed. Central distinction: God's declaration is the source; Abraham's appeal is heard and answered; Ishmael is blessed, Isaac is designated as the covenant line, and Abraham's obedience follows the command.
+
+**Next passage:** Genesis 18:1–15 (KJV), the three visitors at Mamre, Abraham's hospitality, the renewed promise of Sarah's son, Sarah's laughter, and the question, “Is any thing too hard for the LORD?”  
+**Study remains open.**
