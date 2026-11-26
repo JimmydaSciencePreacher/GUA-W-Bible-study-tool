@@ -25,7 +25,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 1:24–25** is recorded in STUDIES/0016-GENESIS-1-24-25.md.
 - **Genesis 1:26–28** is recorded in STUDIES/0017-GENESIS-1-26-28.md.
 - **Genesis 1:29–31** is recorded in STUDIES/0018-GENESIS-1-29-31.md.
-- **Next passage: Genesis 2:1–3 (KJV), followed by Genesis 2:4–7.**
+- **Genesis 2:1–3** is recorded in STUDIES/0019-GENESIS-2-1-3.md.
+- **Next passage: Genesis 2:4–7 (KJV).**
 
 ## Governing decision: unified investigation
 
@@ -101,9 +102,10 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 1:24–25 investigated and recorded.
 - [x] Genesis 1:26–28 investigated and recorded.
 - [x] Genesis 1:29–31 investigated and recorded.
+- [x] Genesis 2:1–3 investigated and recorded.
 
 ## Next session instruction
 
-Resume at **Genesis 2:1–3 (KJV)**. Investigate the heavens and earth being finished and all the host of them (2:1); God's completion of His work and His resting on the seventh day (2:2); and God's blessing and sanctification of the seventh day (2:3). Examine the Hebrew terms for “finished,” “host,” “rested,” “blessed,” and “sanctified.” Preserve the distinction between God's rest and human fatigue; the text does not say God was tired. Investigate the relation between the six-day sequence, the completed work, and the seventh day. Consider any relevant Creation observations about completion, cycles, and rest only where the comparison is disciplined and does not impose a scientific mechanism on the text. Then proceed to Genesis 2:4–7, preserving the transition from the completed creation account to the Garden-focused account.
+Resume at **Genesis 2:4–7 (KJV)**. Examine “these are the generations of the heavens and of the earth” and the Hebrew term *toledoth*; the phrase “in the day that the LORD God made the earth and the heavens”; the conditions described in verses 5–6 before the man is formed; and the formation of man from the dust of the ground and the breath of life in verse 7. Investigate *yatsar*, *adamah*, *afar*, *nishmath chayyim*, and *nephesh chayyah*. Compare Genesis 1:26–27 and Genesis 2:7 without forcing a contradiction or assuming every detail is already explained. Investigate soil, water, plant growth, respiration, and human biology as Creation observations, distinguishing present mechanisms from claims about the original event. Preserve Author → Word → Creation → Witness and apply the Triple Constraint Law.
 
 **Study remains open.**
