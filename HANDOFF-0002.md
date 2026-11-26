@@ -31,7 +31,7 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 2:15–17** is recorded in STUDIES/0022-GENESIS-2-15-17.md.
 - **Genesis 2:18–25** is recorded in STUDIES/0023-GENESIS-2-18-25.md.
 - **The Perfect Garden State — Genesis 1–2** is recorded in STUDIES/0024-PERFECT-GARDEN-STATE.md.
-- **Next research direction:** Unity, Differentiation, and the Limits of the Witness — investigate how specialized sciences study connected domains of one Creation. Genesis 3 remains paused.
+- **Next biblical passage:** Genesis 3:1–5. The unified-Creation foundation is concise context for the Bible study, not a separate science-history project.
 
 ## Governing decision: unified investigation
 
@@ -113,26 +113,18 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 2:15–17 investigated and recorded.
 - [x] Genesis 2:18–25 investigated and recorded in STUDIES/0023-GENESIS-2-18-25.md.
 - [x] The Perfect Garden State — Genesis 1–2 synthesis recorded in STUDIES/0024-PERFECT-GARDEN-STATE.md.
-- [ ] Unity, Differentiation, and the Limits of the Witness — source-based Scripture-and-Creation investigation before deciding whether to proceed to Genesis 3.
+- [ ] Genesis 3:1–5 — next passage in the Bible study.
 
 ## Next session instruction
 
-The dedicated synthesis **The Perfect Garden State — Genesis 1–2** is recorded in [STUDIES/0024-PERFECT-GARDEN-STATE.md](STUDIES/0024-PERFECT-GARDEN-STATE.md). It examines one originating Author, one differentiated created order, relationships among the domains, the Garden's condition, “very good,” “finished,” the human Witness, and the distinction between Creation's unity and the specialization of human scientific disciplines.
+Continue the Bible study with **Genesis 3:1–5 (KJV)**, following the established study protocol and Triple Constraint Law.
 
-The user's governing insight is: **One Creation, One Author; many differentiated domains and many Witnesses.** Do not mistake divisions in human methods or knowledge for proof that Creation itself is disconnected.
+Keep the unified-Creation foundation from Study 0024 concise:
+- One Author: God is the originating Source.
+- One Creation: Genesis presents one created order with differentiated domains, relationships, functions, and boundaries.
+- Many Witnesses: scientific disciplines investigate aspects of Creation; their specialization does not establish that Creation itself is divided.
 
-**Next research direction:** “Unity, Differentiation, and the Limits of the Witness: What Does It Mean to Know One Creation Through Many Sciences?”
+This is supporting context, not a separate study of the history of science. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not add a special review gate or describe the next step as a “pause being lifted”; simply follow the next passage in sequence.
 
-Investigate this as a source-based history/philosophy-of-science and Creation-systems study. Examine:
-- why scientific disciplines developed specialized methods and domains;
-- the difference between useful specialization and fragmentation of understanding;
-- examples of cross-domain relationships in Earth systems, ecology, and biological organization;
-- how integrative sciences work across disciplinary boundaries;
-- what evidence supports or challenges the claim that limits of human understanding contribute to fragmentation;
-- what Genesis 1–2 establishes, and what it does not say about the later history of science.
-
-Do not assume specialization is inherently a failure, that every scientist declares Creation disconnected, or that one unified Creation requires one scientific method or one equation. Use reliable sources and cite empirical and historical claims. Keep the Triple Constraint Law and Author → Word → Creation → Witness order.
-
-**Do not proceed to Genesis 3 automatically.** The Perfect Garden State synthesis is complete, but the next decision is to deepen the unity/differentiation question and review its findings before opening the next chapter.
-
+**Next passage:** Genesis 3:1–5.  
 **Study remains open.**
