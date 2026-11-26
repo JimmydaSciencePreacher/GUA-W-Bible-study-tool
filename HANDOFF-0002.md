@@ -234,3 +234,8 @@ Study 0057 recorded Genesis 17:15–27: God changes Sarai's name to Sarah and pr
 
 **Next passage:** Genesis 18:1–15 (KJV), the three visitors at Mamre, Abraham's hospitality, the renewed promise of Sarah's son, Sarah's laughter, and the question, “Is any thing too hard for the LORD?”  
 **Study remains open.**
+
+Study 0058 recorded Genesis 18:1–15: the LORD appears to Abraham at Mamre; Abraham sees three men, welcomes them, and serves a meal; the visitors ask for Sarah; the promise that Sarah will bear a son at the appointed time is repeated; Sarah hears and laughs within herself; the LORD asks whether anything is too hard for Him; Sarah denies laughing out of fear, and the LORD corrects her. The study preserves both the narrator's identification of the appearance as the LORD's and Abraham's perception of three men, without claiming that verses 1–15 explicitly formulate the Trinity or settle every detail of visitor identity. Hospitality is not treated as purchasing the promise. Sarah's laughter is not assumed to have exactly the same motive as Abraham's in Genesis 17. The promise is spoken here; Isaac's birth is narrated in Genesis 21. No new GUA-W architecture is proposed. Central distinction: the LORD originates and declares the promise; human reception and response are registered but do not author or cancel it.
+
+**Next passage:** Genesis 18:16–33 (KJV), the visitors' departure toward Sodom, the LORD's disclosure concerning Abraham, Abraham's intercession, and the question of the Judge of all the earth.  
+**Study remains open.**
