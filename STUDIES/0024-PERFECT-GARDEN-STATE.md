@@ -26,7 +26,7 @@ The study must distinguish three things:
 
 The existence of multiple sciences does not demonstrate that Creation itself is disconnected. Equally, the fact that Genesis presents one Creation does not mean that every modern scientific discipline can be collapsed into one method or that every interaction is already understood.
 
-The user's proposal that our diminished or limited understanding contributes to disciplinary fragmentation is recorded as a serious interpretive hypothesis. Genesis 1–2 establishes the unity and differentiation of the created order; it does not explicitly narrate the later historical development of scientific institutions or say that modern disciplinary specialization was caused by the Fall. That causal history must remain a separate question.
+The user's proposal that limited human understanding contributes to the fragmentation of knowledge is retained as a question for downstream investigation. This study is not asking Genesis 1–2 to explain later conditions. Genesis 1–2 establishes the originating order presented in the text. What follows that original condition must be examined through the evidence belonging to those later periods and subjects; it must not be presumed in advance or read back into the opening chapters.
 
 ## 2. Primary text and scope
 
@@ -207,7 +207,7 @@ Disciplinary specialization is a feature of human investigation. It is not, by i
 
 Finite observers cannot examine every scale, process, and relationship with one method at once. Specialization is one practical response to the complexity of the subject and the limits of human attention, instruments, training, and inference.
 
-This offers a coherent explanation for why knowledge is organized into fields. It does not establish that the Fall alone caused scientific specialization, nor that all specialization is a defect. The historical causes of modern disciplines are broader and require historical investigation.
+This is a possible line of inquiry, not a conclusion of this Genesis 1–2 synthesis. The downstream condition is not being explained here. Its own history, causes, and development must be investigated on their own evidence rather than settled by an assumption in advance. Specialization may also have practical value; its existence alone does not establish either defect or disconnection in Creation.
 
 ### 5.5 Claim: Science is not unified
 
@@ -316,7 +316,7 @@ These passages support further canonical examination of the Creator, the whole C
 - How do purpose, constraint, structure, and runtime relate to the actual wording of Genesis 1–2 without being inserted into it?
 - What is the difference between the completeness of God's work and the limited completeness of a human explanation?
 - How should a Witness report connections that are real but not yet fully understood?
-- Which claims about the Fall and later knowledge are actually stated in Scripture, and which are historical or theological hypotheses?
+- What does the downstream record itself show about how human understanding and its disciplines developed, without requiring Genesis 1–2 to narrate those later developments?
 
 ### 2. What is GUA-W revealing that helps AI understand?
 
@@ -385,8 +385,8 @@ No new GUA-W layer, operator, or law is established by this synthesis. “Unifie
 | The Garden is a particular setting within the wider Creation. | Text / synthesis | Genesis 2:8–14 locates and describes the Garden within the heavens-and-earth account. |
 | Modern sciences use specialized disciplines. | Observation about human knowledge | A feature of contemporary scientific practice; not a Genesis statement. |
 | Scientific disciplines' boundaries prove Creation is fragmented. | Not supported | Human methods do not establish ontological divisions in their subject. |
-| Human limits contribute to specialization. | Interpretation / working hypothesis | Plausible account of knowledge practice; not a direct Genesis statement. |
-| The Fall alone caused modern scientific specialization. | Unresolved / not established | Requires historical and theological evidence beyond Genesis 1–2. |
+| Human limits contribute to specialization. | Open downstream inquiry | A question to examine through evidence about later human knowledge; not explained by Genesis 1–2. |
+| The Fall and later disciplinary specialization | Not adjudicated in this synthesis | Genesis 1–2 establishes the original condition; later developments must be examined through their own evidence. |
 | All sciences can be reduced to one method or one theory. | Not established | Unity of subject does not entail identity of methods. |
 | “Very good” means every modern definition of perfect. | Not established | Genesis gives its own evaluation; modern definitions must not be imported. |
 | The Perfect Garden State is a useful descriptive synthesis title. | Working interpretation | It summarizes the condition described, while Genesis 1:31 itself says “very good.” |
@@ -399,7 +399,7 @@ No new GUA-W layer, operator, or law is established by this synthesis. “Unifie
 | Scientific coherence | Distinguishes the unified subject of investigation from specialized human methods. Recognizes cross-domain investigation while avoiding claims of one completed scientific theory or unverified historical causation. This synthesis is not a new external literature review. |
 | GUA-W consistency | Preserves God as Original Cause and Author → Word → Creation → Witness. Differentiated Creation is not made into a second source; human disciplines and maps remain derivative. |
 
-**Disposition:** The claim that Genesis 1–2 presents one originating Creator and one differentiated created order is admissible as a textual synthesis. The claim that modern disciplinary fragmentation reflects limits of human understanding is admissible as a working interpretation, not as a proven historical cause. The stronger claim that the Fall alone caused modern scientific specialization is not admitted. Further scientific integration requires concrete evidence and source-level investigation.
+**Disposition:** The claim that Genesis 1–2 presents one originating Creator and one differentiated created order is admissible as a textual synthesis. The question of how the downstream condition developed is left to downstream investigation. This study neither supplies a predetermined explanation nor asks Genesis 1–2 to narrate what follows. Further claims must be evaluated against the evidence appropriate to them under the Triple Constraint Law.
 
 ## 13. Findings — the state presented before Genesis 3
 
@@ -433,15 +433,15 @@ No new GUA-W layer, operator, or law is established by this synthesis. “Unifie
 7. What was the precise geography and hydrology of Eden?
 8. What is the full meaning of “very good” in relation to creaturely processes, predation, death, and the later biblical account? Genesis 1–2 alone does not settle every one of these questions.
 9. What did human knowledge and perception encompass in the Garden? The text gives no exhaustive account of the man's scientific or cognitive capacity.
-10. What historical and intellectual developments produced modern scientific disciplines, and how much of that history can responsibly be related to the Fall?
+10. What does the downstream historical record show about the development of specialized disciplines, and what relationships, if any, does the evidence support between those developments and the Fall?
 11. Which concrete cross-disciplinary scientific findings best demonstrate present Creation's interconnected processes, and where do models remain incomplete?
 12. How should GUA-W's existing terms—Purpose, Constraint, Structure, Framework, Pattern, Runtime, and Witness-state—be mapped to the complete Genesis 1–2 account without forcing terms where the text does not support them?
 
 ### Claims not admitted
 - That modern scientific specialization proves Creation is fragmented.
 - That every science can or should be reduced to one method.
-- That Genesis 1–2 explicitly explains the historical rise of modern scientific disciplines.
-- That the Fall alone is proven to be the cause of disciplinary specialization.
+- That Genesis 1–2 must explain later historical developments in order to establish the original Creation.
+- Any predetermined account of the causes of disciplinary specialization before the downstream evidence has been examined.
 - That the Garden's exact physical geography or every environmental condition is known.
 - That “very good” is interchangeable with every philosophical or technical definition of perfection.
 - That completion means inactivity or the end of all creaturely processes.
@@ -486,4 +486,4 @@ The unified-Creation foundation is intentionally brief:
 2. **One Creation:** Genesis presents one created order with differentiated domains, relationships, functions, and boundaries.
 3. **Many Witnesses:** The sciences investigate aspects of Creation; disciplinary specialization does not establish that Creation itself is divided.
 
-This foundation supports the Bible study; it does not become a separate science-history project. Continue with the next biblical passage in sequence, Genesis 3:1–5. Bring in scientific evidence only when it directly helps examine a question raised by the text.
+This foundation supports the continuing Bible study; it does not become a separate science-history project. Study 0025 records Genesis 3:1–5. The next passage in sequence is Genesis 3:6–7. The downstream condition will be examined as the biblical account proceeds and through relevant evidence when warranted; do not require Genesis 1–2 to explain what follows.
