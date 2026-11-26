@@ -142,7 +142,7 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 11:1–9 (KJV)**, following the established protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 11:10–26 (KJV)**, following the established protocol and Triple Constraint Law.
 
 The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
@@ -186,5 +186,7 @@ Study 0045 recorded Genesis 9:18–29: Noah's sons are identified, Noah plants a
 
 Study 0046 recorded Genesis 10:1–32: the descendants of Japheth, Ham, and Shem are associated with families, tongues, lands, and nations; Ham's genealogy includes Nimrod and the beginning of his kingdom, as well as Canaan's descendants; Shem's line continues toward Abraham; and Peleg's days are associated with a division of the earth. The study examines *toledot*, *mishpachah*, *lashon*, *erets*, *goy*, and *palag*. It distinguishes genealogical and national categories from modern genetic classifications, treats historical identifications with differing confidence, and leaves Nimrod's identity, Peleg's division, the count of nations, and the chronology/literary relationship between Genesis 10 and 11 unresolved. Scientific context addresses population expansion, migration, language change, geography, and population genetics without claiming that modern populations can be mapped directly to named biblical descendants.
 
-**Next passage:** Genesis 11:1–9.  
+Study 0047 recorded Genesis 11:1–9: humanity shares one language and speech, settles in Shinar, manufactures fired brick and uses bitumen, plans a city and tower, seeks to make a name and avoid dispersion, and experiences divine intervention that confounds speech and results in dispersion and cessation of construction. The study examines *saphah*, *devarim*, *biq'ah*, *levenah*, *chemar*, *shem*, *puts*, and *balal*. It compares the stated resistance to dispersion with Genesis 9:1, 7, and the self-made name with God's promise to Abram in Genesis 12:2. It distinguishes construction technology and linguistic comparative methods from claims that archaeology or science proves the Babel event. GUA-W applications include capability versus authority, unity versus alignment, and integration versus centralization; no new architecture is introduced. Unresolved matters include the tower's precise function and identification, the linguistic mechanism and scope, the plural expression in verse 7, chronology with Genesis 10, the Babel/Babylon etymological relationship, and the Babel/Abram literary connection.
+
+**Next passage:** Genesis 11:10–26.  
 **Study remains open.**
