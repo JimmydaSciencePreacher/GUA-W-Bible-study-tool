@@ -239,3 +239,8 @@ Study 0058 recorded Genesis 18:1–15: the LORD appears to Abraham at Mamre; Abr
 
 **Next passage:** Genesis 18:16–33 (KJV), the visitors' departure toward Sodom, the LORD's disclosure concerning Abraham, Abraham's intercession, and the question of the Judge of all the earth.  
 **Study remains open.**
+
+Study 0059 recorded Genesis 18:16–33: the visitors turn toward Sodom; the LORD considers disclosure to Abraham; verses 18–19 connect Abraham's promised greatness and blessing to all nations with his responsibility to direct his household in the LORD's way, righteousness, and judgment; the LORD addresses the outcry against Sodom and Gomorrah; Abraham draws near and intercedes, appealing to the Judge of all the earth; the LORD answers the successive thresholds of fifty, forty-five, forty, thirty, twenty, and ten righteous people; and the encounter ends with the LORD going His way and Abraham returning to his place. The study distinguishes disclosure and responsibility from sovereign authority: Abraham receives knowledge and intercedes but does not become the Author or Judge. It does not claim ten righteous people were found, turn the numbers into a universal prayer formula, or move Genesis 19's judgment into this passage. It preserves the narrative language of “going down” and “seeing” without inferring divine ignorance. No new GUA-W architecture is proposed. Central distinction: the Author may disclose; the recipient may respond and intercede; authority over judgment remains with the LORD.
+
+**Next passage:** Genesis 19:1–29 (KJV), the angels' arrival in Sodom, Lot's hospitality, the city's violence, the warning and rescue, Lot's family's response, and the destruction of the cities.  
+**Study remains open.**
