@@ -37,7 +37,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 3:20–24** is recorded in STUDIES/0029-GENESIS-3-20-24.md.
 - **Genesis 4:1–7** is recorded in STUDIES/0030-GENESIS-4-1-7.md.
 - **Genesis 4:8–16** is recorded in STUDIES/0031-GENESIS-4-8-16.md.
-- **Next biblical passage:** Genesis 4:17–26. Study 0024 establishes the original Creation presented in Genesis 1–2; the downstream condition is examined as the biblical account proceeds and through relevant evidence when warranted. Do not require Genesis 1–2 to explain what follows.
+- **Genesis 4:17–26** is recorded in STUDIES/0032-GENESIS-4-17-26.md.
+- **Next biblical passage:** Genesis 5:1–32. Study 0024 establishes the original Creation presented in Genesis 1–2; the downstream condition is examined as the biblical account proceeds and through relevant evidence when warranted. Do not require Genesis 1–2 to explain what follows.
 
 ## Governing decision: unified investigation
 
@@ -126,11 +127,12 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 3:20–24 investigated and recorded in STUDIES/0029-GENESIS-3-20-24.md.
 - [x] Genesis 4:1–7 investigated and recorded in STUDIES/0030-GENESIS-4-1-7.md.
 - [x] Genesis 4:8–16 investigated and recorded in STUDIES/0031-GENESIS-4-8-16.md.
-- [ ] Genesis 4:17–26 — next passage in the Bible study.
+- [x] Genesis 4:17–26 investigated and recorded in STUDIES/0032-GENESIS-4-17-26.md.
+- [ ] Genesis 5:1–32 — next passage in the Bible study.
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 4:17–26 (KJV)**, following the established protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 5:1–32 (KJV)**, following the established protocol and Triple Constraint Law.
 
 The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
@@ -144,5 +146,7 @@ Study 0030 recorded Genesis 4:1–7: Cain and Abel's births and occupations; the
 
 Study 0031 recorded Genesis 4:8–16: Cain kills Abel; God questions Cain; Abel's blood cries from the ground; the ground receives the blood and Cain is judged in relation to it; Cain becomes a fugitive; God sets a protective mark; and Cain departs to Nod, east of Eden. Key unresolved matters include the plural Hebrew form *demei* (“bloods”), the scope of the ground's curse, the force of *ʿavon*, the nature of Cain's mark, and the location of Nod. The Creation investigation distinguishes physical blood/soil processes and soil productivity from the theological claim that Abel's blood cries to God.
 
-**Next passage:** Genesis 4:17–26.  
+Study 0032 recorded Genesis 4:17–26: Cain's wife, Enoch, and city; Cain's genealogy through Lamech; Lamech's two wives; Jabal's association with tents and livestock; Jubal's instruments; Tubal-cain's metalworking; Lamech's violent speech and amplified vengeance; Seth's birth; and the calling upon the name of the LORD in Enos's time. Key unresolved matters include Cain's wife's identity, the location and nature of the city, the exact instruments and metalworking process, the meaning and tone of Lamech's speech, and the nuance of Genesis 4:26. The Creation investigation treats archaeological parallels as contextual evidence, not identification of biblical individuals. A scholarly Kenite/metallurgy interpretation is recorded as a hypothesis alongside broader cultural-genealogy readings.
+
+**Next passage:** Genesis 5:1–32.  
 **Study remains open.**
