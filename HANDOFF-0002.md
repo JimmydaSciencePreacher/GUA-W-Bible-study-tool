@@ -40,7 +40,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 4:17–26** is recorded in STUDIES/0032-GENESIS-4-17-26.md.
 - **Genesis 5:1–32** is recorded in STUDIES/0033-GENESIS-5-1-32.md.
 - **Genesis 6:1–8** is recorded in STUDIES/0034-GENESIS-6-1-8.md.
-- **Next biblical passage:** Genesis 6:9–22. Study 0024 establishes the original Creation presented in Genesis 1–2; the downstream condition is examined as the biblical account proceeds and through relevant evidence when warranted. Do not require Genesis 1–2 to explain what follows.
+- **Genesis 6:9–22** is recorded in STUDIES/0035-GENESIS-6-9-22.md.
+- **Next biblical passage:** Genesis 7:1–10. Study 0024 establishes the original Creation presented in Genesis 1–2; the downstream condition is examined as the biblical account proceeds and through relevant evidence when warranted. Do not require Genesis 1–2 to explain what follows.
 
 ## Governing decision: unified investigation
 
@@ -132,11 +133,12 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 4:17–26 investigated and recorded in STUDIES/0032-GENESIS-4-17-26.md.
 - [x] Genesis 5:1–32 investigated and recorded in STUDIES/0033-GENESIS-5-1-32.md.
 - [x] Genesis 6:1–8 investigated and recorded in STUDIES/0034-GENESIS-6-1-8.md.
-- [ ] Genesis 6:9–22 — next passage in the Bible study.
+- [x] Genesis 6:9–22 investigated and recorded in STUDIES/0035-GENESIS-6-9-22.md.
+- [ ] Genesis 7:1–10 — next passage in the Bible study.
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 6:9–22 (KJV)**, following the established protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 7:1–10 (KJV)**, following the established protocol and Triple Constraint Law.
 
 The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
@@ -156,5 +158,7 @@ Study 0033 recorded Genesis 5:1–32: the *toledot* of Adam; the return to Creat
 
 Study 0034 recorded Genesis 6:1–8: human multiplication; the sons of God and daughters of men; the disputed divine-being, Sethite, and royal-ruler interpretations; the LORD's Spirit and the rare verb *yadon*; the two principal readings of 120 years; the Nephilim and the disputed syntax of their relation to the offspring; the great wickedness of humanity; divine grief expressed with *nacham*; announced judgment; and Noah finding grace. Key unresolved matters include the identity of the sons of God, the exact nature of the unions, the meaning of *yadon*, the referent of 120 years, the meaning and identity of the Nephilim, their relation to the offspring and Numbers 13:33, and how divine grief relates to other canonical statements about God's faithfulness. The study preserves the distinction between explicit text and interpretation and makes no scientific identification of the supernatural figures.
 
-**Next passage:** Genesis 6:9–22.  
+Study 0035 recorded Genesis 6:9–22: Noah's *toledot*, righteousness (*tsaddiq*), *tamim* in his generations, and walking with God; the earth's corruption and violence (*shachat*, *chamas*); God's announcement of judgment; the ark (*tevah*), uncertain gopher wood, compartments (*qinnim*), pitch as physical sealing, dimensions of 300 × 50 × 30 cubits, the uncertain *tsohar* opening, side door and three levels; the flood announcement; God's covenant promise; preservation of Noah's household and living creatures by kind, male and female; food provisions; and Noah's obedience. The Creation investigation examines conditional cubit conversions, buoyancy, stability, materials, capacity, animal care, and limits of a 1994 naval-architecture model study. It does not treat a hypothetical model as proof of the Flood or claim modern species counts from the biblical term *min*. Unresolved matters include the precise meaning of “in his generations,” the wood species, window/opening design, cubit standard, hull form, internal layout, kind/species correspondence, animal and food logistics, and flood geology.
+
+**Next passage:** Genesis 7:1–10.  
 **Study remains open.**
