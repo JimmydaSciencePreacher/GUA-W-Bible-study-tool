@@ -142,7 +142,7 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 9:8–17 (KJV)**, following the established protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 9:18–29 (KJV)**, following the established protocol and Triple Constraint Law.
 
 The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
@@ -180,5 +180,7 @@ Study 0042 recorded Genesis 8:20–22: Noah builds an altar and offers burnt off
 
 Study 0043 recorded Genesis 9:1–7: God blesses Noah and his sons, commands fruitfulness and filling the earth, grants living creatures into human hands, permits moving creatures as food while prohibiting flesh with its blood/life, requires an accounting for human blood, and grounds the gravity of human bloodshed in humanity's creation in God's image. The study examines *barak*, *male*, *mora*, *chat*, *nathan*, *nephesh*, *dam*, *darash*, *shaphakh dam*, *tselem Elohim*, and *sharats*. It distinguishes delegated dominion from unrestricted autonomy, blood's physiological functions from the theological range of *nephesh*, and the principle in verse 6 from a complete later judicial code. Scientific context covers blood transport, oxygen delivery, immune defense, and clotting, without claiming blood is the universal definition of life or that physiology settles the doctrine of the soul. Unresolved matters include the scope of animal-food permission, *nephesh* and blood, the animal clause in verse 5, the legal force of verse 6, the ontology of the image of God, and later canonical development.
 
-**Next passage:** Genesis 9:8–17.  
+Study 0044 recorded Genesis 9:8–17: God speaks to Noah and his sons, establishes His covenant with Noah and his descendants, includes every living creature and the earth in its stated scope, promises that another flood will not destroy all flesh, appoints the bow in the cloud as the covenant token, and declares His remembrance. The study examines *berit*, *qum*, *zera*, *nephesh chayyah*, *'ot*, *qeshet*, and *zakar*. It distinguishes God's appointment of the bow as covenant sign from the physical optics of rainbows, and divine covenant remembrance from human forgetfulness. Scientific context describes refraction, dispersion, and internal reflection without claiming optics establishes when rainbows first appeared. Unresolved matters include pre-Flood rainbow history, the precise force of “I do set my bow,” the symbolism of *qeshet*, the scope of “between me and the earth,” and relationships to later covenants.
+
+**Next passage:** Genesis 9:18–29.  
 **Study remains open.**
