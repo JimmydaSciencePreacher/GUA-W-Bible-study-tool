@@ -42,7 +42,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 6:1–8** is recorded in STUDIES/0034-GENESIS-6-1-8.md.
 - **Genesis 6:9–22** is recorded in STUDIES/0035-GENESIS-6-9-22.md.
 - **Genesis 7:1–10** is recorded in STUDIES/0036-GENESIS-7-1-10.md.
-- **Next biblical passage:** Genesis 7:11–24. Study 0024 establishes the original Creation presented in Genesis 1–2; the downstream condition is examined as the biblical account proceeds and through relevant evidence when warranted. Do not require Genesis 1–2 to explain what follows.
+- **Genesis 7:11–24** is recorded in STUDIES/0037-GENESIS-7-11-24.md.
+- **Next biblical passage:** Genesis 8:1–5. Study 0024 establishes the original Creation presented in Genesis 1–2; the downstream condition is examined as the biblical account proceeds and through relevant evidence when warranted. Do not require Genesis 1–2 to explain what follows.
 
 ## Governing decision: unified investigation
 
@@ -136,11 +137,12 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 6:1–8 investigated and recorded in STUDIES/0034-GENESIS-6-1-8.md.
 - [x] Genesis 6:9–22 investigated and recorded in STUDIES/0035-GENESIS-6-9-22.md.
 - [x] Genesis 7:1–10 investigated and recorded in STUDIES/0036-GENESIS-7-1-10.md.
-- [ ] Genesis 7:11–24 — next passage in the Bible study.
+- [x] Genesis 7:11–24 investigated and recorded in STUDIES/0037-GENESIS-7-11-24.md.
+- [ ] Genesis 8:1–5 — next passage in the Bible study.
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 7:11–24 (KJV)**, following the established protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 8:1–5 (KJV)**, following the established protocol and Triple Constraint Law.
 
 The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
@@ -164,5 +166,7 @@ Study 0035 recorded Genesis 6:9–22: Noah's *toledot*, righteousness (*tsaddiq*
 
 Study 0036 recorded Genesis 7:1–10: the LORD's command for Noah and his household to enter; God's assessment of Noah as righteous in his generation; clean and unclean animal distinctions; the KJV's “by sevens” for clean animals and birds and “by two” for unclean animals; the purpose of keeping offspring alive; the seven-day warning; forty days and nights of rain; Noah's age of 600; household and animal entry; “two and two” as entry grouping; and the arrival of the waters after seven days. The central unresolved issue is whether Hebrew *shiv'ah shiv'ah* means seven individuals or seven pairs. The study preserves both readings, notes the NET alternative and Glenn J. Kerr's argument for seven individuals, and does not treat either as settled. Genesis 8:20 makes sacrifice a plausible reason for additional clean animals but Genesis 7 does not explicitly state that rationale. Biology and hydrology are treated within their evidential limits; no modern species count, rainfall volume, or absolute calendar date is inferred.
 
-**Next passage:** Genesis 7:11–24.  
+Study 0037 recorded Genesis 7:11–24: Noah's age and the KJV date (second month, seventeenth day); the textual variant in some Septuagint witnesses reading twenty-seventh day; the fountains of the great deep and windows of heaven; forty days and nights of rain; same-day entry; the LORD shutting Noah in; rising waters lifting the ark; the high hills covered; fifteen cubits upward; death of life on dry land; preservation of Noah and those with him; and 150 days of prevailing waters. The study connects *tehom* with Genesis 1:2 and the opening of Genesis 7:11 with the stopping of the fountains and windows in Genesis 8:2. It distinguishes textual claims from proposed mechanisms. Hydrogeology, buoyancy, and documented regional megafloods are investigated within limits; none is treated as proof of the Noahic Flood. Unresolved matters include the fountains' physical mechanism, the windows' referent, the date/calendar questions, the fifteen-cubit reference point, geographic scope, and geological correlation.
+
+**Next passage:** Genesis 8:1–5.  
 **Study remains open.**
