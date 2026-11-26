@@ -224,3 +224,8 @@ Study 0055 recorded Genesis 16:1–16: Sarai's childlessness and proposal involv
 
 **Next passage:** Genesis 17:1–14 (KJV), God's appearance to Abram at ninety-nine, the command to walk before God and be perfect, the covenant, the name change to Abraham, the promise of nations and kings, and the covenant sign of circumcision.  
 **Study remains open.**
+
+Study 0056 recorded Genesis 17:1–14: God appears to Abram at ninety-nine, identifies Himself as El Shaddai, commands Abram to walk before Him and be tamim, declares the covenant, changes Abram's name to Abraham, promises fruitfulness, nations, kings, covenant relationship and land, and appoints circumcision as the physical covenant sign with household obligations and the eighth-day timing for male infants. The study distinguishes God's covenant initiative from Abraham's reception and obligations; the sign does not originate the covenant. It preserves lexical uncertainty around Shaddai, tamim, and Abraham's historical etymology; notes circumcision's presence in other ancient Near Eastern settings without assuming identical meanings; and distinguishes historical/biological observations from theological claims. Ishmael is already born; Genesis 17:15–27 will address Sarah, Isaac, Ishmael's blessing, the covenant line, and the household's circumcision. No new GUA-W architecture is proposed.
+
+**Next passage:** Genesis 17:15–27 (KJV), Sarah's name change, the promise and birth announcement concerning Isaac, Abraham's response, Ishmael's blessing, and the household's circumcision.  
+**Study remains open.**
