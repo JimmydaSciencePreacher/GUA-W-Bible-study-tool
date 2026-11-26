@@ -142,7 +142,7 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 10:1–32 (KJV)**, following the established protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 11:1–9 (KJV)**, following the established protocol and Triple Constraint Law.
 
 The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
@@ -184,5 +184,7 @@ Study 0044 recorded Genesis 9:8–17: God speaks to Noah and his sons, establish
 
 Study 0045 recorded Genesis 9:18–29: Noah's sons are identified, Noah plants a vineyard, becomes drunk, and is uncovered; Ham sees and reports his father's nakedness; Shem and Japheth cover Noah without looking; Noah awakens, identifies an act by his younger son, pronounces words concerning Canaan, Shem, and Japheth, and later dies. The study examines *ish ha'adamah*, *kerem*, *yayin*, *shakar*, *galah*, *ervah*, *ra'ah*, *nagad*, *asah*, *arar*, and *ebed avadim*. It distinguishes the explicit text from competing interpretations of the offense, including the proposal that Canaan rather than Ham is the younger offender; that proposal is not treated as consensus. It rejects using the curse as a racial doctrine or authorization for slavery, distinguishes Noah's speech from God's covenant, and gives scientific context for grape growth, fermentation, and ethanol without reconstructing Noah's medical state. Unresolved matters include the younger son's identity and conduct, why Canaan is cursed, Japheth's enlargement and dwelling in Shem's tents, and the possible Genesis 3 nakedness/covering connection.
 
-**Next passage:** Genesis 10:1–32.  
+Study 0046 recorded Genesis 10:1–32: the descendants of Japheth, Ham, and Shem are associated with families, tongues, lands, and nations; Ham's genealogy includes Nimrod and the beginning of his kingdom, as well as Canaan's descendants; Shem's line continues toward Abraham; and Peleg's days are associated with a division of the earth. The study examines *toledot*, *mishpachah*, *lashon*, *erets*, *goy*, and *palag*. It distinguishes genealogical and national categories from modern genetic classifications, treats historical identifications with differing confidence, and leaves Nimrod's identity, Peleg's division, the count of nations, and the chronology/literary relationship between Genesis 10 and 11 unresolved. Scientific context addresses population expansion, migration, language change, geography, and population genetics without claiming that modern populations can be mapped directly to named biblical descendants.
+
+**Next passage:** Genesis 11:1–9.  
 **Study remains open.**
