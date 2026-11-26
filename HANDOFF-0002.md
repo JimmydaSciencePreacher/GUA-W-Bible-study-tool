@@ -142,7 +142,7 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 9:1–7 (KJV)**, following the established protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 9:8–17 (KJV)**, following the established protocol and Triple Constraint Law.
 
 The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
@@ -178,5 +178,7 @@ Study 0041 recorded Genesis 8:15–19: God speaks to Noah and commands him and h
 
 Study 0042 recorded Genesis 8:20–22: Noah builds an altar and offers burnt offerings from clean animals and birds; the LORD receives the offering and speaks concerning the ground, human evil from youth, and restraint from another destruction of all living things; the passage declares the continuing cycles of seedtime/harvest, cold/heat, summer/winter, and day/night while the earth remains. The study examines *mizbeach*, *olah*, *reah nichoach*, *adamah*, *yetser*, *ra*, and the paired seasonal/day-night terms. It distinguishes Genesis 8:21's verb for curse from Genesis 3:17, preserves the translation question around “for/because” versus “although/even though,” and does not claim that Noah's offering purchases or causes God's covenant commitment. Scientific context explains axial tilt, rotation, agricultural seasonality, and regional variation without treating the verse as a modern mechanism description. Unresolved matters include the precise scope of the ground statement, the force of “from his youth,” the relationship of Noah's offering to later sacrificial law, and the scope of “while the earth remaineth.”
 
-**Next passage:** Genesis 9:1–7.  
+Study 0043 recorded Genesis 9:1–7: God blesses Noah and his sons, commands fruitfulness and filling the earth, grants living creatures into human hands, permits moving creatures as food while prohibiting flesh with its blood/life, requires an accounting for human blood, and grounds the gravity of human bloodshed in humanity's creation in God's image. The study examines *barak*, *male*, *mora*, *chat*, *nathan*, *nephesh*, *dam*, *darash*, *shaphakh dam*, *tselem Elohim*, and *sharats*. It distinguishes delegated dominion from unrestricted autonomy, blood's physiological functions from the theological range of *nephesh*, and the principle in verse 6 from a complete later judicial code. Scientific context covers blood transport, oxygen delivery, immune defense, and clotting, without claiming blood is the universal definition of life or that physiology settles the doctrine of the soul. Unresolved matters include the scope of animal-food permission, *nephesh* and blood, the animal clause in verse 5, the legal force of verse 6, the ontology of the image of God, and later canonical development.
+
+**Next passage:** Genesis 9:8–17.  
 **Study remains open.**
