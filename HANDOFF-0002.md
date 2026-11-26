@@ -32,7 +32,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 2:18–25** is recorded in STUDIES/0023-GENESIS-2-18-25.md.
 - **The Perfect Garden State — Genesis 1–2** is recorded in STUDIES/0024-PERFECT-GARDEN-STATE.md.
 - **Genesis 3:6–7** is recorded in STUDIES/0026-GENESIS-3-6-7.md.
-- **Next biblical passage:** Genesis 3:8–13. Study 0024 establishes the original Creation presented in Genesis 1–2; the downstream condition is examined as the biblical account proceeds and through relevant evidence when warranted. Do not require Genesis 1–2 to explain what follows.
+- **Genesis 3:8–13** is recorded in STUDIES/0027-GENESIS-3-8-13.md.
+- **Next biblical passage:** Genesis 3:14–19. Study 0024 establishes the original Creation presented in Genesis 1–2; the downstream condition is examined as the biblical account proceeds and through relevant evidence when warranted. Do not require Genesis 1–2 to explain what follows.
 
 ## Governing decision: unified investigation
 
@@ -116,15 +117,16 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] The Perfect Garden State — Genesis 1–2 synthesis recorded in STUDIES/0024-PERFECT-GARDEN-STATE.md.
 - [x] Genesis 3:1–5 investigated and recorded in STUDIES/0025-GENESIS-3-1-5.md.
 - [x] Genesis 3:6–7 investigated and recorded in STUDIES/0026-GENESIS-3-6-7.md.
-- [ ] Genesis 3:8–13 — next passage in the Bible study.
+- [x] Genesis 3:8–13 investigated and recorded in STUDIES/0027-GENESIS-3-8-13.md.
+- [ ] Genesis 3:14–19 — next passage in the Bible study.
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 3:8–13 (KJV)**, following the established protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 3:14–19 (KJV)**, following the established protocol and Triple Constraint Law.
 
 The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
 Study 0025 recorded Genesis 3:1–5, including the serpent's opening question, the woman's reply, the additional phrase “neither shall ye touch it,” the serpent's direct contradiction of God's stated consequence, and the serpent's claim about God's motive and the promised knowledge. The reason for the woman's additional phrase remains unresolved; do not assume deliberate alteration.
 
-**Next passage:** Genesis 3:6–7.  
+**Next passage:** Genesis 3:14–19.  
 **Study remains open.**
