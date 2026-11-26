@@ -29,8 +29,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 2:4–7** is recorded in STUDIES/0020-GENESIS-2-4-7.md.
 - **Genesis 2:8–14** is recorded in STUDIES/0021-GENESIS-2-8-14.md.
 - **Genesis 2:15–17** is recorded in STUDIES/0022-GENESIS-2-15-17.md.
-- **Next passage: Genesis 2:18–25 (KJV).**
-- **Required chapter-end pause:** After Genesis 2:18–25, stop before Genesis 3 and complete the dedicated study **The Perfect Garden State — Genesis 1–2**.**
+- **Genesis 2:18–25** is recorded in STUDIES/0023-GENESIS-2-18-25.md.
+- **Next required study: The Perfect Garden State — Genesis 1–2.** Stop here before Genesis 3.
 
 ## Governing decision: unified investigation
 
@@ -110,13 +110,27 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 2:4–7 investigated and recorded.
 - [x] Genesis 2:8–14 investigated and recorded.
 - [x] Genesis 2:15–17 investigated and recorded.
-- [ ] Genesis 2:18–25 — next passage.
-- [ ] The Perfect Garden State — required chapter-end study after Genesis 2:18–25 and before Genesis 3.
+- [x] Genesis 2:18–25 investigated and recorded in STUDIES/0023-GENESIS-2-18-25.md.
+- [ ] The Perfect Garden State — required chapter-end synthesis; next study. Genesis 3 remains paused.
 
 ## Next session instruction
 
-Resume at **Genesis 2:18–25 (KJV)**. Investigate God's statement that it is not good for the man to be alone; the formation and bringing of the beasts and fowls; the man's naming of them; the absence of a help meet; the formation of the woman; the man's response; the one-flesh statement; and the nakedness without shame. Examine the Hebrew terms and syntax carefully, including *ezer kenegdo*, *tsela*, *ish*, *ishshah*, *azav*, *dabaq*, and *basar echad*. Distinguish what the text states about human identity, relationship, and marriage from later theological inference. Include relevant Creation investigation only where it adds evidence or disciplined comparison. Apply the Four Questions and Triple Constraint Law.
+Resume with the dedicated synthesis study **The Perfect Garden State — Genesis 1–2**. Genesis 2:18–25 has been completed and recorded in [STUDIES/0023-GENESIS-2-18-25.md](STUDIES/0023-GENESIS-2-18-25.md).
 
-**Mandatory stop:** Once Genesis 2:18–25 is completed, do not proceed to Genesis 3. First conduct and record **The Perfect Garden State — Genesis 1–2** as a dedicated synthesis study. Re-examine the whole Genesis 1–2 record, including Creation's completion, the Garden's condition, humanity, relationships, provision, vocation, command, boundaries, and Genesis 2:25's “not ashamed.” Define carefully what “perfect” can mean from the text; distinguish explicit statements, cross-passage synthesis, inference, interpretation, and unresolved matters. Do not import Fall conditions from Genesis 3 into the pre-Fall state. Only after the Perfect Garden State study is completed should the next step be decided.
+Do not proceed to Genesis 3.
+
+Re-examine the complete Genesis 1–2 record, including:
+- God's completed Creation and the Garden's prepared condition.
+- The man and woman, their identity, relationship, and placement.
+- Provision, food, water, vegetation, and living creatures.
+- Human vocation, responsibility, command, permission, and boundary.
+- The relational condition of the pair, including nakedness without shame.
+- The state of relationships among God, humanity, one another, and the created environment.
+- What “perfect” may mean from the text, without importing an external definition.
+- Relevant Creation observations and the limits of present scientific reconstruction.
+
+Classify synthesis claims as explicit text, cross-passage synthesis, observation, inference, interpretation, or unresolved. Do not import Genesis 3 conditions into the pre-Fall account. Investigate tensions and limits rather than assuming that every question is already settled. The dedicated study must be recorded in STUDIES/ and this handoff updated before deciding what follows.
+
+**Mandatory stop remains in force: Genesis 3 has not begun.**
 
 **Study remains open.**
