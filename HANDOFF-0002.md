@@ -28,7 +28,9 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 2:1–3** is recorded in STUDIES/0019-GENESIS-2-1-3.md.
 - **Genesis 2:4–7** is recorded in STUDIES/0020-GENESIS-2-4-7.md.
 - **Genesis 2:8–14** is recorded in STUDIES/0021-GENESIS-2-8-14.md.
-- **Next passage: Genesis 2:15–17 (KJV).**
+- **Genesis 2:15–17** is recorded in STUDIES/0022-GENESIS-2-15-17.md.
+- **Next passage: Genesis 2:18–25 (KJV).**
+- **Required chapter-end pause:** After Genesis 2:18–25, stop before Genesis 3 and complete the dedicated study **The Perfect Garden State — Genesis 1–2**.**
 
 ## Governing decision: unified investigation
 
@@ -107,9 +109,14 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 2:1–3 investigated and recorded.
 - [x] Genesis 2:4–7 investigated and recorded.
 - [x] Genesis 2:8–14 investigated and recorded.
+- [x] Genesis 2:15–17 investigated and recorded.
+- [ ] Genesis 2:18–25 — next passage.
+- [ ] The Perfect Garden State — required chapter-end study after Genesis 2:18–25 and before Genesis 3.
 
 ## Next session instruction
 
-Resume at **Genesis 2:15–17 (KJV)**. Investigate the LORD God taking the man and putting him into the Garden of Eden to dress and keep it (2:15); God's command concerning the trees (2:16); the prohibition concerning the tree of the knowledge of good and evil (2:17); and the stated consequence, “thou shalt surely die.” Examine *laqach*, *nuach*, *avad*, *shamar*, *tsavah*, *akol*, *mot tamut*, and the syntax of the command. Distinguish provision, vocation, permission, prohibition, and consequence. Investigate cultivation, stewardship, ecological care, and the difference between a boundary and a mechanism as Creation and ethical observations. Do not reduce the command or death to a purely biological model. Preserve Author → Word → Creation → Witness and apply the Triple Constraint Law.
+Resume at **Genesis 2:18–25 (KJV)**. Investigate God's statement that it is not good for the man to be alone; the formation and bringing of the beasts and fowls; the man's naming of them; the absence of a help meet; the formation of the woman; the man's response; the one-flesh statement; and the nakedness without shame. Examine the Hebrew terms and syntax carefully, including *ezer kenegdo*, *tsela*, *ish*, *ishshah*, *azav*, *dabaq*, and *basar echad*. Distinguish what the text states about human identity, relationship, and marriage from later theological inference. Include relevant Creation investigation only where it adds evidence or disciplined comparison. Apply the Four Questions and Triple Constraint Law.
+
+**Mandatory stop:** Once Genesis 2:18–25 is completed, do not proceed to Genesis 3. First conduct and record **The Perfect Garden State — Genesis 1–2** as a dedicated synthesis study. Re-examine the whole Genesis 1–2 record, including Creation's completion, the Garden's condition, humanity, relationships, provision, vocation, command, boundaries, and Genesis 2:25's “not ashamed.” Define carefully what “perfect” can mean from the text; distinguish explicit statements, cross-passage synthesis, inference, interpretation, and unresolved matters. Do not import Fall conditions from Genesis 3 into the pre-Fall state. Only after the Perfect Garden State study is completed should the next step be decided.
 
 **Study remains open.**
