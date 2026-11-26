@@ -41,7 +41,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 5:1–32** is recorded in STUDIES/0033-GENESIS-5-1-32.md.
 - **Genesis 6:1–8** is recorded in STUDIES/0034-GENESIS-6-1-8.md.
 - **Genesis 6:9–22** is recorded in STUDIES/0035-GENESIS-6-9-22.md.
-- **Next biblical passage:** Genesis 7:1–10. Study 0024 establishes the original Creation presented in Genesis 1–2; the downstream condition is examined as the biblical account proceeds and through relevant evidence when warranted. Do not require Genesis 1–2 to explain what follows.
+- **Genesis 7:1–10** is recorded in STUDIES/0036-GENESIS-7-1-10.md.
+- **Next biblical passage:** Genesis 7:11–24. Study 0024 establishes the original Creation presented in Genesis 1–2; the downstream condition is examined as the biblical account proceeds and through relevant evidence when warranted. Do not require Genesis 1–2 to explain what follows.
 
 ## Governing decision: unified investigation
 
@@ -134,11 +135,12 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 5:1–32 investigated and recorded in STUDIES/0033-GENESIS-5-1-32.md.
 - [x] Genesis 6:1–8 investigated and recorded in STUDIES/0034-GENESIS-6-1-8.md.
 - [x] Genesis 6:9–22 investigated and recorded in STUDIES/0035-GENESIS-6-9-22.md.
-- [ ] Genesis 7:1–10 — next passage in the Bible study.
+- [x] Genesis 7:1–10 investigated and recorded in STUDIES/0036-GENESIS-7-1-10.md.
+- [ ] Genesis 7:11–24 — next passage in the Bible study.
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 7:1–10 (KJV)**, following the established protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 7:11–24 (KJV)**, following the established protocol and Triple Constraint Law.
 
 The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
@@ -160,5 +162,7 @@ Study 0034 recorded Genesis 6:1–8: human multiplication; the sons of God and d
 
 Study 0035 recorded Genesis 6:9–22: Noah's *toledot*, righteousness (*tsaddiq*), *tamim* in his generations, and walking with God; the earth's corruption and violence (*shachat*, *chamas*); God's announcement of judgment; the ark (*tevah*), uncertain gopher wood, compartments (*qinnim*), pitch as physical sealing, dimensions of 300 × 50 × 30 cubits, the uncertain *tsohar* opening, side door and three levels; the flood announcement; God's covenant promise; preservation of Noah's household and living creatures by kind, male and female; food provisions; and Noah's obedience. The Creation investigation examines conditional cubit conversions, buoyancy, stability, materials, capacity, animal care, and limits of a 1994 naval-architecture model study. It does not treat a hypothetical model as proof of the Flood or claim modern species counts from the biblical term *min*. Unresolved matters include the precise meaning of “in his generations,” the wood species, window/opening design, cubit standard, hull form, internal layout, kind/species correspondence, animal and food logistics, and flood geology.
 
-**Next passage:** Genesis 7:1–10.  
+Study 0036 recorded Genesis 7:1–10: the LORD's command for Noah and his household to enter; God's assessment of Noah as righteous in his generation; clean and unclean animal distinctions; the KJV's “by sevens” for clean animals and birds and “by two” for unclean animals; the purpose of keeping offspring alive; the seven-day warning; forty days and nights of rain; Noah's age of 600; household and animal entry; “two and two” as entry grouping; and the arrival of the waters after seven days. The central unresolved issue is whether Hebrew *shiv'ah shiv'ah* means seven individuals or seven pairs. The study preserves both readings, notes the NET alternative and Glenn J. Kerr's argument for seven individuals, and does not treat either as settled. Genesis 8:20 makes sacrifice a plausible reason for additional clean animals but Genesis 7 does not explicitly state that rationale. Biology and hydrology are treated within their evidential limits; no modern species count, rainfall volume, or absolute calendar date is inferred.
+
+**Next passage:** Genesis 7:11–24.  
 **Study remains open.**
