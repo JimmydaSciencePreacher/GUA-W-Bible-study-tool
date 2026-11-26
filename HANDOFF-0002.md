@@ -142,7 +142,7 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 8:20–22 (KJV)**, following the established protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 9:1–7 (KJV)**, following the established protocol and Triple Constraint Law.
 
 The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
@@ -176,5 +176,7 @@ Study 0040 recorded Genesis 8:13–14: in Noah's 601st year, first month, first 
 
 Study 0041 recorded Genesis 8:15–19: God speaks to Noah and commands him and his household to leave the ark; Noah is instructed to bring out the living creatures for abundance, fruitfulness, and multiplication; Noah and the creatures depart. The study examines *dabar*, *yatsa*, *sharats*, *parah*, *rabah*, *min*, and *mishpachah*. It preserves the Hebrew distinction between *mishpachah* (families/clans) in 8:19 and *min* (kind) in 7:14, while noting the KJV rendering “after their kinds.” Creation-language parallels with Genesis 1 and 9 are examined. Population biology and conservation genetics are contextual only; no modern taxonomic mapping, founder number, genetic reconstruction, or ecological timetable is inferred. Unresolved matters include *min*/*mishpachah* correspondence, seven individuals versus seven pairs in 7:2–3, population recovery, and habitat conditions.
 
-**Next passage:** Genesis 8:20–22.  
+Study 0042 recorded Genesis 8:20–22: Noah builds an altar and offers burnt offerings from clean animals and birds; the LORD receives the offering and speaks concerning the ground, human evil from youth, and restraint from another destruction of all living things; the passage declares the continuing cycles of seedtime/harvest, cold/heat, summer/winter, and day/night while the earth remains. The study examines *mizbeach*, *olah*, *reah nichoach*, *adamah*, *yetser*, *ra*, and the paired seasonal/day-night terms. It distinguishes Genesis 8:21's verb for curse from Genesis 3:17, preserves the translation question around “for/because” versus “although/even though,” and does not claim that Noah's offering purchases or causes God's covenant commitment. Scientific context explains axial tilt, rotation, agricultural seasonality, and regional variation without treating the verse as a modern mechanism description. Unresolved matters include the precise scope of the ground statement, the force of “from his youth,” the relationship of Noah's offering to later sacrificial law, and the scope of “while the earth remaineth.”
+
+**Next passage:** Genesis 9:1–7.  
 **Study remains open.**
