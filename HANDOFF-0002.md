@@ -34,7 +34,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 3:6–7** is recorded in STUDIES/0026-GENESIS-3-6-7.md.
 - **Genesis 3:8–13** is recorded in STUDIES/0027-GENESIS-3-8-13.md.
 - **Genesis 3:14–19** is recorded in STUDIES/0028-GENESIS-3-14-19.md.
-- **Next biblical passage:** Genesis 3:20–24. Study 0024 establishes the original Creation presented in Genesis 1–2; the downstream condition is examined as the biblical account proceeds and through relevant evidence when warranted. Do not require Genesis 1–2 to explain what follows.
+- **Genesis 3:20–24** is recorded in STUDIES/0029-GENESIS-3-20-24.md.
+- **Next biblical passage:** Genesis 4:1–7. Study 0024 establishes the original Creation presented in Genesis 1–2; the downstream condition is examined as the biblical account proceeds and through relevant evidence when warranted. Do not require Genesis 1–2 to explain what follows.
 
 ## Governing decision: unified investigation
 
@@ -120,15 +121,20 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 3:6–7 investigated and recorded in STUDIES/0026-GENESIS-3-6-7.md.
 - [x] Genesis 3:8–13 investigated and recorded in STUDIES/0027-GENESIS-3-8-13.md.
 - [x] Genesis 3:14–19 investigated and recorded in STUDIES/0028-GENESIS-3-14-19.md.
-- [ ] Genesis 3:20–24 — next passage in the Bible study.
+- [x] Genesis 3:20–24 investigated and recorded in STUDIES/0029-GENESIS-3-20-24.md.
+- [ ] Genesis 4:1–7 — next passage in the Bible study.
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 3:20–24 (KJV)**, following the established protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 4:1–7 (KJV)**, following the established protocol and Triple Constraint Law.
 
 The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
 Study 0025 recorded Genesis 3:1–5, including the serpent's opening question, the woman's reply, the additional phrase “neither shall ye touch it,” the serpent's direct contradiction of God's stated consequence, and the serpent's claim about God's motive and the promised knowledge. The reason for the woman's additional phrase remains unresolved; do not assume deliberate alteration.
 
-**Next passage:** Genesis 3:14–19.  
+Study 0028 recorded Genesis 3:14–19: declarations concerning the serpent, enmity and seed, the woman's sorrow and relational statement, and Adam's toil, cursed ground, thorns, sweat, and return to dust. Key unresolved matters include the scope of “seed,” “dust shalt thou eat,” the force of *teshuqah*, and how present Creation observations relate without inventing a pre-Fall reconstruction.
+
+Study 0029 recorded Genesis 3:20–24: Adam names Eve; God clothes both with coats of skins; God states the restriction concerning the tree of life; Adam is sent out and driven from Eden; cherubim and a flaming sword guard the way. Key unresolved matters include “as one of us,” the nature of the tree of life and cherubim, and whether the skins have a later canonical connection to sacrifice or atonement. Genesis 3:21 alone does not narrate a sacrifice.
+
+**Next passage:** Genesis 4:1–7.  
 **Study remains open.**
