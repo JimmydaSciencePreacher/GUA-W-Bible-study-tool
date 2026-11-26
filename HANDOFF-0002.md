@@ -142,7 +142,7 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 8:13–14 (KJV)**, following the established protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 8:15–19 (KJV)**, following the established protocol and Triple Constraint Law.
 
 The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
@@ -172,5 +172,7 @@ Study 0038 recorded Genesis 8:1–5: God remembers Noah and the living creatures
 
 Study 0039 recorded Genesis 8:6–12: Noah opens the ark window; sends out a raven that goes to and fro; sends a dove to test whether the waters have abated; the dove first returns without finding a resting place; after seven days it returns with an olive leaf; after another seven days it does not return. The study distinguishes the raven's movement from the dove's stated test, observation from Noah's inference, and evidence of accessible vegetation from complete drying or authorization to leave. It examines Hebrew *challon*, *ʿorev*, *yonah*, *manoach*, *qalal*, and *taraf*; modern bird and olive ecology are used only as context. The Gilgamesh Tablet XI bird-release parallel is noted without claiming direct borrowing. Unresolved matters include window architecture, bird taxonomy and motives, the leaf's source, the final dove's fate, chronology, and literary relationship.
 
-**Next passage:** Genesis 8:13–14.  
+Study 0040 recorded Genesis 8:13–14: in Noah's 601st year, first month, first day, the waters are dried from the earth; Noah removes the ark's covering, looks, and sees the ground's surface dry; on the second month's twenty-seventh day, the earth is declared dry. The study examines *charav*, *yabesh*, *mikseh*, *ha'aretz*, and *ha'adamah*; distinguishes surface observation from the later whole-earth statement; and notes soil drainage, infiltration, evaporation, and retained moisture as relevant scientific context without reconstructing the Flood. Under a thirty-day-month convention, the interval is 56 elapsed days (57 dates inclusive), not 57 elapsed days. Unresolved matters include the covering's architecture, exact environmental/soil conditions, drying mechanisms, calendar assumptions, and the relation between observation and the later command to leave.
+
+**Next passage:** Genesis 8:15–19.  
 **Study remains open.**
