@@ -39,7 +39,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 4:8–16** is recorded in STUDIES/0031-GENESIS-4-8-16.md.
 - **Genesis 4:17–26** is recorded in STUDIES/0032-GENESIS-4-17-26.md.
 - **Genesis 5:1–32** is recorded in STUDIES/0033-GENESIS-5-1-32.md.
-- **Next biblical passage:** Genesis 6:1–8. Study 0024 establishes the original Creation presented in Genesis 1–2; the downstream condition is examined as the biblical account proceeds and through relevant evidence when warranted. Do not require Genesis 1–2 to explain what follows.
+- **Genesis 6:1–8** is recorded in STUDIES/0034-GENESIS-6-1-8.md.
+- **Next biblical passage:** Genesis 6:9–22. Study 0024 establishes the original Creation presented in Genesis 1–2; the downstream condition is examined as the biblical account proceeds and through relevant evidence when warranted. Do not require Genesis 1–2 to explain what follows.
 
 ## Governing decision: unified investigation
 
@@ -130,11 +131,12 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 4:8–16 investigated and recorded in STUDIES/0031-GENESIS-4-8-16.md.
 - [x] Genesis 4:17–26 investigated and recorded in STUDIES/0032-GENESIS-4-17-26.md.
 - [x] Genesis 5:1–32 investigated and recorded in STUDIES/0033-GENESIS-5-1-32.md.
-- [ ] Genesis 6:1–8 — next passage in the Bible study.
+- [x] Genesis 6:1–8 investigated and recorded in STUDIES/0034-GENESIS-6-1-8.md.
+- [ ] Genesis 6:9–22 — next passage in the Bible study.
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 6:1–8 (KJV)**, following the established protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 6:9–22 (KJV)**, following the established protocol and Triple Constraint Law.
 
 The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
@@ -152,5 +154,7 @@ Study 0032 recorded Genesis 4:17–26: Cain's wife, Enoch, and city; Cain's gene
 
 Study 0033 recorded Genesis 5:1–32: the *toledot* of Adam; the return to Creation's image, likeness, male/female, and blessing language; Seth in Adam's likeness and image; the repeated genealogy and death formula; Enoch walking with God and being taken; Methuselah's recorded 969 years; Lamech's naming of Noah and reference to toil on cursed ground; and Noah's three sons. Key unresolved matters include the full dimensions of image/likeness, the extraordinary lifespans, numerical differences among the Masoretic, Septuagint, and Samaritan traditions, the mechanics of Enoch's taking, and the Noah/comfort wordplay. The Noah table was corrected to distinguish his age when the sons are introduced (500) from Shem's approximate birth age (502) inferred from Genesis 11:10 and 7:6. The next study must preserve competing interpretations of the “sons of God” in Genesis 6:1–4.
 
-**Next passage:** Genesis 6:1–8.  
+Study 0034 recorded Genesis 6:1–8: human multiplication; the sons of God and daughters of men; the disputed divine-being, Sethite, and royal-ruler interpretations; the LORD's Spirit and the rare verb *yadon*; the two principal readings of 120 years; the Nephilim and the disputed syntax of their relation to the offspring; the great wickedness of humanity; divine grief expressed with *nacham*; announced judgment; and Noah finding grace. Key unresolved matters include the identity of the sons of God, the exact nature of the unions, the meaning of *yadon*, the referent of 120 years, the meaning and identity of the Nephilim, their relation to the offspring and Numbers 13:33, and how divine grief relates to other canonical statements about God's faithfulness. The study preserves the distinction between explicit text and interpretation and makes no scientific identification of the supernatural figures.
+
+**Next passage:** Genesis 6:9–22.  
 **Study remains open.**
