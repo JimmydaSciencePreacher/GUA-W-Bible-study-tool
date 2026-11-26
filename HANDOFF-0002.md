@@ -27,7 +27,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 1:29–31** is recorded in STUDIES/0018-GENESIS-1-29-31.md.
 - **Genesis 2:1–3** is recorded in STUDIES/0019-GENESIS-2-1-3.md.
 - **Genesis 2:4–7** is recorded in STUDIES/0020-GENESIS-2-4-7.md.
-- **Next passage: Genesis 2:8–14 (KJV).**
+- **Genesis 2:8–14** is recorded in STUDIES/0021-GENESIS-2-8-14.md.
+- **Next passage: Genesis 2:15–17 (KJV).**
 
 ## Governing decision: unified investigation
 
@@ -105,9 +106,10 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 1:29–31 investigated and recorded.
 - [x] Genesis 2:1–3 investigated and recorded.
 - [x] Genesis 2:4–7 investigated and recorded.
+- [x] Genesis 2:8–14 investigated and recorded.
 
 ## Next session instruction
 
-Resume at **Genesis 2:8–14 (KJV)**. Investigate the LORD God's planting of the Garden eastward in Eden and placing the formed man there (2:8); the trees God caused to grow, including the tree of life and the tree of the knowledge of good and evil (2:9); and the river that waters the Garden and divides into four heads (2:10–14). Examine the names and descriptions of Pison, Gihon, Hiddekel, and Euphrates, and the resources of Havilah including gold, bdellium, and onyx stone. Distinguish the biblical descriptions from modern geographic identifications; do not claim Eden's location without adequate evidence. Investigate plant growth, river systems, watersheds, sediment, minerals, and landscape formation as Creation observations. Preserve Author → Word → Creation → Witness and apply the Triple Constraint Law.
+Resume at **Genesis 2:15–17 (KJV)**. Investigate the LORD God taking the man and putting him into the Garden of Eden to dress and keep it (2:15); God's command concerning the trees (2:16); the prohibition concerning the tree of the knowledge of good and evil (2:17); and the stated consequence, “thou shalt surely die.” Examine *laqach*, *nuach*, *avad*, *shamar*, *tsavah*, *akol*, *mot tamut*, and the syntax of the command. Distinguish provision, vocation, permission, prohibition, and consequence. Investigate cultivation, stewardship, ecological care, and the difference between a boundary and a mechanism as Creation and ethical observations. Do not reduce the command or death to a purely biological model. Preserve Author → Word → Creation → Witness and apply the Triple Constraint Law.
 
 **Study remains open.**
