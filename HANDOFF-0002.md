@@ -142,7 +142,7 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 8:6–12 (KJV)**, following the established protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 8:13–14 (KJV)**, following the established protocol and Triple Constraint Law.
 
 The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
@@ -170,5 +170,7 @@ Study 0037 recorded Genesis 7:11–24: Noah's age and the KJV date (second month
 
 Study 0038 recorded Genesis 8:1–5: God remembers Noah and the living creatures; God causes a wind to pass over the earth; the waters subside; the fountains of the deep and windows of heaven are stopped and rain restrained; the waters recede and are abated after 150 days; the ark rests on the mountains of Ararat; and mountain tops become visible. The study distinguishes remembrance from forgetfulness, wind from an unspecified physical mechanism, abatement from complete drying, and Ararat as a regional designation from a specific modern summit. It preserves the Masoretic/KJV seventeenth-day reading versus the principal Septuagint/Vulgate twenty-seventh-day reading in 8:4, and the Masoretic/KJV tenth-month reading versus the principal Septuagint eleventh-month reading in 8:5. Hydrology is examined as relevant physical context, not as a reconstruction of the Flood. Unresolved matters include the wind's role, the pathways of receding water, textual chronology, and the precise Ararat location.
 
-**Next passage:** Genesis 8:6–12.  
+Study 0039 recorded Genesis 8:6–12: Noah opens the ark window; sends out a raven that goes to and fro; sends a dove to test whether the waters have abated; the dove first returns without finding a resting place; after seven days it returns with an olive leaf; after another seven days it does not return. The study distinguishes the raven's movement from the dove's stated test, observation from Noah's inference, and evidence of accessible vegetation from complete drying or authorization to leave. It examines Hebrew *challon*, *ʿorev*, *yonah*, *manoach*, *qalal*, and *taraf*; modern bird and olive ecology are used only as context. The Gilgamesh Tablet XI bird-release parallel is noted without claiming direct borrowing. Unresolved matters include window architecture, bird taxonomy and motives, the leaf's source, the final dove's fate, chronology, and literary relationship.
+
+**Next passage:** Genesis 8:13–14.  
 **Study remains open.**
