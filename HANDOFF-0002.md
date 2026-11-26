@@ -31,7 +31,8 @@ This handoff records the current position, governing decision, repository workfl
 - **Genesis 2:15–17** is recorded in STUDIES/0022-GENESIS-2-15-17.md.
 - **Genesis 2:18–25** is recorded in STUDIES/0023-GENESIS-2-18-25.md.
 - **The Perfect Garden State — Genesis 1–2** is recorded in STUDIES/0024-PERFECT-GARDEN-STATE.md.
-- **Next biblical passage:** Genesis 3:6–7. Study 0024 establishes the original Creation presented in Genesis 1–2; the downstream condition is examined as the biblical account proceeds and through relevant evidence when warranted. Do not require Genesis 1–2 to explain what follows.
+- **Genesis 3:6–7** is recorded in STUDIES/0026-GENESIS-3-6-7.md.
+- **Next biblical passage:** Genesis 3:8–13. Study 0024 establishes the original Creation presented in Genesis 1–2; the downstream condition is examined as the biblical account proceeds and through relevant evidence when warranted. Do not require Genesis 1–2 to explain what follows.
 
 ## Governing decision: unified investigation
 
@@ -114,11 +115,12 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 2:18–25 investigated and recorded in STUDIES/0023-GENESIS-2-18-25.md.
 - [x] The Perfect Garden State — Genesis 1–2 synthesis recorded in STUDIES/0024-PERFECT-GARDEN-STATE.md.
 - [x] Genesis 3:1–5 investigated and recorded in STUDIES/0025-GENESIS-3-1-5.md.
-- [ ] Genesis 3:6–7 — next passage in the Bible study.
+- [x] Genesis 3:6–7 investigated and recorded in STUDIES/0026-GENESIS-3-6-7.md.
+- [ ] Genesis 3:8–13 — next passage in the Bible study.
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 3:6–7 (KJV)**, following the established protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 3:8–13 (KJV)**, following the established protocol and Triple Constraint Law.
 
 The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
