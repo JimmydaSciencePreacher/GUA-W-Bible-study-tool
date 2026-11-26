@@ -138,11 +138,11 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 - [x] Genesis 6:9–22 investigated and recorded in STUDIES/0035-GENESIS-6-9-22.md.
 - [x] Genesis 7:1–10 investigated and recorded in STUDIES/0036-GENESIS-7-1-10.md.
 - [x] Genesis 7:11–24 investigated and recorded in STUDIES/0037-GENESIS-7-11-24.md.
-- [ ] Genesis 8:1–5 — next passage in the Bible study.
+- [x] Genesis 8:1–5 investigated and recorded in STUDIES/0038-GENESIS-8-1-5.md.
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 8:1–5 (KJV)**, following the established protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 8:6–12 (KJV)**, following the established protocol and Triple Constraint Law.
 
 The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
@@ -168,5 +168,7 @@ Study 0036 recorded Genesis 7:1–10: the LORD's command for Noah and his househ
 
 Study 0037 recorded Genesis 7:11–24: Noah's age and the KJV date (second month, seventeenth day); the textual variant in some Septuagint witnesses reading twenty-seventh day; the fountains of the great deep and windows of heaven; forty days and nights of rain; same-day entry; the LORD shutting Noah in; rising waters lifting the ark; the high hills covered; fifteen cubits upward; death of life on dry land; preservation of Noah and those with him; and 150 days of prevailing waters. The study connects *tehom* with Genesis 1:2 and the opening of Genesis 7:11 with the stopping of the fountains and windows in Genesis 8:2. It distinguishes textual claims from proposed mechanisms. Hydrogeology, buoyancy, and documented regional megafloods are investigated within limits; none is treated as proof of the Noahic Flood. Unresolved matters include the fountains' physical mechanism, the windows' referent, the date/calendar questions, the fifteen-cubit reference point, geographic scope, and geological correlation.
 
-**Next passage:** Genesis 8:1–5.  
+Study 0038 recorded Genesis 8:1–5: God remembers Noah and the living creatures; God causes a wind to pass over the earth; the waters subside; the fountains of the deep and windows of heaven are stopped and rain restrained; the waters recede and are abated after 150 days; the ark rests on the mountains of Ararat; and mountain tops become visible. The study distinguishes remembrance from forgetfulness, wind from an unspecified physical mechanism, abatement from complete drying, and Ararat as a regional designation from a specific modern summit. It preserves the Masoretic/KJV seventeenth-day reading versus the principal Septuagint/Vulgate twenty-seventh-day reading in 8:4, and the Masoretic/KJV tenth-month reading versus the principal Septuagint eleventh-month reading in 8:5. Hydrology is examined as relevant physical context, not as a reconstruction of the Flood. Unresolved matters include the wind's role, the pathways of receding water, textual chronology, and the precise Ararat location.
+
+**Next passage:** Genesis 8:6–12.  
 **Study remains open.**
