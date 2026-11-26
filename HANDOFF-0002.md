@@ -142,7 +142,7 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 11:10–26 (KJV)**, following the established protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 11:27–32 (KJV)**, following the established protocol and Triple Constraint Law.
 
 The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
@@ -188,5 +188,7 @@ Study 0046 recorded Genesis 10:1–32: the descendants of Japheth, Ham, and Shem
 
 Study 0047 recorded Genesis 11:1–9: humanity shares one language and speech, settles in Shinar, manufactures fired brick and uses bitumen, plans a city and tower, seeks to make a name and avoid dispersion, and experiences divine intervention that confounds speech and results in dispersion and cessation of construction. The study examines *saphah*, *devarim*, *biq'ah*, *levenah*, *chemar*, *shem*, *puts*, and *balal*. It compares the stated resistance to dispersion with Genesis 9:1, 7, and the self-made name with God's promise to Abram in Genesis 12:2. It distinguishes construction technology and linguistic comparative methods from claims that archaeology or science proves the Babel event. GUA-W applications include capability versus authority, unity versus alignment, and integration versus centralization; no new architecture is introduced. Unresolved matters include the tower's precise function and identification, the linguistic mechanism and scope, the plural expression in verse 7, chronology with Genesis 10, the Babel/Babylon etymological relationship, and the Babel/Abram literary connection.
 
-**Next passage:** Genesis 11:10–26.  
+Study 0048 recorded Genesis 11:10–26: Shem's selected line proceeds through Arphaxad, Salah, Eber, Peleg, Reu, Serug, Nahor, and Terah, whose named sons are Abram, Nahor, and Haran. The study examines the *toledot* structure, the repeated age/begetting/remaining-years formula, and the distinction between a selected genealogy and a complete population register. It records the KJV/MT reading without Cainan and compares the LXX Cainan variant also reflected in Luke 3:36, as well as numerical differences among MT, SP, and LXX. The Terah/Abram chronology is kept unresolved: Genesis 11:26 does not explicitly establish Abram's birth order, and Genesis 11:32, 12:4, Acts 7:2–4, and the SP variant require joint examination. Scientific limits are stated: modern genetics and demography cannot identify the patriarchs or verify the recorded ages from this passage. No new GUA-W architecture is proposed.
+
+**Next passage:** Genesis 11:27–32.  
 **Study remains open.**
