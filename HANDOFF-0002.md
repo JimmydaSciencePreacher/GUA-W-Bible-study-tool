@@ -142,7 +142,7 @@ The changes preserve the distinction between Scripture and scientific evidence, 
 
 ## Next session instruction
 
-Continue the Bible study with **Genesis 9:18–29 (KJV)**, following the established protocol and Triple Constraint Law.
+Continue the Bible study with **Genesis 10:1–32 (KJV)**, following the established protocol and Triple Constraint Law.
 
 The unified-Creation foundation remains concise context: One Author, One Creation, Many Witnesses. The Bible remains the primary text. Investigate Creation scientifically only when it directly helps answer a question raised by the passage. Do not create a separate science-history study or add an artificial review gate.
 
@@ -182,5 +182,7 @@ Study 0043 recorded Genesis 9:1–7: God blesses Noah and his sons, commands fru
 
 Study 0044 recorded Genesis 9:8–17: God speaks to Noah and his sons, establishes His covenant with Noah and his descendants, includes every living creature and the earth in its stated scope, promises that another flood will not destroy all flesh, appoints the bow in the cloud as the covenant token, and declares His remembrance. The study examines *berit*, *qum*, *zera*, *nephesh chayyah*, *'ot*, *qeshet*, and *zakar*. It distinguishes God's appointment of the bow as covenant sign from the physical optics of rainbows, and divine covenant remembrance from human forgetfulness. Scientific context describes refraction, dispersion, and internal reflection without claiming optics establishes when rainbows first appeared. Unresolved matters include pre-Flood rainbow history, the precise force of “I do set my bow,” the symbolism of *qeshet*, the scope of “between me and the earth,” and relationships to later covenants.
 
-**Next passage:** Genesis 9:18–29.  
+Study 0045 recorded Genesis 9:18–29: Noah's sons are identified, Noah plants a vineyard, becomes drunk, and is uncovered; Ham sees and reports his father's nakedness; Shem and Japheth cover Noah without looking; Noah awakens, identifies an act by his younger son, pronounces words concerning Canaan, Shem, and Japheth, and later dies. The study examines *ish ha'adamah*, *kerem*, *yayin*, *shakar*, *galah*, *ervah*, *ra'ah*, *nagad*, *asah*, *arar*, and *ebed avadim*. It distinguishes the explicit text from competing interpretations of the offense, including the proposal that Canaan rather than Ham is the younger offender; that proposal is not treated as consensus. It rejects using the curse as a racial doctrine or authorization for slavery, distinguishes Noah's speech from God's covenant, and gives scientific context for grape growth, fermentation, and ethanol without reconstructing Noah's medical state. Unresolved matters include the younger son's identity and conduct, why Canaan is cursed, Japheth's enlargement and dwelling in Shem's tents, and the possible Genesis 3 nakedness/covering connection.
+
+**Next passage:** Genesis 10:1–32.  
 **Study remains open.**
